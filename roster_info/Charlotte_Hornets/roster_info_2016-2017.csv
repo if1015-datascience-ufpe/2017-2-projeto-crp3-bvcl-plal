@@ -1,20 +1,20 @@
-,name,height,weight,bday,exp,college
-0,Nicolas Batum,6-8,200,"December 14, 1988",8,
-1,Marco Belinelli,6-5,210,"March 25, 1986",9,
-2,Treveon Graham,6-6,220,"October 29, 1993",0,Virginia Commonwealth University
-3,Aaron Harrison,6-6,210,"October 28, 1994",1,University of Kentucky
-4,Spencer Hawes,7-1,245,"April 28, 1988",9,University of Washington
-5,Roy Hibbert,7-2,270,"December 11, 1986",8,Georgetown University
-6,Frank Kaminsky,7-0,242,"April 4, 1993",1,University of Wisconsin
-7,Michael Kidd-Gilchrist,6-7,232,"September 26, 1993",4,University of Kentucky
-8,Jeremy Lamb,6-5,185,"May 30, 1992",4,University of Connecticut
-9,Johnny O'Bryant,6-9,257,"June 1, 1993",2,Louisiana State University
-10,Miles Plumlee,6-11,249,"September 1, 1988",4,Duke University
-11,Brian Roberts,6-1,173,"December 3, 1985",4,University of Dayton
-12,Ramon Sessions,6-3,190,"April 11, 1986",9,"University of Nevada, Reno"
-13,Mike Tobey,7-0,260,"October 10, 1994",0,University of Virginia
-14,Kemba Walker,6-1,172,"May 8, 1990",5,University of Connecticut
-15,Briante Weber,6-2,165,"December 29, 1992",1,Virginia Commonwealth University
-16,Marvin Williams,6-9,237,"June 19, 1986",11,University of North Carolina
-17,Christian Wood,6-11,220,"September 27, 1995",1,"University of Nevada, Las Vegas"
-18,Cody Zeller,7-0,240,"October 5, 1992",3,Indiana University
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Charlotte Hornets,Nicolas Batum,6-8,200,"December 14, 1988",8,
+1,Charlotte Hornets,Marco Belinelli,6-5,210,"March 25, 1986",9,
+2,Charlotte Hornets,Treveon Graham,6-6,220,"October 29, 1993",0,Virginia Commonwealth University
+3,Charlotte Hornets,Aaron Harrison,6-6,210,"October 28, 1994",1,University of Kentucky
+4,Charlotte Hornets,Spencer Hawes,7-1,245,"April 28, 1988",9,University of Washington
+5,Charlotte Hornets,Roy Hibbert,7-2,270,"December 11, 1986",8,Georgetown University
+6,Charlotte Hornets,Frank Kaminsky,7-0,242,"April 4, 1993",1,University of Wisconsin
+7,Charlotte Hornets,Michael Kidd-Gilchrist,6-7,232,"September 26, 1993",4,University of Kentucky
+8,Charlotte Hornets,Jeremy Lamb,6-5,185,"May 30, 1992",4,University of Connecticut
+9,Charlotte Hornets,Johnny O'Bryant,6-9,257,"June 1, 1993",2,Louisiana State University
+10,Charlotte Hornets,Miles Plumlee,6-11,249,"September 1, 1988",4,Duke University
+11,Charlotte Hornets,Brian Roberts,6-1,173,"December 3, 1985",4,University of Dayton
+12,Charlotte Hornets,Ramon Sessions,6-3,190,"April 11, 1986",9,"University of Nevada, Reno"
+13,Charlotte Hornets,Mike Tobey,7-0,260,"October 10, 1994",0,University of Virginia
+14,Charlotte Hornets,Kemba Walker,6-1,172,"May 8, 1990",5,University of Connecticut
+15,Charlotte Hornets,Briante Weber,6-2,165,"December 29, 1992",1,Virginia Commonwealth University
+16,Charlotte Hornets,Marvin Williams,6-9,237,"June 19, 1986",11,University of North Carolina
+17,Charlotte Hornets,Christian Wood,6-11,220,"September 27, 1995",1,"University of Nevada, Las Vegas"
+18,Charlotte Hornets,Cody Zeller,7-0,240,"October 5, 1992",3,Indiana University

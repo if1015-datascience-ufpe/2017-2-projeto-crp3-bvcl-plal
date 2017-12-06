@@ -1,21 +1,21 @@
-,name,height,weight,bday,exp,college
-0,Trevor Ariza,6-8,215,"June 30, 1985",10,"University of California, Los Angeles"
-1,Patrick Beverley,6-1,185,"July 12, 1988",2,University of Arkansas
-2,Tarik Black,6-9,250,"November 22, 1991",0,University of Kansas
-3,Corey Brewer,6-9,186,"March 5, 1986",7,University of Florida
-4,Isaiah Canaan,6-0,201,"May 21, 1991",1,Murray State University
-5,Clint Capela,6-10,240,"May 18, 1994",0,
-6,Troy Daniels,6-4,205,"July 15, 1991",1,Virginia Commonwealth University
-7,Joey Dorsey,6-8,268,"December 16, 1983",3,University of Memphis
-8,Francisco Garcia,6-7,195,"December 31, 1981",9,University of Louisville
-9,James Harden,6-5,220,"August 26, 1989",5,Arizona State University
-10,Dwight Howard,6-11,265,"December 8, 1985",10,
-11,Nick Johnson,6-3,202,"December 22, 1992",0,University of Arizona
-12,Terrence Jones,6-9,252,"January 9, 1992",2,University of Kentucky
-13,K.J. McDaniels,6-6,205,"February 9, 1993",0,Clemson University
-14,Donatas Motiejunas,7-0,222,"September 20, 1990",2,
-15,Kostas Papanikolaou,6-8,225,"July 31, 1990",0,
-16,Pablo Prigioni,6-3,185,"May 17, 1977",2,
-17,Alexey Shved,6-6,190,"December 16, 1988",2,
-18,Josh Smith,6-9,225,"December 5, 1985",10,
-19,Jason Terry,6-2,185,"September 15, 1977",15,University of Arizona
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Houston Rockets,Trevor Ariza,6-8,215,"June 30, 1985",10,"University of California, Los Angeles"
+1,Houston Rockets,Patrick Beverley,6-1,185,"July 12, 1988",2,University of Arkansas
+2,Houston Rockets,Tarik Black,6-9,250,"November 22, 1991",0,University of Kansas
+3,Houston Rockets,Corey Brewer,6-9,186,"March 5, 1986",7,University of Florida
+4,Houston Rockets,Isaiah Canaan,6-0,201,"May 21, 1991",1,Murray State University
+5,Houston Rockets,Clint Capela,6-10,240,"May 18, 1994",0,
+6,Houston Rockets,Troy Daniels,6-4,205,"July 15, 1991",1,Virginia Commonwealth University
+7,Houston Rockets,Joey Dorsey,6-8,268,"December 16, 1983",3,University of Memphis
+8,Houston Rockets,Francisco Garcia,6-7,195,"December 31, 1981",9,University of Louisville
+9,Houston Rockets,James Harden,6-5,220,"August 26, 1989",5,Arizona State University
+10,Houston Rockets,Dwight Howard,6-11,265,"December 8, 1985",10,
+11,Houston Rockets,Nick Johnson,6-3,202,"December 22, 1992",0,University of Arizona
+12,Houston Rockets,Terrence Jones,6-9,252,"January 9, 1992",2,University of Kentucky
+13,Houston Rockets,K.J. McDaniels,6-6,205,"February 9, 1993",0,Clemson University
+14,Houston Rockets,Donatas Motiejunas,7-0,222,"September 20, 1990",2,
+15,Houston Rockets,Kostas Papanikolaou,6-8,225,"July 31, 1990",0,
+16,Houston Rockets,Pablo Prigioni,6-3,185,"May 17, 1977",2,
+17,Houston Rockets,Alexey Shved,6-6,190,"December 16, 1988",2,
+18,Houston Rockets,Josh Smith,6-9,225,"December 5, 1985",10,
+19,Houston Rockets,Jason Terry,6-2,185,"September 15, 1977",15,University of Arizona

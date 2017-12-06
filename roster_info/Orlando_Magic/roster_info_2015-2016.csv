@@ -1,18 +1,18 @@
-,name,height,weight,bday,exp,college
-0,Keith Appling,6-1,185,"February 13, 1992",0,Michigan State University
-1,Dewayne Dedmon,7-0,245,"August 12, 1989",2,University of Southern California
-2,Evan Fournier,6-7,205,"October 29, 1992",3,
-3,Channing Frye,6-11,255,"May 17, 1983",9,University of Arizona
-4,Aaron Gordon,6-9,220,"September 16, 1995",1,University of Arizona
-5,Tobias Harris,6-9,235,"July 15, 1992",4,University of Tennessee
-6,Mario Hezonja,6-8,215,"February 25, 1995",0,
-7,Ersan Ilyasova,6-10,235,"May 15, 1987",7,
-8,Brandon Jennings,6-1,170,"September 23, 1989",6,
-9,Devyn Marble,6-6,200,"September 21, 1992",1,University of Iowa
-10,Shabazz Napier,6-1,175,"July 14, 1991",1,University of Connecticut
-11,Andrew Nicholson,6-9,250,"December 8, 1989",3,St. Bonaventure University
-12,Victor Oladipo,6-4,210,"May 4, 1992",2,Indiana University
-13,Elfrid Payton,6-4,185,"February 22, 1994",1,University of Louisiana at Lafayette
-14,Jason Smith,7-0,245,"March 2, 1986",7,Colorado State University
-15,Nikola Vucevic,7-0,260,"October 24, 1990",4,University of Southern California
-16,C.J. Watson,6-2,175,"April 17, 1984",8,University of Tennessee
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Orlando Magic,Keith Appling,6-1,185,"February 13, 1992",0,Michigan State University
+1,Orlando Magic,Dewayne Dedmon,7-0,245,"August 12, 1989",2,University of Southern California
+2,Orlando Magic,Evan Fournier,6-7,205,"October 29, 1992",3,
+3,Orlando Magic,Channing Frye,6-11,255,"May 17, 1983",9,University of Arizona
+4,Orlando Magic,Aaron Gordon,6-9,220,"September 16, 1995",1,University of Arizona
+5,Orlando Magic,Tobias Harris,6-9,235,"July 15, 1992",4,University of Tennessee
+6,Orlando Magic,Mario Hezonja,6-8,215,"February 25, 1995",0,
+7,Orlando Magic,Ersan Ilyasova,6-10,235,"May 15, 1987",7,
+8,Orlando Magic,Brandon Jennings,6-1,170,"September 23, 1989",6,
+9,Orlando Magic,Devyn Marble,6-6,200,"September 21, 1992",1,University of Iowa
+10,Orlando Magic,Shabazz Napier,6-1,175,"July 14, 1991",1,University of Connecticut
+11,Orlando Magic,Andrew Nicholson,6-9,250,"December 8, 1989",3,St. Bonaventure University
+12,Orlando Magic,Victor Oladipo,6-4,210,"May 4, 1992",2,Indiana University
+13,Orlando Magic,Elfrid Payton,6-4,185,"February 22, 1994",1,University of Louisiana at Lafayette
+14,Orlando Magic,Jason Smith,7-0,245,"March 2, 1986",7,Colorado State University
+15,Orlando Magic,Nikola Vucevic,7-0,260,"October 24, 1990",4,University of Southern California
+16,Orlando Magic,C.J. Watson,6-2,175,"April 17, 1984",8,University of Tennessee

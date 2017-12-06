@@ -1,18 +1,18 @@
-,name,height,weight,bday,exp,college
-0,Willie Cauley-Stein,7-0,240,"August 18, 1993",2,University of Kentucky
-1,Kosta Koufos,7-0,265,"February 24, 1989",9,Ohio State University
-2,Garrett Temple,6-6,195,"May 8, 1986",7,Louisiana State University
-3,Georgios Papagiannis,7-1,240,"July 3, 1997",1,
-4,Malachi Richardson,6-6,205,"January 5, 1996",1,Syracuse University
-5,Skal Labissiere,6-11,225,"March 18, 1996",1,University of Kentucky
-6,Buddy Hield,6-4,214,"December 17, 1993",1,University of Oklahoma
-7,Harry Giles,6-10,240,"April 22, 1998",0,Duke University
-8,Justin Jackson,6-8,200,"March 28, 1995",0,University of North Carolina
-9,Vince Carter,6-6,220,"January 26, 1977",19,University of North Carolina
-10,Zach Randolph,6-9,260,"July 16, 1981",16,Michigan State University
-11,George Hill,6-3,188,"May 4, 1986",9,Indiana University-Purdue University Indianapolis
-12,De'Aaron Fox,6-3,170,"December 20, 1997",0,University of Kentucky
-13,Bogdan Bogdanovic,6-6,205,"August 18, 1992",0,
-14,Frank Mason III,6-0,189,"April 3, 1994",0,University of Kansas
-15,Jack Cooley  (TW),6-9,260,"April 4, 1991",1,University of Notre Dame
-16,JaKarr Sampson  (TW),6-9,214,"March 20, 1993",2,St. John's University
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Sacramento Kings,Willie Cauley-Stein,7-0,240,"August 18, 1993",2,University of Kentucky
+1,Sacramento Kings,Kosta Koufos,7-0,265,"February 24, 1989",9,Ohio State University
+2,Sacramento Kings,Garrett Temple,6-6,195,"May 8, 1986",7,Louisiana State University
+3,Sacramento Kings,Georgios Papagiannis,7-1,240,"July 3, 1997",1,
+4,Sacramento Kings,Malachi Richardson,6-6,205,"January 5, 1996",1,Syracuse University
+5,Sacramento Kings,Skal Labissiere,6-11,225,"March 18, 1996",1,University of Kentucky
+6,Sacramento Kings,Buddy Hield,6-4,214,"December 17, 1993",1,University of Oklahoma
+7,Sacramento Kings,Harry Giles,6-10,240,"April 22, 1998",0,Duke University
+8,Sacramento Kings,Justin Jackson,6-8,200,"March 28, 1995",0,University of North Carolina
+9,Sacramento Kings,Vince Carter,6-6,220,"January 26, 1977",19,University of North Carolina
+10,Sacramento Kings,Zach Randolph,6-9,260,"July 16, 1981",16,Michigan State University
+11,Sacramento Kings,George Hill,6-3,188,"May 4, 1986",9,Indiana University-Purdue University Indianapolis
+12,Sacramento Kings,De'Aaron Fox,6-3,170,"December 20, 1997",0,University of Kentucky
+13,Sacramento Kings,Bogdan Bogdanovic,6-6,205,"August 18, 1992",0,
+14,Sacramento Kings,Frank Mason III,6-0,189,"April 3, 1994",0,University of Kansas
+15,Sacramento Kings,Jack Cooley  (TW),6-9,260,"April 4, 1991",1,University of Notre Dame
+16,Sacramento Kings,JaKarr Sampson  (TW),6-9,214,"March 20, 1993",2,St. John's University

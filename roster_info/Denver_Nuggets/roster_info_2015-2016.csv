@@ -1,20 +1,20 @@
-,name,height,weight,bday,exp,college
-0,Darrell Arthur,6-9,235,"March 25, 1988",6,University of Kansas
-1,D.J. Augustin,6-0,183,"November 10, 1987",7,University of Texas at Austin
-2,Will Barton,6-6,175,"January 6, 1991",3,University of Memphis
-3,Kenneth Faried,6-8,228,"November 19, 1989",4,Morehead State University
-4,Randy Foye,6-4,213,"September 24, 1983",9,Villanova University
-5,Danilo Gallinari,6-10,225,"August 8, 1988",6,
-6,Erick Green,6-4,185,"May 9, 1991",1,Virginia Polytechnic Institute and State University
-7,Gary Harris,6-4,210,"September 14, 1994",1,Michigan State University
-8,J.J. Hickson,6-9,242,"September 4, 1988",7,North Carolina State University
-9,Nikola Jokic,6-10,250,"February 19, 1995",0,
-10,Sean Kilpatrick,6-4,210,"January 6, 1990",1,University of Cincinnati
-11,Joffrey Lauvergne,6-11,220,"September 30, 1991",1,
-12,Mike Miller,6-8,218,"February 19, 1980",15,University of Florida
-13,Emmanuel Mudiay,6-5,200,"March 5, 1996",0,
-14,Jameer Nelson,6-0,190,"February 9, 1982",11,Saint Joseph's University
-15,Jusuf Nurkic,7-0,280,"August 23, 1994",1,
-16,Kostas Papanikolaou,6-8,225,"July 31, 1990",1,
-17,JaKarr Sampson,6-9,214,"March 20, 1993",1,St. John's University
-18,Axel Toupane,6-7,197,"July 23, 1992",0,
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Denver Nuggets,Darrell Arthur,6-9,235,"March 25, 1988",6,University of Kansas
+1,Denver Nuggets,D.J. Augustin,6-0,183,"November 10, 1987",7,University of Texas at Austin
+2,Denver Nuggets,Will Barton,6-6,175,"January 6, 1991",3,University of Memphis
+3,Denver Nuggets,Kenneth Faried,6-8,228,"November 19, 1989",4,Morehead State University
+4,Denver Nuggets,Randy Foye,6-4,213,"September 24, 1983",9,Villanova University
+5,Denver Nuggets,Danilo Gallinari,6-10,225,"August 8, 1988",6,
+6,Denver Nuggets,Erick Green,6-4,185,"May 9, 1991",1,Virginia Polytechnic Institute and State University
+7,Denver Nuggets,Gary Harris,6-4,210,"September 14, 1994",1,Michigan State University
+8,Denver Nuggets,J.J. Hickson,6-9,242,"September 4, 1988",7,North Carolina State University
+9,Denver Nuggets,Nikola Jokic,6-10,250,"February 19, 1995",0,
+10,Denver Nuggets,Sean Kilpatrick,6-4,210,"January 6, 1990",1,University of Cincinnati
+11,Denver Nuggets,Joffrey Lauvergne,6-11,220,"September 30, 1991",1,
+12,Denver Nuggets,Mike Miller,6-8,218,"February 19, 1980",15,University of Florida
+13,Denver Nuggets,Emmanuel Mudiay,6-5,200,"March 5, 1996",0,
+14,Denver Nuggets,Jameer Nelson,6-0,190,"February 9, 1982",11,Saint Joseph's University
+15,Denver Nuggets,Jusuf Nurkic,7-0,280,"August 23, 1994",1,
+16,Denver Nuggets,Kostas Papanikolaou,6-8,225,"July 31, 1990",1,
+17,Denver Nuggets,JaKarr Sampson,6-9,214,"March 20, 1993",1,St. John's University
+18,Denver Nuggets,Axel Toupane,6-7,197,"July 23, 1992",0,

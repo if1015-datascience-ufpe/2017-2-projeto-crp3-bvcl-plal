@@ -1,19 +1,19 @@
-,name,height,weight,bday,exp,college
-0,Leandro Barbosa,6-3,194,"November 28, 1982",13,
-1,Dragan Bender,7-1,225,"November 17, 1997",0,
-2,Eric Bledsoe,6-1,205,"December 9, 1989",6,University of Kentucky
-3,Devin Booker,6-6,206,"October 30, 1996",1,University of Kentucky
-4,Tyson Chandler,7-1,240,"October 2, 1982",15,
-5,Marquese Chriss,6-10,233,"July 2, 1997",0,University of Washington
-6,Jared Dudley,6-7,225,"July 10, 1985",9,Boston College
-7,Jarell Eddie,6-7,218,"October 30, 1991",1,Virginia Polytechnic Institute and State University
-8,John Jenkins,6-4,215,"March 6, 1991",4,Vanderbilt University
-9,Derrick Jones,6-7,190,"February 15, 1997",0,"University of Nevada, Las Vegas"
-10,Brandon Knight,6-3,189,"December 2, 1991",5,University of Kentucky
-11,Alex Len,7-1,260,"June 16, 1993",3,University of Maryland
-12,Elijah Millsap,6-6,225,"August 12, 1987",2,University of Alabama at Birmingham
-13,Ronnie Price,6-2,190,"June 21, 1983",11,Utah Valley State College
-14,P.J. Tucker,6-6,245,"May 5, 1985",5,University of Texas at Austin
-15,Tyler Ulis,5-10,150,"January 5, 1996",0,University of Kentucky
-16,T.J. Warren,6-8,230,"September 5, 1993",2,North Carolina State University
-17,Alan Williams,6-8,260,"January 28, 1993",1,"University of California, Santa Barbara"
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Phoenix Suns,Leandro Barbosa,6-3,194,"November 28, 1982",13,
+1,Phoenix Suns,Dragan Bender,7-1,225,"November 17, 1997",0,
+2,Phoenix Suns,Eric Bledsoe,6-1,205,"December 9, 1989",6,University of Kentucky
+3,Phoenix Suns,Devin Booker,6-6,206,"October 30, 1996",1,University of Kentucky
+4,Phoenix Suns,Tyson Chandler,7-1,240,"October 2, 1982",15,
+5,Phoenix Suns,Marquese Chriss,6-10,233,"July 2, 1997",0,University of Washington
+6,Phoenix Suns,Jared Dudley,6-7,225,"July 10, 1985",9,Boston College
+7,Phoenix Suns,Jarell Eddie,6-7,218,"October 30, 1991",1,Virginia Polytechnic Institute and State University
+8,Phoenix Suns,John Jenkins,6-4,215,"March 6, 1991",4,Vanderbilt University
+9,Phoenix Suns,Derrick Jones,6-7,190,"February 15, 1997",0,"University of Nevada, Las Vegas"
+10,Phoenix Suns,Brandon Knight,6-3,189,"December 2, 1991",5,University of Kentucky
+11,Phoenix Suns,Alex Len,7-1,260,"June 16, 1993",3,University of Maryland
+12,Phoenix Suns,Elijah Millsap,6-6,225,"August 12, 1987",2,University of Alabama at Birmingham
+13,Phoenix Suns,Ronnie Price,6-2,190,"June 21, 1983",11,Utah Valley State College
+14,Phoenix Suns,P.J. Tucker,6-6,245,"May 5, 1985",5,University of Texas at Austin
+15,Phoenix Suns,Tyler Ulis,5-10,150,"January 5, 1996",0,University of Kentucky
+16,Phoenix Suns,T.J. Warren,6-8,230,"September 5, 1993",2,North Carolina State University
+17,Phoenix Suns,Alan Williams,6-8,260,"January 28, 1993",1,"University of California, Santa Barbara"

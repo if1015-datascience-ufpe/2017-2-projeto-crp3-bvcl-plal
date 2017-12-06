@@ -1,17 +1,17 @@
-,name,height,weight,bday,exp,college
-0,James Harden,6-5,220,"August 26, 1989",8,Arizona State University
-1,Trevor Ariza,6-8,215,"June 30, 1985",13,"University of California, Los Angeles"
-2,Chris Paul,6-0,175,"May 6, 1985",12,Wake Forest University
-3,Clint Capela,6-10,240,"May 18, 1994",3,
-4,Ryan Anderson,6-10,240,"May 6, 1988",9,University of California
-5,Eric Gordon,6-4,215,"December 25, 1988",9,Indiana University
-6,Chinanu Onuaku,6-10,245,"November 1, 1996",1,University of Louisville
-7,Nene,6-11,250,"September 13, 1982",15,
-8,P.J. Tucker,6-6,245,"May 5, 1985",6,University of Texas at Austin
-9,Tarik Black,6-9,250,"November 22, 1991",3,University of Kansas
-10,Luc Mbah a Moute,6-8,230,"September 9, 1986",9,"University of California, Los Angeles"
-11,Troy Williams,6-7,218,"December 30, 1994",1,Indiana University
-12,Zhou Qi,7-1,210,"January 16, 1996",0,
-13,Bobby Brown,6-2,175,"September 24, 1984",3,"California State University, Fullerton"
-14,Demetrius Jackson,6-1,201,"September 7, 1994",1,University of Notre Dame
-15,Briante Weber,6-2,165,"December 29, 1992",2,Virginia Commonwealth University
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Houston Rockets,James Harden,6-5,220,"August 26, 1989",8,Arizona State University
+1,Houston Rockets,Trevor Ariza,6-8,215,"June 30, 1985",13,"University of California, Los Angeles"
+2,Houston Rockets,Chris Paul,6-0,175,"May 6, 1985",12,Wake Forest University
+3,Houston Rockets,Clint Capela,6-10,240,"May 18, 1994",3,
+4,Houston Rockets,Ryan Anderson,6-10,240,"May 6, 1988",9,University of California
+5,Houston Rockets,Eric Gordon,6-4,215,"December 25, 1988",9,Indiana University
+6,Houston Rockets,Chinanu Onuaku,6-10,245,"November 1, 1996",1,University of Louisville
+7,Houston Rockets,Nene,6-11,250,"September 13, 1982",15,
+8,Houston Rockets,P.J. Tucker,6-6,245,"May 5, 1985",6,University of Texas at Austin
+9,Houston Rockets,Tarik Black,6-9,250,"November 22, 1991",3,University of Kansas
+10,Houston Rockets,Luc Mbah a Moute,6-8,230,"September 9, 1986",9,"University of California, Los Angeles"
+11,Houston Rockets,Troy Williams,6-7,218,"December 30, 1994",1,Indiana University
+12,Houston Rockets,Zhou Qi,7-1,210,"January 16, 1996",0,
+13,Houston Rockets,Bobby Brown,6-2,175,"September 24, 1984",3,"California State University, Fullerton"
+14,Houston Rockets,Demetrius Jackson,6-1,201,"September 7, 1994",1,University of Notre Dame
+15,Houston Rockets,Briante Weber,6-2,165,"December 29, 1992",2,Virginia Commonwealth University

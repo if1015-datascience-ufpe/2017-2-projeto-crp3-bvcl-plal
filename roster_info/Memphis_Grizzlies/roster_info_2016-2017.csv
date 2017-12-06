@@ -1,18 +1,18 @@
-,name,height,weight,bday,exp,college
-0,Tony Allen,6-4,213,"January 11, 1982",12,Oklahoma State University
-1,Wade Baldwin,6-4,202,"March 29, 1996",0,Vanderbilt University
-2,Vince Carter,6-6,220,"January 26, 1977",18,University of North Carolina
-3,Mike Conley,6-1,175,"October 11, 1987",9,Ohio State University
-4,Troy Daniels,6-4,205,"July 15, 1991",3,Virginia Commonwealth University
-5,Deyonta Davis,6-11,237,"December 2, 1996",0,Michigan State University
-6,Toney Douglas,6-2,195,"March 16, 1986",7,Florida State University
-7,James Ennis,6-7,210,"July 1, 1990",2,"California State University, Long Beach"
-8,Marc Gasol,7-1,255,"January 29, 1985",8,
-9,JaMychal Green,6-9,227,"June 21, 1990",2,University of Alabama
-10,Andrew Harrison,6-6,213,"October 28, 1994",0,University of Kentucky
-11,Jarell Martin,6-10,239,"May 24, 1994",1,Louisiana State University
-12,Chandler Parsons,6-10,230,"October 25, 1988",5,University of Florida
-13,Zach Randolph,6-9,260,"July 16, 1981",15,Michigan State University
-14,Wayne Selden,6-5,230,"September 30, 1994",0,University of Kansas
-15,Troy Williams,6-7,218,"December 30, 1994",0,Indiana University
-16,Brandan Wright,6-10,210,"October 5, 1987",8,University of North Carolina
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Memphis Grizzlies,Tony Allen,6-4,213,"January 11, 1982",12,Oklahoma State University
+1,Memphis Grizzlies,Wade Baldwin,6-4,202,"March 29, 1996",0,Vanderbilt University
+2,Memphis Grizzlies,Vince Carter,6-6,220,"January 26, 1977",18,University of North Carolina
+3,Memphis Grizzlies,Mike Conley,6-1,175,"October 11, 1987",9,Ohio State University
+4,Memphis Grizzlies,Troy Daniels,6-4,205,"July 15, 1991",3,Virginia Commonwealth University
+5,Memphis Grizzlies,Deyonta Davis,6-11,237,"December 2, 1996",0,Michigan State University
+6,Memphis Grizzlies,Toney Douglas,6-2,195,"March 16, 1986",7,Florida State University
+7,Memphis Grizzlies,James Ennis,6-7,210,"July 1, 1990",2,"California State University, Long Beach"
+8,Memphis Grizzlies,Marc Gasol,7-1,255,"January 29, 1985",8,
+9,Memphis Grizzlies,JaMychal Green,6-9,227,"June 21, 1990",2,University of Alabama
+10,Memphis Grizzlies,Andrew Harrison,6-6,213,"October 28, 1994",0,University of Kentucky
+11,Memphis Grizzlies,Jarell Martin,6-10,239,"May 24, 1994",1,Louisiana State University
+12,Memphis Grizzlies,Chandler Parsons,6-10,230,"October 25, 1988",5,University of Florida
+13,Memphis Grizzlies,Zach Randolph,6-9,260,"July 16, 1981",15,Michigan State University
+14,Memphis Grizzlies,Wayne Selden,6-5,230,"September 30, 1994",0,University of Kansas
+15,Memphis Grizzlies,Troy Williams,6-7,218,"December 30, 1994",0,Indiana University
+16,Memphis Grizzlies,Brandan Wright,6-10,210,"October 5, 1987",8,University of North Carolina

@@ -1,17 +1,17 @@
-,name,height,weight,bday,exp,college
-0,Damian Lillard,6-3,195,"July 15, 1990",5,Weber State University
-1,C.J. McCollum,6-3,190,"September 19, 1991",4,Lehigh University
-2,Shabazz Napier,6-1,175,"July 14, 1991",3,University of Connecticut
-3,Noah Vonleh,6-10,240,"August 24, 1995",3,Indiana University
-4,Jusuf Nurkic,7-0,280,"August 23, 1994",3,
-5,Al-Farouq Aminu,6-9,220,"September 21, 1990",7,Wake Forest University
-6,Ed Davis,6-10,240,"June 5, 1989",7,University of North Carolina
-7,Pat Connaughton,6-5,206,"January 6, 1993",2,University of Notre Dame
-8,Evan Turner,6-7,220,"October 27, 1988",7,Ohio State University
-9,Jake Layman,6-9,210,"March 7, 1994",1,University of Maryland
-10,Meyers Leonard,7-1,245,"February 27, 1992",5,University of Illinois at Urbana-Champaign
-11,Maurice Harkless,6-9,215,"May 11, 1993",5,St. John's University
-12,Zach Collins,7-0,232,"November 19, 1997",0,Gonzaga University
-13,Caleb Swanigan,6-8,250,"April 18, 1997",0,Purdue University
-14,C.J. Wilcox  (TW),6-5,195,"December 30, 1990",3,University of Washington
-15,Wade Baldwin,6-4,202,"March 29, 1996",1,Vanderbilt University
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Portland Trail Blazers,Damian Lillard,6-3,195,"July 15, 1990",5,Weber State University
+1,Portland Trail Blazers,C.J. McCollum,6-3,190,"September 19, 1991",4,Lehigh University
+2,Portland Trail Blazers,Shabazz Napier,6-1,175,"July 14, 1991",3,University of Connecticut
+3,Portland Trail Blazers,Noah Vonleh,6-10,240,"August 24, 1995",3,Indiana University
+4,Portland Trail Blazers,Jusuf Nurkic,7-0,280,"August 23, 1994",3,
+5,Portland Trail Blazers,Al-Farouq Aminu,6-9,220,"September 21, 1990",7,Wake Forest University
+6,Portland Trail Blazers,Ed Davis,6-10,240,"June 5, 1989",7,University of North Carolina
+7,Portland Trail Blazers,Pat Connaughton,6-5,206,"January 6, 1993",2,University of Notre Dame
+8,Portland Trail Blazers,Evan Turner,6-7,220,"October 27, 1988",7,Ohio State University
+9,Portland Trail Blazers,Jake Layman,6-9,210,"March 7, 1994",1,University of Maryland
+10,Portland Trail Blazers,Meyers Leonard,7-1,245,"February 27, 1992",5,University of Illinois at Urbana-Champaign
+11,Portland Trail Blazers,Maurice Harkless,6-9,215,"May 11, 1993",5,St. John's University
+12,Portland Trail Blazers,Zach Collins,7-0,232,"November 19, 1997",0,Gonzaga University
+13,Portland Trail Blazers,Caleb Swanigan,6-8,250,"April 18, 1997",0,Purdue University
+14,Portland Trail Blazers,C.J. Wilcox  (TW),6-5,195,"December 30, 1990",3,University of Washington
+15,Portland Trail Blazers,Wade Baldwin,6-4,202,"March 29, 1996",1,Vanderbilt University

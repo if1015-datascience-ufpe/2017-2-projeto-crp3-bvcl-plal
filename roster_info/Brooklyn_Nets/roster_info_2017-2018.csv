@@ -1,18 +1,18 @@
-,name,height,weight,bday,exp,college
-0,D'Angelo Russell,6-5,195,"February 23, 1996",2,Ohio State University
-1,Rondae Hollis-Jefferson,6-7,220,"January 3, 1995",2,University of Arizona
-2,DeMarre Carroll,6-8,215,"July 27, 1986",8,University of Missouri
-3,Sean Kilpatrick,6-4,210,"January 6, 1990",3,University of Cincinnati
-4,Jeremy Lin,6-3,200,"August 23, 1988",7,Harvard University
-5,Timofey Mozgov,7-1,275,"July 16, 1986",7,
-6,Trevor Booker,6-8,228,"November 25, 1987",7,Clemson University
-7,Allen Crabbe,6-6,210,"April 9, 1992",4,University of California
-8,Isaiah Whitehead,6-4,213,"March 8, 1995",1,Seton Hall University
-9,Caris LeVert,6-7,203,"August 25, 1994",1,University of Michigan
-10,Joe Harris,6-6,219,"September 6, 1991",3,University of Virginia
-11,Spencer Dinwiddie,6-6,200,"April 6, 1993",3,University of Colorado
-12,Quincy Acy,6-7,240,"October 6, 1990",5,Baylor University
-13,Jarrett Allen,6-10,234,"April 21, 1998",0,University of Texas at Austin
-14,Tyler Zeller,7-0,253,"January 17, 1990",5,University of North Carolina
-15,Jacob Wiley  (TW),6-7,215,"September 4, 1994",0,Eastern Washington University
-16,Yakuba Ouattara  (TW),6-4,220,"January 24, 1992",0,
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Brooklyn Nets,D'Angelo Russell,6-5,195,"February 23, 1996",2,Ohio State University
+1,Brooklyn Nets,Rondae Hollis-Jefferson,6-7,220,"January 3, 1995",2,University of Arizona
+2,Brooklyn Nets,DeMarre Carroll,6-8,215,"July 27, 1986",8,University of Missouri
+3,Brooklyn Nets,Sean Kilpatrick,6-4,210,"January 6, 1990",3,University of Cincinnati
+4,Brooklyn Nets,Jeremy Lin,6-3,200,"August 23, 1988",7,Harvard University
+5,Brooklyn Nets,Timofey Mozgov,7-1,275,"July 16, 1986",7,
+6,Brooklyn Nets,Trevor Booker,6-8,228,"November 25, 1987",7,Clemson University
+7,Brooklyn Nets,Allen Crabbe,6-6,210,"April 9, 1992",4,University of California
+8,Brooklyn Nets,Isaiah Whitehead,6-4,213,"March 8, 1995",1,Seton Hall University
+9,Brooklyn Nets,Caris LeVert,6-7,203,"August 25, 1994",1,University of Michigan
+10,Brooklyn Nets,Joe Harris,6-6,219,"September 6, 1991",3,University of Virginia
+11,Brooklyn Nets,Spencer Dinwiddie,6-6,200,"April 6, 1993",3,University of Colorado
+12,Brooklyn Nets,Quincy Acy,6-7,240,"October 6, 1990",5,Baylor University
+13,Brooklyn Nets,Jarrett Allen,6-10,234,"April 21, 1998",0,University of Texas at Austin
+14,Brooklyn Nets,Tyler Zeller,7-0,253,"January 17, 1990",5,University of North Carolina
+15,Brooklyn Nets,Jacob Wiley  (TW),6-7,215,"September 4, 1994",0,Eastern Washington University
+16,Brooklyn Nets,Yakuba Ouattara  (TW),6-4,220,"January 24, 1992",0,

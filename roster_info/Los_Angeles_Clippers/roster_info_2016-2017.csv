@@ -1,16 +1,16 @@
-,name,height,weight,bday,exp,college
-0,Alan Anderson,6-6,220,"October 16, 1982",7,Michigan State University
-1,Brandon Bass,6-8,250,"April 30, 1985",11,Louisiana State University
-2,Jamal Crawford,6-5,200,"March 20, 1980",16,University of Michigan
-3,Raymond Felton,6-1,205,"June 26, 1984",11,University of North Carolina
-4,Blake Griffin,6-10,251,"March 16, 1989",6,University of Oklahoma
-5,Brice Johnson,6-10,230,"June 27, 1994",0,University of North Carolina
-6,Wesley Johnson,6-7,215,"July 11, 1987",6,Syracuse University
-7,DeAndre Jordan,6-11,265,"July 21, 1988",8,Texas A&M University
-8,Luc Mbah a Moute,6-8,230,"September 9, 1986",8,"University of California, Los Angeles"
-9,Chris Paul,6-0,175,"May 6, 1985",11,Wake Forest University
-10,Paul Pierce,6-7,235,"October 13, 1977",18,University of Kansas
-11,J.J. Redick,6-4,190,"June 24, 1984",10,Duke University
-12,Austin Rivers,6-4,200,"August 1, 1992",4,Duke University
-13,Marreese Speights,6-10,255,"August 4, 1987",8,University of Florida
-14,Diamond Stone,6-11,255,"February 10, 1997",0,University of Maryland
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Los Angeles Clippers,Alan Anderson,6-6,220,"October 16, 1982",7,Michigan State University
+1,Los Angeles Clippers,Brandon Bass,6-8,250,"April 30, 1985",11,Louisiana State University
+2,Los Angeles Clippers,Jamal Crawford,6-5,200,"March 20, 1980",16,University of Michigan
+3,Los Angeles Clippers,Raymond Felton,6-1,205,"June 26, 1984",11,University of North Carolina
+4,Los Angeles Clippers,Blake Griffin,6-10,251,"March 16, 1989",6,University of Oklahoma
+5,Los Angeles Clippers,Brice Johnson,6-10,230,"June 27, 1994",0,University of North Carolina
+6,Los Angeles Clippers,Wesley Johnson,6-7,215,"July 11, 1987",6,Syracuse University
+7,Los Angeles Clippers,DeAndre Jordan,6-11,265,"July 21, 1988",8,Texas A&M University
+8,Los Angeles Clippers,Luc Mbah a Moute,6-8,230,"September 9, 1986",8,"University of California, Los Angeles"
+9,Los Angeles Clippers,Chris Paul,6-0,175,"May 6, 1985",11,Wake Forest University
+10,Los Angeles Clippers,Paul Pierce,6-7,235,"October 13, 1977",18,University of Kansas
+11,Los Angeles Clippers,J.J. Redick,6-4,190,"June 24, 1984",10,Duke University
+12,Los Angeles Clippers,Austin Rivers,6-4,200,"August 1, 1992",4,Duke University
+13,Los Angeles Clippers,Marreese Speights,6-10,255,"August 4, 1987",8,University of Florida
+14,Los Angeles Clippers,Diamond Stone,6-11,255,"February 10, 1997",0,University of Maryland

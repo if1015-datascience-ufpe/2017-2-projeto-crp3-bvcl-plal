@@ -1,17 +1,17 @@
-,name,height,weight,bday,exp,college
-0,Dennis Schroder,6-1,172,"September 15, 1993",4,
-1,Marco Belinelli,6-5,210,"March 25, 1986",10,
-2,Kent Bazemore,6-5,201,"July 1, 1989",5,Old Dominion University
-3,Malcolm Delaney,6-3,190,"March 11, 1989",1,Virginia Polytechnic Institute and State University
-4,Taurean Prince,6-8,220,"March 22, 1994",1,Baylor University
-5,DeAndre' Bembry,6-6,210,"July 4, 1994",1,Saint Joseph's University
-6,Nicolas Brussino,6-7,195,"March 2, 1993",1,
-7,Miles Plumlee,6-11,249,"September 1, 1988",5,Duke University
-8,John Collins,6-10,235,"September 23, 1997",0,Wake Forest University
-9,Tyler Dorsey,6-5,183,"February 14, 1996",0,University of Oregon
-10,Dewayne Dedmon,7-0,245,"August 12, 1989",4,University of Southern California
-11,Ersan Ilyasova,6-10,235,"May 15, 1987",9,
-12,Mike Muscala,6-11,240,"July 1, 1991",4,Bucknell University
-13,Luke Babbitt,6-9,225,"June 20, 1989",7,"University of Nevada, Reno"
-14,Isaiah Taylor,6-3,170,"July 11, 1994",1,University of Texas at Austin
-15,Tyler Cavanaugh,6-9,239,"February 9, 1994",0,George Washington University
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Atlanta Hawks,Dennis Schroder,6-1,172,"September 15, 1993",4,
+1,Atlanta Hawks,Marco Belinelli,6-5,210,"March 25, 1986",10,
+2,Atlanta Hawks,Kent Bazemore,6-5,201,"July 1, 1989",5,Old Dominion University
+3,Atlanta Hawks,Malcolm Delaney,6-3,190,"March 11, 1989",1,Virginia Polytechnic Institute and State University
+4,Atlanta Hawks,Taurean Prince,6-8,220,"March 22, 1994",1,Baylor University
+5,Atlanta Hawks,DeAndre' Bembry,6-6,210,"July 4, 1994",1,Saint Joseph's University
+6,Atlanta Hawks,Nicolas Brussino,6-7,195,"March 2, 1993",1,
+7,Atlanta Hawks,Miles Plumlee,6-11,249,"September 1, 1988",5,Duke University
+8,Atlanta Hawks,John Collins,6-10,235,"September 23, 1997",0,Wake Forest University
+9,Atlanta Hawks,Tyler Dorsey,6-5,183,"February 14, 1996",0,University of Oregon
+10,Atlanta Hawks,Dewayne Dedmon,7-0,245,"August 12, 1989",4,University of Southern California
+11,Atlanta Hawks,Ersan Ilyasova,6-10,235,"May 15, 1987",9,
+12,Atlanta Hawks,Mike Muscala,6-11,240,"July 1, 1991",4,Bucknell University
+13,Atlanta Hawks,Luke Babbitt,6-9,225,"June 20, 1989",7,"University of Nevada, Reno"
+14,Atlanta Hawks,Isaiah Taylor,6-3,170,"July 11, 1994",1,University of Texas at Austin
+15,Atlanta Hawks,Tyler Cavanaugh,6-9,239,"February 9, 1994",0,George Washington University

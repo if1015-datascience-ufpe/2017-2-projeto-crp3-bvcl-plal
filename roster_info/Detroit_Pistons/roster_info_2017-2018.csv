@@ -1,17 +1,17 @@
-,name,height,weight,bday,exp,college
-0,Avery Bradley,6-2,180,"November 26, 1990",7,University of Texas at Austin
-1,Stanley Johnson,6-7,245,"May 29, 1996",2,University of Arizona
-2,Tobias Harris,6-9,235,"July 15, 1992",6,University of Tennessee
-3,Reggie Jackson,6-3,208,"April 16, 1990",6,Boston College
-4,Jon Leuer,6-10,228,"May 14, 1989",6,University of Wisconsin
-5,Ish Smith,6-0,175,"July 5, 1988",7,Wake Forest University
-6,Andre Drummond,6-11,279,"August 10, 1993",5,University of Connecticut
-7,Boban Marjanovic,7-3,290,"August 15, 1988",2,
-8,Henry Ellenson,6-11,245,"January 13, 1997",1,Marquette University
-9,Luke Kennard,6-6,206,"June 24, 1996",0,Duke University
-10,Langston Galloway,6-2,200,"December 9, 1991",3,Saint Joseph's University
-11,Eric Moreland,6-10,238,"December 24, 1991",2,Oregon State University
-12,Reggie Bullock,6-7,205,"March 16, 1991",4,University of North Carolina
-13,Anthony Tolliver,6-8,240,"June 1, 1985",9,Creighton University
-14,Dwight Buycks  (TW),6-3,190,"March 6, 1989",2,Marquette University
-15,Luis Montero  (TW),6-7,185,"April 6, 1993",1,Westchester CC
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Detroit Pistons,Avery Bradley,6-2,180,"November 26, 1990",7,University of Texas at Austin
+1,Detroit Pistons,Stanley Johnson,6-7,245,"May 29, 1996",2,University of Arizona
+2,Detroit Pistons,Tobias Harris,6-9,235,"July 15, 1992",6,University of Tennessee
+3,Detroit Pistons,Reggie Jackson,6-3,208,"April 16, 1990",6,Boston College
+4,Detroit Pistons,Jon Leuer,6-10,228,"May 14, 1989",6,University of Wisconsin
+5,Detroit Pistons,Ish Smith,6-0,175,"July 5, 1988",7,Wake Forest University
+6,Detroit Pistons,Andre Drummond,6-11,279,"August 10, 1993",5,University of Connecticut
+7,Detroit Pistons,Boban Marjanovic,7-3,290,"August 15, 1988",2,
+8,Detroit Pistons,Henry Ellenson,6-11,245,"January 13, 1997",1,Marquette University
+9,Detroit Pistons,Luke Kennard,6-6,206,"June 24, 1996",0,Duke University
+10,Detroit Pistons,Langston Galloway,6-2,200,"December 9, 1991",3,Saint Joseph's University
+11,Detroit Pistons,Eric Moreland,6-10,238,"December 24, 1991",2,Oregon State University
+12,Detroit Pistons,Reggie Bullock,6-7,205,"March 16, 1991",4,University of North Carolina
+13,Detroit Pistons,Anthony Tolliver,6-8,240,"June 1, 1985",9,Creighton University
+14,Detroit Pistons,Dwight Buycks  (TW),6-3,190,"March 6, 1989",2,Marquette University
+15,Detroit Pistons,Luis Montero  (TW),6-7,185,"April 6, 1993",1,Westchester CC

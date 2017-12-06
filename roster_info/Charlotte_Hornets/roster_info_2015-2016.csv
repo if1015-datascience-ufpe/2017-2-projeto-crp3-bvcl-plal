@@ -1,18 +1,18 @@
-,name,height,weight,bday,exp,college
-0,Nicolas Batum,6-8,200,"December 14, 1988",7,
-1,Troy Daniels,6-4,205,"July 15, 1991",2,Virginia Commonwealth University
-2,Jorge Gutierrez,6-3,191,"December 27, 1988",2,University of California
-3,P.J. Hairston,6-6,230,"December 24, 1992",1,University of North Carolina
-4,Tyler Hansbrough,6-9,250,"November 3, 1985",6,University of North Carolina
-5,Aaron Harrison,6-6,210,"October 28, 1994",0,University of Kentucky
-6,Spencer Hawes,7-1,245,"April 28, 1988",8,University of Washington
-7,Al Jefferson,6-10,289,"January 4, 1985",11,
-8,Frank Kaminsky,7-0,242,"April 4, 1993",0,University of Wisconsin
-9,Michael Kidd-Gilchrist,6-7,232,"September 26, 1993",3,University of Kentucky
-10,Jeremy Lamb,6-5,185,"May 30, 1992",3,University of Connecticut
-11,Courtney Lee,6-5,200,"October 3, 1985",7,Western Kentucky University
-12,Jeremy Lin,6-3,200,"August 23, 1988",5,Harvard University
-13,Brian Roberts,6-1,173,"December 3, 1985",3,University of Dayton
-14,Kemba Walker,6-1,172,"May 8, 1990",4,University of Connecticut
-15,Marvin Williams,6-9,237,"June 19, 1986",10,University of North Carolina
-16,Cody Zeller,7-0,240,"October 5, 1992",2,Indiana University
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Charlotte Hornets,Nicolas Batum,6-8,200,"December 14, 1988",7,
+1,Charlotte Hornets,Troy Daniels,6-4,205,"July 15, 1991",2,Virginia Commonwealth University
+2,Charlotte Hornets,Jorge Gutierrez,6-3,191,"December 27, 1988",2,University of California
+3,Charlotte Hornets,P.J. Hairston,6-6,230,"December 24, 1992",1,University of North Carolina
+4,Charlotte Hornets,Tyler Hansbrough,6-9,250,"November 3, 1985",6,University of North Carolina
+5,Charlotte Hornets,Aaron Harrison,6-6,210,"October 28, 1994",0,University of Kentucky
+6,Charlotte Hornets,Spencer Hawes,7-1,245,"April 28, 1988",8,University of Washington
+7,Charlotte Hornets,Al Jefferson,6-10,289,"January 4, 1985",11,
+8,Charlotte Hornets,Frank Kaminsky,7-0,242,"April 4, 1993",0,University of Wisconsin
+9,Charlotte Hornets,Michael Kidd-Gilchrist,6-7,232,"September 26, 1993",3,University of Kentucky
+10,Charlotte Hornets,Jeremy Lamb,6-5,185,"May 30, 1992",3,University of Connecticut
+11,Charlotte Hornets,Courtney Lee,6-5,200,"October 3, 1985",7,Western Kentucky University
+12,Charlotte Hornets,Jeremy Lin,6-3,200,"August 23, 1988",5,Harvard University
+13,Charlotte Hornets,Brian Roberts,6-1,173,"December 3, 1985",3,University of Dayton
+14,Charlotte Hornets,Kemba Walker,6-1,172,"May 8, 1990",4,University of Connecticut
+15,Charlotte Hornets,Marvin Williams,6-9,237,"June 19, 1986",10,University of North Carolina
+16,Charlotte Hornets,Cody Zeller,7-0,240,"October 5, 1992",2,Indiana University

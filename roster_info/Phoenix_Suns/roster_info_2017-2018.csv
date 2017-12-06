@@ -1,18 +1,18 @@
-,name,height,weight,bday,exp,college
-0,T.J. Warren,6-8,230,"September 5, 1993",3,North Carolina State University
-1,Devin Booker,6-6,206,"October 30, 1996",2,University of Kentucky
-2,Tyson Chandler,7-1,240,"October 2, 1982",16,
-3,Brandon Knight,6-3,189,"December 2, 1991",6,University of Kentucky
-4,Greg Monroe,6-11,265,"June 4, 1990",7,Georgetown University
-5,Troy Daniels,6-4,205,"July 15, 1991",4,Virginia Commonwealth University
-6,Jared Dudley,6-7,225,"July 10, 1985",10,Boston College
-7,Dragan Bender,7-1,225,"November 17, 1997",1,
-8,Marquese Chriss,6-10,233,"July 2, 1997",1,University of Washington
-9,Tyler Ulis,5-10,150,"January 5, 1996",1,University of Kentucky
-10,Derrick Jones,6-7,190,"February 15, 1997",1,"University of Nevada, Las Vegas"
-11,Josh Jackson,6-8,207,"February 10, 1997",0,University of Kansas
-12,Davon Reed,6-5,208,"June 11, 1995",0,University of Miami
-13,Mike James  (TW),6-1,189,"August 18, 1990",0,Lamar University
-14,Alan Williams,6-8,260,"January 28, 1993",2,"University of California, Santa Barbara"
-15,Alex Len,7-1,260,"June 16, 1993",4,University of Maryland
-16,Alec Peters  (TW),6-9,232,"April 13, 1995",0,Valparaiso University
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Phoenix Suns,T.J. Warren,6-8,230,"September 5, 1993",3,North Carolina State University
+1,Phoenix Suns,Devin Booker,6-6,206,"October 30, 1996",2,University of Kentucky
+2,Phoenix Suns,Tyson Chandler,7-1,240,"October 2, 1982",16,
+3,Phoenix Suns,Brandon Knight,6-3,189,"December 2, 1991",6,University of Kentucky
+4,Phoenix Suns,Greg Monroe,6-11,265,"June 4, 1990",7,Georgetown University
+5,Phoenix Suns,Troy Daniels,6-4,205,"July 15, 1991",4,Virginia Commonwealth University
+6,Phoenix Suns,Jared Dudley,6-7,225,"July 10, 1985",10,Boston College
+7,Phoenix Suns,Dragan Bender,7-1,225,"November 17, 1997",1,
+8,Phoenix Suns,Marquese Chriss,6-10,233,"July 2, 1997",1,University of Washington
+9,Phoenix Suns,Tyler Ulis,5-10,150,"January 5, 1996",1,University of Kentucky
+10,Phoenix Suns,Derrick Jones,6-7,190,"February 15, 1997",1,"University of Nevada, Las Vegas"
+11,Phoenix Suns,Josh Jackson,6-8,207,"February 10, 1997",0,University of Kansas
+12,Phoenix Suns,Davon Reed,6-5,208,"June 11, 1995",0,University of Miami
+13,Phoenix Suns,Mike James  (TW),6-1,189,"August 18, 1990",0,Lamar University
+14,Phoenix Suns,Alan Williams,6-8,260,"January 28, 1993",2,"University of California, Santa Barbara"
+15,Phoenix Suns,Alex Len,7-1,260,"June 16, 1993",4,University of Maryland
+16,Phoenix Suns,Alec Peters  (TW),6-9,232,"April 13, 1995",0,Valparaiso University

@@ -1,18 +1,18 @@
-,name,height,weight,bday,exp,college
-0,Kent Bazemore,6-5,201,"July 1, 1989",3,Old Dominion University
-1,Tim Hardaway,6-6,205,"March 16, 1992",2,University of Michigan
-2,Kirk Hinrich,6-4,190,"January 2, 1981",12,University of Kansas
-3,Justin Holiday,6-6,185,"April 5, 1989",2,University of Washington
-4,Al Horford,6-10,245,"June 3, 1986",8,University of Florida
-5,Kris Humphries,6-9,235,"February 6, 1985",11,University of Minnesota
-6,Kyle Korver,6-7,212,"March 17, 1981",12,Creighton University
-7,Shelvin Mack,6-3,203,"April 22, 1990",4,Butler University
-8,Paul Millsap,6-8,246,"February 10, 1985",9,Louisiana Tech University
-9,Mike Muscala,6-11,240,"July 1, 1991",2,Bucknell University
-10,Lamar Patterson,6-5,225,"August 12, 1991",0,University of Pittsburgh
-11,Dennis Schroder,6-1,172,"September 15, 1993",2,
-12,Mike Scott,6-8,237,"July 16, 1988",3,University of Virginia
-13,Thabo Sefolosha,6-7,220,"May 2, 1984",9,
-14,Tiago Splitter,6-11,245,"January 1, 1985",5,
-15,Edy Tavares,7-3,260,"March 22, 1992",0,
-16,Jeff Teague,6-2,186,"June 10, 1988",6,Wake Forest University
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Atlanta Hawks,Kent Bazemore,6-5,201,"July 1, 1989",3,Old Dominion University
+1,Atlanta Hawks,Tim Hardaway,6-6,205,"March 16, 1992",2,University of Michigan
+2,Atlanta Hawks,Kirk Hinrich,6-4,190,"January 2, 1981",12,University of Kansas
+3,Atlanta Hawks,Justin Holiday,6-6,185,"April 5, 1989",2,University of Washington
+4,Atlanta Hawks,Al Horford,6-10,245,"June 3, 1986",8,University of Florida
+5,Atlanta Hawks,Kris Humphries,6-9,235,"February 6, 1985",11,University of Minnesota
+6,Atlanta Hawks,Kyle Korver,6-7,212,"March 17, 1981",12,Creighton University
+7,Atlanta Hawks,Shelvin Mack,6-3,203,"April 22, 1990",4,Butler University
+8,Atlanta Hawks,Paul Millsap,6-8,246,"February 10, 1985",9,Louisiana Tech University
+9,Atlanta Hawks,Mike Muscala,6-11,240,"July 1, 1991",2,Bucknell University
+10,Atlanta Hawks,Lamar Patterson,6-5,225,"August 12, 1991",0,University of Pittsburgh
+11,Atlanta Hawks,Dennis Schroder,6-1,172,"September 15, 1993",2,
+12,Atlanta Hawks,Mike Scott,6-8,237,"July 16, 1988",3,University of Virginia
+13,Atlanta Hawks,Thabo Sefolosha,6-7,220,"May 2, 1984",9,
+14,Atlanta Hawks,Tiago Splitter,6-11,245,"January 1, 1985",5,
+15,Atlanta Hawks,Edy Tavares,7-3,260,"March 22, 1992",0,
+16,Atlanta Hawks,Jeff Teague,6-2,186,"June 10, 1988",6,Wake Forest University

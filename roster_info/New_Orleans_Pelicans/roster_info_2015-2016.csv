@@ -1,22 +1,22 @@
-,name,height,weight,bday,exp,college
-0,Alexis Ajinca,7-2,248,"May 6, 1988",5,
-1,Ryan Anderson,6-10,240,"May 6, 1988",7,University of California
-2,Omer Asik,7-0,255,"July 4, 1986",5,
-3,Luke Babbitt,6-9,225,"June 20, 1989",5,"University of Nevada, Reno"
-4,Norris Cole,6-2,175,"October 13, 1988",4,Cleveland State University
-5,Dante Cunningham,6-8,230,"April 22, 1987",6,Villanova University
-6,Anthony Davis,6-10,253,"March 11, 1993",3,University of Kentucky
-7,Bryce Dejean-Jones,6-6,209,"August 21, 1992",0,Iowa State University
-8,Toney Douglas,6-2,195,"March 16, 1986",6,Florida State University
-9,James Ennis,6-7,210,"July 1, 1990",1,"California State University, Long Beach"
-10,Tyreke Evans,6-6,220,"September 19, 1989",6,University of Memphis
-11,Tim Frazier,6-1,170,"November 1, 1990",1,Pennsylvania State University
-12,Jimmer Fredette,6-2,195,"February 25, 1989",4,Brigham Young University
-13,Alonzo Gee,6-6,225,"May 29, 1987",6,University of Alabama
-14,Eric Gordon,6-4,215,"December 25, 1988",7,Indiana University
-15,Jordan Hamilton,6-7,220,"October 6, 1990",4,University of Texas at Austin
-16,Jrue Holiday,6-4,205,"June 12, 1990",6,"University of California, Los Angeles"
-17,Orlando Johnson,6-5,220,"March 11, 1989",2,"University of California, Santa Barbara"
-18,Kendrick Perkins,6-10,270,"November 10, 1984",12,
-19,Nate Robinson,5-9,180,"May 31, 1984",10,University of Washington
-20,Ish Smith,6-0,175,"July 5, 1988",5,Wake Forest University
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,New Orleans Pelicans,Alexis Ajinca,7-2,248,"May 6, 1988",5,
+1,New Orleans Pelicans,Ryan Anderson,6-10,240,"May 6, 1988",7,University of California
+2,New Orleans Pelicans,Omer Asik,7-0,255,"July 4, 1986",5,
+3,New Orleans Pelicans,Luke Babbitt,6-9,225,"June 20, 1989",5,"University of Nevada, Reno"
+4,New Orleans Pelicans,Norris Cole,6-2,175,"October 13, 1988",4,Cleveland State University
+5,New Orleans Pelicans,Dante Cunningham,6-8,230,"April 22, 1987",6,Villanova University
+6,New Orleans Pelicans,Anthony Davis,6-10,253,"March 11, 1993",3,University of Kentucky
+7,New Orleans Pelicans,Bryce Dejean-Jones,6-6,209,"August 21, 1992",0,Iowa State University
+8,New Orleans Pelicans,Toney Douglas,6-2,195,"March 16, 1986",6,Florida State University
+9,New Orleans Pelicans,James Ennis,6-7,210,"July 1, 1990",1,"California State University, Long Beach"
+10,New Orleans Pelicans,Tyreke Evans,6-6,220,"September 19, 1989",6,University of Memphis
+11,New Orleans Pelicans,Tim Frazier,6-1,170,"November 1, 1990",1,Pennsylvania State University
+12,New Orleans Pelicans,Jimmer Fredette,6-2,195,"February 25, 1989",4,Brigham Young University
+13,New Orleans Pelicans,Alonzo Gee,6-6,225,"May 29, 1987",6,University of Alabama
+14,New Orleans Pelicans,Eric Gordon,6-4,215,"December 25, 1988",7,Indiana University
+15,New Orleans Pelicans,Jordan Hamilton,6-7,220,"October 6, 1990",4,University of Texas at Austin
+16,New Orleans Pelicans,Jrue Holiday,6-4,205,"June 12, 1990",6,"University of California, Los Angeles"
+17,New Orleans Pelicans,Orlando Johnson,6-5,220,"March 11, 1989",2,"University of California, Santa Barbara"
+18,New Orleans Pelicans,Kendrick Perkins,6-10,270,"November 10, 1984",12,
+19,New Orleans Pelicans,Nate Robinson,5-9,180,"May 31, 1984",10,University of Washington
+20,New Orleans Pelicans,Ish Smith,6-0,175,"July 5, 1988",5,Wake Forest University

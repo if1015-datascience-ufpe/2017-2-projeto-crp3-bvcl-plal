@@ -1,20 +1,20 @@
-,name,height,weight,bday,exp,college
-0,Alex Abrines,6-6,190,"August 1, 1993",0,
-1,Steven Adams,7-0,255,"July 20, 1993",3,University of Pittsburgh
-2,Semaj Christon,6-3,190,"November 1, 1992",0,Xavier University
-3,Norris Cole,6-2,175,"October 13, 1988",5,Cleveland State University
-4,Nick Collison,6-10,255,"October 26, 1980",12,University of Kansas
-5,Taj Gibson,6-9,225,"June 24, 1985",7,University of Southern California
-6,Jerami Grant,6-8,210,"March 12, 1994",2,Syracuse University
-7,Josh Huestis,6-7,230,"December 19, 1991",1,Stanford University
-8,Ersan Ilyasova,6-10,235,"May 15, 1987",8,
-9,Enes Kanter,6-11,245,"May 20, 1992",5,
-10,Joffrey Lauvergne,6-11,220,"September 30, 1991",2,
-11,Doug McDermott,6-8,225,"January 3, 1992",2,Creighton University
-12,Anthony Morrow,6-5,210,"September 27, 1985",8,Georgia Institute of Technology
-13,Victor Oladipo,6-4,210,"May 4, 1992",3,Indiana University
-14,Cameron Payne,6-3,185,"August 8, 1994",1,Murray State University
-15,Andre Roberson,6-7,210,"December 4, 1991",3,University of Colorado
-16,Domantas Sabonis,6-11,240,"May 3, 1996",0,Gonzaga University
-17,Kyle Singler,6-8,228,"May 4, 1988",4,Duke University
-18,Russell Westbrook,6-3,200,"November 12, 1988",8,"University of California, Los Angeles"
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Oklahoma City Thunder,Alex Abrines,6-6,190,"August 1, 1993",0,
+1,Oklahoma City Thunder,Steven Adams,7-0,255,"July 20, 1993",3,University of Pittsburgh
+2,Oklahoma City Thunder,Semaj Christon,6-3,190,"November 1, 1992",0,Xavier University
+3,Oklahoma City Thunder,Norris Cole,6-2,175,"October 13, 1988",5,Cleveland State University
+4,Oklahoma City Thunder,Nick Collison,6-10,255,"October 26, 1980",12,University of Kansas
+5,Oklahoma City Thunder,Taj Gibson,6-9,225,"June 24, 1985",7,University of Southern California
+6,Oklahoma City Thunder,Jerami Grant,6-8,210,"March 12, 1994",2,Syracuse University
+7,Oklahoma City Thunder,Josh Huestis,6-7,230,"December 19, 1991",1,Stanford University
+8,Oklahoma City Thunder,Ersan Ilyasova,6-10,235,"May 15, 1987",8,
+9,Oklahoma City Thunder,Enes Kanter,6-11,245,"May 20, 1992",5,
+10,Oklahoma City Thunder,Joffrey Lauvergne,6-11,220,"September 30, 1991",2,
+11,Oklahoma City Thunder,Doug McDermott,6-8,225,"January 3, 1992",2,Creighton University
+12,Oklahoma City Thunder,Anthony Morrow,6-5,210,"September 27, 1985",8,Georgia Institute of Technology
+13,Oklahoma City Thunder,Victor Oladipo,6-4,210,"May 4, 1992",3,Indiana University
+14,Oklahoma City Thunder,Cameron Payne,6-3,185,"August 8, 1994",1,Murray State University
+15,Oklahoma City Thunder,Andre Roberson,6-7,210,"December 4, 1991",3,University of Colorado
+16,Oklahoma City Thunder,Domantas Sabonis,6-11,240,"May 3, 1996",0,Gonzaga University
+17,Oklahoma City Thunder,Kyle Singler,6-8,228,"May 4, 1988",4,Duke University
+18,Oklahoma City Thunder,Russell Westbrook,6-3,200,"November 12, 1988",8,"University of California, Los Angeles"

@@ -1,21 +1,21 @@
-,name,height,weight,bday,exp,college
-0,Arron Afflalo,6-5,210,"October 15, 1985",7,"University of California, Los Angeles"
-1,Darrell Arthur,6-9,235,"March 25, 1988",5,University of Kansas
-2,Will Barton,6-6,175,"January 6, 1991",2,University of Memphis
-3,Wilson Chandler,6-8,225,"May 10, 1987",7,DePaul University
-4,Ian Clark,6-3,175,"March 7, 1991",1,Belmont University
-5,Kenneth Faried,6-8,228,"November 19, 1989",3,Morehead State University
-6,Randy Foye,6-4,213,"September 24, 1983",8,Villanova University
-7,Jamaal Franklin,6-5,191,"July 21, 1991",1,San Diego State University
-8,Danilo Gallinari,6-10,225,"August 8, 1988",5,
-9,Alonzo Gee,6-6,225,"May 29, 1987",5,University of Alabama
-10,Erick Green,6-4,185,"May 9, 1991",0,Virginia Polytechnic Institute and State University
-11,Gary Harris,6-4,210,"September 14, 1994",0,Michigan State University
-12,J.J. Hickson,6-9,242,"September 4, 1988",6,North Carolina State University
-13,Joffrey Lauvergne,6-11,220,"September 30, 1991",0,
-14,Ty Lawson,5-11,195,"November 3, 1987",5,University of North Carolina
-15,JaVale McGee,7-0,270,"January 19, 1988",6,"University of Nevada, Reno"
-16,Timofey Mozgov,7-1,275,"July 16, 1986",4,
-17,Jameer Nelson,6-0,190,"February 9, 1982",10,Saint Joseph's University
-18,Jusuf Nurkic,7-0,280,"August 23, 1994",0,
-19,Nate Robinson,5-9,180,"May 31, 1984",9,University of Washington
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Denver Nuggets,Arron Afflalo,6-5,210,"October 15, 1985",7,"University of California, Los Angeles"
+1,Denver Nuggets,Darrell Arthur,6-9,235,"March 25, 1988",5,University of Kansas
+2,Denver Nuggets,Will Barton,6-6,175,"January 6, 1991",2,University of Memphis
+3,Denver Nuggets,Wilson Chandler,6-8,225,"May 10, 1987",7,DePaul University
+4,Denver Nuggets,Ian Clark,6-3,175,"March 7, 1991",1,Belmont University
+5,Denver Nuggets,Kenneth Faried,6-8,228,"November 19, 1989",3,Morehead State University
+6,Denver Nuggets,Randy Foye,6-4,213,"September 24, 1983",8,Villanova University
+7,Denver Nuggets,Jamaal Franklin,6-5,191,"July 21, 1991",1,San Diego State University
+8,Denver Nuggets,Danilo Gallinari,6-10,225,"August 8, 1988",5,
+9,Denver Nuggets,Alonzo Gee,6-6,225,"May 29, 1987",5,University of Alabama
+10,Denver Nuggets,Erick Green,6-4,185,"May 9, 1991",0,Virginia Polytechnic Institute and State University
+11,Denver Nuggets,Gary Harris,6-4,210,"September 14, 1994",0,Michigan State University
+12,Denver Nuggets,J.J. Hickson,6-9,242,"September 4, 1988",6,North Carolina State University
+13,Denver Nuggets,Joffrey Lauvergne,6-11,220,"September 30, 1991",0,
+14,Denver Nuggets,Ty Lawson,5-11,195,"November 3, 1987",5,University of North Carolina
+15,Denver Nuggets,JaVale McGee,7-0,270,"January 19, 1988",6,"University of Nevada, Reno"
+16,Denver Nuggets,Timofey Mozgov,7-1,275,"July 16, 1986",4,
+17,Denver Nuggets,Jameer Nelson,6-0,190,"February 9, 1982",10,Saint Joseph's University
+18,Denver Nuggets,Jusuf Nurkic,7-0,280,"August 23, 1994",0,
+19,Denver Nuggets,Nate Robinson,5-9,180,"May 31, 1984",9,University of Washington

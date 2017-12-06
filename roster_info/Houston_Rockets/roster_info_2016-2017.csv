@@ -1,19 +1,19 @@
-,name,height,weight,bday,exp,college
-0,Ryan Anderson,6-10,240,"May 6, 1988",8,University of California
-1,Trevor Ariza,6-8,215,"June 30, 1985",12,"University of California, Los Angeles"
-2,Patrick Beverley,6-1,185,"July 12, 1988",4,University of Arkansas
-3,Corey Brewer,6-9,186,"March 5, 1986",9,University of Florida
-4,Bobby Brown,6-2,175,"September 24, 1984",2,"California State University, Fullerton"
-5,Clint Capela,6-10,240,"May 18, 1994",2,
-6,Sam Dekker,6-9,230,"May 6, 1994",1,University of Wisconsin
-7,Tyler Ennis,6-3,194,"August 24, 1994",2,Syracuse University
-8,Eric Gordon,6-4,215,"December 25, 1988",8,Indiana University
-9,James Harden,6-5,220,"August 26, 1989",7,Arizona State University
-10,Montrezl Harrell,6-8,240,"January 26, 1994",1,University of Louisville
-11,Nene Hilario,6-11,250,"September 13, 1982",14,
-12,K.J. McDaniels,6-6,205,"February 9, 1993",2,Clemson University
-13,Chinanu Onuaku,6-10,245,"November 1, 1996",0,University of Louisville
-14,Isaiah Taylor,6-3,170,"July 11, 1994",0,University of Texas at Austin
-15,Lou Williams,6-1,175,"October 27, 1986",11,
-16,Troy Williams,6-7,218,"December 30, 1994",0,Indiana University
-17,Kyle Wiltjer,6-10,240,"October 20, 1992",0,Gonzaga University
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Houston Rockets,Ryan Anderson,6-10,240,"May 6, 1988",8,University of California
+1,Houston Rockets,Trevor Ariza,6-8,215,"June 30, 1985",12,"University of California, Los Angeles"
+2,Houston Rockets,Patrick Beverley,6-1,185,"July 12, 1988",4,University of Arkansas
+3,Houston Rockets,Corey Brewer,6-9,186,"March 5, 1986",9,University of Florida
+4,Houston Rockets,Bobby Brown,6-2,175,"September 24, 1984",2,"California State University, Fullerton"
+5,Houston Rockets,Clint Capela,6-10,240,"May 18, 1994",2,
+6,Houston Rockets,Sam Dekker,6-9,230,"May 6, 1994",1,University of Wisconsin
+7,Houston Rockets,Tyler Ennis,6-3,194,"August 24, 1994",2,Syracuse University
+8,Houston Rockets,Eric Gordon,6-4,215,"December 25, 1988",8,Indiana University
+9,Houston Rockets,James Harden,6-5,220,"August 26, 1989",7,Arizona State University
+10,Houston Rockets,Montrezl Harrell,6-8,240,"January 26, 1994",1,University of Louisville
+11,Houston Rockets,Nene Hilario,6-11,250,"September 13, 1982",14,
+12,Houston Rockets,K.J. McDaniels,6-6,205,"February 9, 1993",2,Clemson University
+13,Houston Rockets,Chinanu Onuaku,6-10,245,"November 1, 1996",0,University of Louisville
+14,Houston Rockets,Isaiah Taylor,6-3,170,"July 11, 1994",0,University of Texas at Austin
+15,Houston Rockets,Lou Williams,6-1,175,"October 27, 1986",11,
+16,Houston Rockets,Troy Williams,6-7,218,"December 30, 1994",0,Indiana University
+17,Houston Rockets,Kyle Wiltjer,6-10,240,"October 20, 1992",0,Gonzaga University

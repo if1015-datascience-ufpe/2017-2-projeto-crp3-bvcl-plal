@@ -1,18 +1,18 @@
-,name,height,weight,bday,exp,college
-0,Joel Anthony,6-9,245,"August 9, 1982",8,"University of Nevada, Las Vegas"
-1,Aron Baynes,6-10,260,"December 9, 1986",3,Washington State University
-2,Steve Blake,6-3,172,"February 26, 1980",12,University of Maryland
-3,Reggie Bullock,6-7,205,"March 16, 1991",2,University of North Carolina
-4,Kentavious Caldwell-Pope,6-5,205,"February 18, 1993",2,University of Georgia
-5,Spencer Dinwiddie,6-6,200,"April 6, 1993",1,University of Colorado
-6,Andre Drummond,6-11,279,"August 10, 1993",3,University of Connecticut
-7,Justin Harper,6-10,225,"August 30, 1989",1,University of Richmond
-8,Tobias Harris,6-9,235,"July 15, 1992",4,University of Tennessee
-9,Darrun Hilliard,6-6,205,"April 13, 1993",0,Villanova University
-10,Ersan Ilyasova,6-10,235,"May 15, 1987",7,
-11,Reggie Jackson,6-3,208,"April 16, 1990",4,Boston College
-12,Brandon Jennings,6-1,170,"September 23, 1989",6,
-13,Stanley Johnson,6-7,245,"May 29, 1996",0,University of Arizona
-14,Jodie Meeks,6-4,210,"August 21, 1987",6,University of Kentucky
-15,Marcus Morris,6-9,235,"September 2, 1989",4,University of Kansas
-16,Anthony Tolliver,6-8,240,"June 1, 1985",7,Creighton University
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Detroit Pistons,Joel Anthony,6-9,245,"August 9, 1982",8,"University of Nevada, Las Vegas"
+1,Detroit Pistons,Aron Baynes,6-10,260,"December 9, 1986",3,Washington State University
+2,Detroit Pistons,Steve Blake,6-3,172,"February 26, 1980",12,University of Maryland
+3,Detroit Pistons,Reggie Bullock,6-7,205,"March 16, 1991",2,University of North Carolina
+4,Detroit Pistons,Kentavious Caldwell-Pope,6-5,205,"February 18, 1993",2,University of Georgia
+5,Detroit Pistons,Spencer Dinwiddie,6-6,200,"April 6, 1993",1,University of Colorado
+6,Detroit Pistons,Andre Drummond,6-11,279,"August 10, 1993",3,University of Connecticut
+7,Detroit Pistons,Justin Harper,6-10,225,"August 30, 1989",1,University of Richmond
+8,Detroit Pistons,Tobias Harris,6-9,235,"July 15, 1992",4,University of Tennessee
+9,Detroit Pistons,Darrun Hilliard,6-6,205,"April 13, 1993",0,Villanova University
+10,Detroit Pistons,Ersan Ilyasova,6-10,235,"May 15, 1987",7,
+11,Detroit Pistons,Reggie Jackson,6-3,208,"April 16, 1990",4,Boston College
+12,Detroit Pistons,Brandon Jennings,6-1,170,"September 23, 1989",6,
+13,Detroit Pistons,Stanley Johnson,6-7,245,"May 29, 1996",0,University of Arizona
+14,Detroit Pistons,Jodie Meeks,6-4,210,"August 21, 1987",6,University of Kentucky
+15,Detroit Pistons,Marcus Morris,6-9,235,"September 2, 1989",4,University of Kansas
+16,Detroit Pistons,Anthony Tolliver,6-8,240,"June 1, 1985",7,Creighton University

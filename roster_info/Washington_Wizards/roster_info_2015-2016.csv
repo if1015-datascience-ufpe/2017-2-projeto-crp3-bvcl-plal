@@ -1,20 +1,20 @@
-,name,height,weight,bday,exp,college
-0,Alan Anderson,6-6,220,"October 16, 1982",6,Michigan State University
-1,Bradley Beal,6-5,207,"June 28, 1993",3,University of Florida
-2,DeJuan Blair,6-7,270,"April 22, 1989",6,University of Pittsburgh
-3,Jared Dudley,6-7,225,"July 10, 1985",8,Boston College
-4,Jarell Eddie,6-7,218,"October 30, 1991",0,Virginia Polytechnic Institute and State University
-5,Drew Gooden,6-10,250,"September 24, 1981",13,University of Kansas
-6,Marcin Gortat,6-11,240,"February 17, 1984",8,
-7,J.J. Hickson,6-9,242,"September 4, 1988",7,North Carolina State University
-8,Nene Hilario,6-11,250,"September 13, 1982",13,
-9,Ryan Hollins,7-0,240,"October 10, 1984",9,"University of California, Los Angeles"
-10,Kris Humphries,6-9,235,"February 6, 1985",11,University of Minnesota
-11,Markieff Morris,6-10,245,"September 2, 1989",4,University of Kansas
-12,Gary Neal,6-4,210,"October 3, 1984",5,Towson University
-13,Kelly Oubre,6-7,205,"December 9, 1995",0,University of Kansas
-14,Otto Porter,6-8,198,"June 3, 1993",2,Georgetown University
-15,Ramon Sessions,6-3,190,"April 11, 1986",8,"University of Nevada, Reno"
-16,Garrett Temple,6-6,195,"May 8, 1986",5,Louisiana State University
-17,Marcus Thornton,6-4,205,"June 5, 1987",6,Louisiana State University
-18,John Wall,6-4,195,"September 6, 1990",5,University of Kentucky
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Washington Wizards,Alan Anderson,6-6,220,"October 16, 1982",6,Michigan State University
+1,Washington Wizards,Bradley Beal,6-5,207,"June 28, 1993",3,University of Florida
+2,Washington Wizards,DeJuan Blair,6-7,270,"April 22, 1989",6,University of Pittsburgh
+3,Washington Wizards,Jared Dudley,6-7,225,"July 10, 1985",8,Boston College
+4,Washington Wizards,Jarell Eddie,6-7,218,"October 30, 1991",0,Virginia Polytechnic Institute and State University
+5,Washington Wizards,Drew Gooden,6-10,250,"September 24, 1981",13,University of Kansas
+6,Washington Wizards,Marcin Gortat,6-11,240,"February 17, 1984",8,
+7,Washington Wizards,J.J. Hickson,6-9,242,"September 4, 1988",7,North Carolina State University
+8,Washington Wizards,Nene Hilario,6-11,250,"September 13, 1982",13,
+9,Washington Wizards,Ryan Hollins,7-0,240,"October 10, 1984",9,"University of California, Los Angeles"
+10,Washington Wizards,Kris Humphries,6-9,235,"February 6, 1985",11,University of Minnesota
+11,Washington Wizards,Markieff Morris,6-10,245,"September 2, 1989",4,University of Kansas
+12,Washington Wizards,Gary Neal,6-4,210,"October 3, 1984",5,Towson University
+13,Washington Wizards,Kelly Oubre,6-7,205,"December 9, 1995",0,University of Kansas
+14,Washington Wizards,Otto Porter,6-8,198,"June 3, 1993",2,Georgetown University
+15,Washington Wizards,Ramon Sessions,6-3,190,"April 11, 1986",8,"University of Nevada, Reno"
+16,Washington Wizards,Garrett Temple,6-6,195,"May 8, 1986",5,Louisiana State University
+17,Washington Wizards,Marcus Thornton,6-4,205,"June 5, 1987",6,Louisiana State University
+18,Washington Wizards,John Wall,6-4,195,"September 6, 1990",5,University of Kentucky

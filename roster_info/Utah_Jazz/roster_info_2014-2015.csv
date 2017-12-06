@@ -1,23 +1,23 @@
-,name,height,weight,bday,exp,college
-0,Jerrelle Benimon,6-8,245,"August 1, 1991",0,Towson University
-1,Trevor Booker,6-8,228,"November 25, 1987",4,Clemson University
-2,Trey Burke,6-1,191,"November 12, 1992",1,University of Michigan
-3,Alec Burks,6-6,214,"July 20, 1991",3,University of Colorado
-4,Patrick Christopher,6-5,209,"June 3, 1988",0,University of California
-5,Ian Clark,6-3,175,"March 7, 1991",1,Belmont University
-6,Jack Cooley,6-9,260,"April 4, 1991",0,University of Notre Dame
-7,Bryce Cotton,6-1,165,"August 11, 1992",0,Providence College
-8,Jeremy Evans,6-9,200,"October 24, 1987",4,Western Kentucky University
-9,Dante Exum,6-6,190,"July 13, 1995",0,
-10,Derrick Favors,6-10,265,"July 15, 1991",4,Georgia Institute of Technology
-11,Rudy Gobert,7-1,245,"June 26, 1992",1,
-12,Gordon Hayward,6-8,226,"March 23, 1990",4,Butler University
-13,Rodney Hood,6-8,206,"October 20, 1992",0,Duke University
-14,Joe Ingles,6-8,226,"October 2, 1987",0,
-15,Grant Jerrett,6-10,235,"July 8, 1993",0,University of Arizona
-16,Chris Johnson,6-6,206,"April 29, 1990",2,University of Dayton
-17,Enes Kanter,6-11,245,"May 20, 1992",3,
-18,Elijah Millsap,6-6,225,"August 12, 1987",0,University of Alabama at Birmingham
-19,Toure' Murry,6-5,195,"November 8, 1989",1,Wichita State University
-20,Steve Novak,6-10,225,"June 13, 1983",8,Marquette University
-21,Elliot Williams,6-5,190,"June 20, 1989",2,University of Memphis
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Utah Jazz,Jerrelle Benimon,6-8,245,"August 1, 1991",0,Towson University
+1,Utah Jazz,Trevor Booker,6-8,228,"November 25, 1987",4,Clemson University
+2,Utah Jazz,Trey Burke,6-1,191,"November 12, 1992",1,University of Michigan
+3,Utah Jazz,Alec Burks,6-6,214,"July 20, 1991",3,University of Colorado
+4,Utah Jazz,Patrick Christopher,6-5,209,"June 3, 1988",0,University of California
+5,Utah Jazz,Ian Clark,6-3,175,"March 7, 1991",1,Belmont University
+6,Utah Jazz,Jack Cooley,6-9,260,"April 4, 1991",0,University of Notre Dame
+7,Utah Jazz,Bryce Cotton,6-1,165,"August 11, 1992",0,Providence College
+8,Utah Jazz,Jeremy Evans,6-9,200,"October 24, 1987",4,Western Kentucky University
+9,Utah Jazz,Dante Exum,6-6,190,"July 13, 1995",0,
+10,Utah Jazz,Derrick Favors,6-10,265,"July 15, 1991",4,Georgia Institute of Technology
+11,Utah Jazz,Rudy Gobert,7-1,245,"June 26, 1992",1,
+12,Utah Jazz,Gordon Hayward,6-8,226,"March 23, 1990",4,Butler University
+13,Utah Jazz,Rodney Hood,6-8,206,"October 20, 1992",0,Duke University
+14,Utah Jazz,Joe Ingles,6-8,226,"October 2, 1987",0,
+15,Utah Jazz,Grant Jerrett,6-10,235,"July 8, 1993",0,University of Arizona
+16,Utah Jazz,Chris Johnson,6-6,206,"April 29, 1990",2,University of Dayton
+17,Utah Jazz,Enes Kanter,6-11,245,"May 20, 1992",3,
+18,Utah Jazz,Elijah Millsap,6-6,225,"August 12, 1987",0,University of Alabama at Birmingham
+19,Utah Jazz,Toure' Murry,6-5,195,"November 8, 1989",1,Wichita State University
+20,Utah Jazz,Steve Novak,6-10,225,"June 13, 1983",8,Marquette University
+21,Utah Jazz,Elliot Williams,6-5,190,"June 20, 1989",2,University of Memphis

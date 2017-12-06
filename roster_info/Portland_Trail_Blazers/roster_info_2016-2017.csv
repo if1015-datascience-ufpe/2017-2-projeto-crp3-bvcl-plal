@@ -1,16 +1,16 @@
-,name,height,weight,bday,exp,college
-0,Al-Farouq Aminu,6-9,220,"September 21, 1990",6,Wake Forest University
-1,Pat Connaughton,6-5,206,"January 6, 1993",1,University of Notre Dame
-2,Allen Crabbe,6-6,210,"April 9, 1992",3,University of California
-3,Ed Davis,6-10,240,"June 5, 1989",6,University of North Carolina
-4,Maurice Harkless,6-9,215,"May 11, 1993",4,St. John's University
-5,Jake Layman,6-9,210,"March 7, 1994",0,University of Maryland
-6,Meyers Leonard,7-1,245,"February 27, 1992",4,University of Illinois at Urbana-Champaign
-7,Damian Lillard,6-3,195,"July 15, 1990",4,Weber State University
-8,C.J. McCollum,6-3,190,"September 19, 1991",3,Lehigh University
-9,Shabazz Napier,6-1,175,"July 14, 1991",2,University of Connecticut
-10,Jusuf Nurkic,7-0,280,"August 23, 1994",2,
-11,Mason Plumlee,6-11,245,"March 5, 1990",3,Duke University
-12,Tim Quarterman,6-6,195,"October 27, 1994",0,Louisiana State University
-13,Evan Turner,6-7,220,"October 27, 1988",6,Ohio State University
-14,Noah Vonleh,6-10,240,"August 24, 1995",2,Indiana University
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Portland Trail Blazers,Al-Farouq Aminu,6-9,220,"September 21, 1990",6,Wake Forest University
+1,Portland Trail Blazers,Pat Connaughton,6-5,206,"January 6, 1993",1,University of Notre Dame
+2,Portland Trail Blazers,Allen Crabbe,6-6,210,"April 9, 1992",3,University of California
+3,Portland Trail Blazers,Ed Davis,6-10,240,"June 5, 1989",6,University of North Carolina
+4,Portland Trail Blazers,Maurice Harkless,6-9,215,"May 11, 1993",4,St. John's University
+5,Portland Trail Blazers,Jake Layman,6-9,210,"March 7, 1994",0,University of Maryland
+6,Portland Trail Blazers,Meyers Leonard,7-1,245,"February 27, 1992",4,University of Illinois at Urbana-Champaign
+7,Portland Trail Blazers,Damian Lillard,6-3,195,"July 15, 1990",4,Weber State University
+8,Portland Trail Blazers,C.J. McCollum,6-3,190,"September 19, 1991",3,Lehigh University
+9,Portland Trail Blazers,Shabazz Napier,6-1,175,"July 14, 1991",2,University of Connecticut
+10,Portland Trail Blazers,Jusuf Nurkic,7-0,280,"August 23, 1994",2,
+11,Portland Trail Blazers,Mason Plumlee,6-11,245,"March 5, 1990",3,Duke University
+12,Portland Trail Blazers,Tim Quarterman,6-6,195,"October 27, 1994",0,Louisiana State University
+13,Portland Trail Blazers,Evan Turner,6-7,220,"October 27, 1988",6,Ohio State University
+14,Portland Trail Blazers,Noah Vonleh,6-10,240,"August 24, 1995",2,Indiana University

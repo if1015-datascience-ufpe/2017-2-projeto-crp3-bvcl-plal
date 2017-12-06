@@ -1,24 +1,24 @@
-,name,height,weight,bday,exp,college
-0,Eric Bledsoe,6-1,205,"December 9, 1989",5,University of Kentucky
-1,Devin Booker,6-6,206,"October 30, 1996",0,University of Kentucky
-2,Lorenzo Brown,6-5,189,"August 26, 1990",2,North Carolina State University
-3,Chase Budinger,6-7,209,"May 22, 1988",6,University of Arizona
-4,Tyson Chandler,7-1,240,"October 2, 1982",14,
-5,Bryce Cotton,6-1,165,"August 11, 1992",1,Providence College
-6,Archie Goodwin,6-5,200,"August 17, 1994",2,University of Kentucky
-7,Kris Humphries,6-9,235,"February 6, 1985",11,University of Minnesota
-8,Cory Jefferson,6-9,218,"December 26, 1990",1,Baylor University
-9,John Jenkins,6-4,215,"March 6, 1991",3,Vanderbilt University
-10,Orlando Johnson,6-5,220,"March 11, 1989",2,"University of California, Santa Barbara"
-11,Brandon Knight,6-3,189,"December 2, 1991",4,University of Kentucky
-12,Alex Len,7-1,260,"June 16, 1993",2,University of Maryland
-13,Jon Leuer,6-10,228,"May 14, 1989",4,University of Wisconsin
-14,Jordan McRae,6-6,185,"March 28, 1991",0,University of Tennessee
-15,Markieff Morris,6-10,245,"September 2, 1989",4,University of Kansas
-16,Phil Pressey,5-11,175,"February 17, 1991",2,University of Missouri
-17,Ronnie Price,6-2,190,"June 21, 1983",10,Utah Valley State College
-18,Mirza Teletovic,6-9,242,"September 18, 1985",3,
-19,P.J. Tucker,6-6,245,"May 5, 1985",4,University of Texas at Austin
-20,T.J. Warren,6-8,230,"September 5, 1993",1,North Carolina State University
-21,Sonny Weems,6-6,205,"July 8, 1986",3,University of Arkansas
-22,Alan Williams,6-8,260,"January 28, 1993",0,"University of California, Santa Barbara"
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Phoenix Suns,Eric Bledsoe,6-1,205,"December 9, 1989",5,University of Kentucky
+1,Phoenix Suns,Devin Booker,6-6,206,"October 30, 1996",0,University of Kentucky
+2,Phoenix Suns,Lorenzo Brown,6-5,189,"August 26, 1990",2,North Carolina State University
+3,Phoenix Suns,Chase Budinger,6-7,209,"May 22, 1988",6,University of Arizona
+4,Phoenix Suns,Tyson Chandler,7-1,240,"October 2, 1982",14,
+5,Phoenix Suns,Bryce Cotton,6-1,165,"August 11, 1992",1,Providence College
+6,Phoenix Suns,Archie Goodwin,6-5,200,"August 17, 1994",2,University of Kentucky
+7,Phoenix Suns,Kris Humphries,6-9,235,"February 6, 1985",11,University of Minnesota
+8,Phoenix Suns,Cory Jefferson,6-9,218,"December 26, 1990",1,Baylor University
+9,Phoenix Suns,John Jenkins,6-4,215,"March 6, 1991",3,Vanderbilt University
+10,Phoenix Suns,Orlando Johnson,6-5,220,"March 11, 1989",2,"University of California, Santa Barbara"
+11,Phoenix Suns,Brandon Knight,6-3,189,"December 2, 1991",4,University of Kentucky
+12,Phoenix Suns,Alex Len,7-1,260,"June 16, 1993",2,University of Maryland
+13,Phoenix Suns,Jon Leuer,6-10,228,"May 14, 1989",4,University of Wisconsin
+14,Phoenix Suns,Jordan McRae,6-6,185,"March 28, 1991",0,University of Tennessee
+15,Phoenix Suns,Markieff Morris,6-10,245,"September 2, 1989",4,University of Kansas
+16,Phoenix Suns,Phil Pressey,5-11,175,"February 17, 1991",2,University of Missouri
+17,Phoenix Suns,Ronnie Price,6-2,190,"June 21, 1983",10,Utah Valley State College
+18,Phoenix Suns,Mirza Teletovic,6-9,242,"September 18, 1985",3,
+19,Phoenix Suns,P.J. Tucker,6-6,245,"May 5, 1985",4,University of Texas at Austin
+20,Phoenix Suns,T.J. Warren,6-8,230,"September 5, 1993",1,North Carolina State University
+21,Phoenix Suns,Sonny Weems,6-6,205,"July 8, 1986",3,University of Arkansas
+22,Phoenix Suns,Alan Williams,6-8,260,"January 28, 1993",0,"University of California, Santa Barbara"

@@ -1,16 +1,16 @@
-,name,height,weight,bday,exp,college
-0,Avery Bradley,6-2,180,"November 26, 1990",6,University of Texas at Austin
-1,Jaylen Brown,6-7,225,"October 24, 1996",0,University of California
-2,Jae Crowder,6-6,235,"July 6, 1990",4,Marquette University
-3,Gerald Green,6-7,205,"January 26, 1986",9,
-4,Al Horford,6-10,245,"June 3, 1986",9,University of Florida
-5,Demetrius Jackson,6-1,201,"September 7, 1994",0,University of Notre Dame
-6,Jonas Jerebko,6-10,231,"March 2, 1987",6,
-7,Amir Johnson,6-9,240,"May 1, 1987",11,
-8,Jordan Mickey,6-8,235,"July 9, 1994",1,Louisiana State University
-9,Kelly Olynyk,7-0,238,"April 19, 1991",3,Gonzaga University
-10,Terry Rozier,6-2,190,"March 17, 1994",1,University of Louisville
-11,Marcus Smart,6-4,220,"March 6, 1994",2,Oklahoma State University
-12,Isaiah Thomas,5-9,185,"February 7, 1989",5,University of Washington
-13,James Young,6-6,215,"August 16, 1995",2,University of Kentucky
-14,Tyler Zeller,7-0,253,"January 17, 1990",4,University of North Carolina
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Boston Celtics,Avery Bradley,6-2,180,"November 26, 1990",6,University of Texas at Austin
+1,Boston Celtics,Jaylen Brown,6-7,225,"October 24, 1996",0,University of California
+2,Boston Celtics,Jae Crowder,6-6,235,"July 6, 1990",4,Marquette University
+3,Boston Celtics,Gerald Green,6-7,205,"January 26, 1986",9,
+4,Boston Celtics,Al Horford,6-10,245,"June 3, 1986",9,University of Florida
+5,Boston Celtics,Demetrius Jackson,6-1,201,"September 7, 1994",0,University of Notre Dame
+6,Boston Celtics,Jonas Jerebko,6-10,231,"March 2, 1987",6,
+7,Boston Celtics,Amir Johnson,6-9,240,"May 1, 1987",11,
+8,Boston Celtics,Jordan Mickey,6-8,235,"July 9, 1994",1,Louisiana State University
+9,Boston Celtics,Kelly Olynyk,7-0,238,"April 19, 1991",3,Gonzaga University
+10,Boston Celtics,Terry Rozier,6-2,190,"March 17, 1994",1,University of Louisville
+11,Boston Celtics,Marcus Smart,6-4,220,"March 6, 1994",2,Oklahoma State University
+12,Boston Celtics,Isaiah Thomas,5-9,185,"February 7, 1989",5,University of Washington
+13,Boston Celtics,James Young,6-6,215,"August 16, 1995",2,University of Kentucky
+14,Boston Celtics,Tyler Zeller,7-0,253,"January 17, 1990",4,University of North Carolina

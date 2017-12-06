@@ -1,19 +1,19 @@
-,name,height,weight,bday,exp,college
-0,Tarik Black,6-9,250,"November 22, 1991",0,University of Kansas
-1,Vander Blue,6-4,200,"July 17, 1992",1,Marquette University
-2,Carlos Boozer,6-9,258,"November 20, 1981",12,Duke University
-3,Jabari Brown,6-4,215,"December 18, 1992",0,University of Missouri
-4,Kobe Bryant,6-6,212,"August 23, 1978",18,
-5,Dwight Buycks,6-3,190,"March 6, 1989",1,Marquette University
-6,Jordan Clarkson,6-5,194,"June 7, 1992",0,University of Missouri
-7,Ed Davis,6-10,240,"June 5, 1989",4,University of North Carolina
-8,Wayne Ellington,6-4,200,"October 29, 1987",5,University of North Carolina
-9,Xavier Henry,6-6,220,"March 15, 1991",4,University of Kansas
-10,Jordan Hill,6-10,235,"July 27, 1987",5,University of Arizona
-11,Wesley Johnson,6-7,215,"July 11, 1987",4,Syracuse University
-12,Ryan Kelly,6-11,230,"April 9, 1991",1,Duke University
-13,Jeremy Lin,6-3,200,"August 23, 1988",4,Harvard University
-14,Ronnie Price,6-2,190,"June 21, 1983",9,Utah Valley State College
-15,Julius Randle,6-9,250,"November 29, 1994",0,University of Kentucky
-16,Robert Sacre,7-0,270,"June 6, 1989",2,Gonzaga University
-17,Nick Young,6-7,210,"June 1, 1985",7,University of Southern California
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Los Angeles Lakers,Tarik Black,6-9,250,"November 22, 1991",0,University of Kansas
+1,Los Angeles Lakers,Vander Blue,6-4,200,"July 17, 1992",1,Marquette University
+2,Los Angeles Lakers,Carlos Boozer,6-9,258,"November 20, 1981",12,Duke University
+3,Los Angeles Lakers,Jabari Brown,6-4,215,"December 18, 1992",0,University of Missouri
+4,Los Angeles Lakers,Kobe Bryant,6-6,212,"August 23, 1978",18,
+5,Los Angeles Lakers,Dwight Buycks,6-3,190,"March 6, 1989",1,Marquette University
+6,Los Angeles Lakers,Jordan Clarkson,6-5,194,"June 7, 1992",0,University of Missouri
+7,Los Angeles Lakers,Ed Davis,6-10,240,"June 5, 1989",4,University of North Carolina
+8,Los Angeles Lakers,Wayne Ellington,6-4,200,"October 29, 1987",5,University of North Carolina
+9,Los Angeles Lakers,Xavier Henry,6-6,220,"March 15, 1991",4,University of Kansas
+10,Los Angeles Lakers,Jordan Hill,6-10,235,"July 27, 1987",5,University of Arizona
+11,Los Angeles Lakers,Wesley Johnson,6-7,215,"July 11, 1987",4,Syracuse University
+12,Los Angeles Lakers,Ryan Kelly,6-11,230,"April 9, 1991",1,Duke University
+13,Los Angeles Lakers,Jeremy Lin,6-3,200,"August 23, 1988",4,Harvard University
+14,Los Angeles Lakers,Ronnie Price,6-2,190,"June 21, 1983",9,Utah Valley State College
+15,Los Angeles Lakers,Julius Randle,6-9,250,"November 29, 1994",0,University of Kentucky
+16,Los Angeles Lakers,Robert Sacre,7-0,270,"June 6, 1989",2,Gonzaga University
+17,Los Angeles Lakers,Nick Young,6-7,210,"June 1, 1985",7,University of Southern California

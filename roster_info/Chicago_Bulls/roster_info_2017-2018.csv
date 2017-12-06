@@ -1,18 +1,18 @@
-,name,height,weight,bday,exp,college
-0,Quincy Pondexter,6-7,220,"March 10, 1988",5,University of Washington
-1,Zach LaVine,6-5,189,"March 10, 1995",3,"University of California, Los Angeles"
-2,Cameron Payne,6-3,185,"August 8, 1994",2,Murray State University
-3,Jerian Grant,6-4,195,"October 9, 1992",2,University of Notre Dame
-4,Bobby Portis,6-11,230,"February 10, 1995",2,University of Arkansas
-5,Robin Lopez,7-0,255,"April 1, 1988",9,Stanford University
-6,Denzel Valentine,6-6,212,"November 16, 1993",1,Michigan State University
-7,Paul Zipser,6-8,215,"February 18, 1994",1,
-8,Kris Dunn,6-4,210,"March 18, 1994",1,Providence College
-9,Kay Felder,5-9,176,"March 29, 1995",1,Oakland University
-10,David Nwaba,6-4,209,"January 14, 1993",1,"California Polytechnic State University, San Luis Obispo"
-11,Lauri Markkanen,7-0,230,"May 22, 1997",0,University of Arizona
-12,Cristiano Felicio,6-10,275,"July 7, 1992",2,
-13,Justin Holiday,6-6,185,"April 5, 1989",4,University of Washington
-14,Nikola Mirotic,6-10,220,"February 11, 1991",3,
-15,Ryan Arcidiacono,6-3,188,"March 26, 1994",0,Villanova University
-16,Antonio Blakeney  (TW),6-4,197,"October 4, 1996",0,Louisiana State University
+,Team,Name,Height,Weight,Birthdate,Experience,College
+0,Chicago Bulls,Quincy Pondexter,6-7,220,"March 10, 1988",5,University of Washington
+1,Chicago Bulls,Zach LaVine,6-5,189,"March 10, 1995",3,"University of California, Los Angeles"
+2,Chicago Bulls,Cameron Payne,6-3,185,"August 8, 1994",2,Murray State University
+3,Chicago Bulls,Jerian Grant,6-4,195,"October 9, 1992",2,University of Notre Dame
+4,Chicago Bulls,Bobby Portis,6-11,230,"February 10, 1995",2,University of Arkansas
+5,Chicago Bulls,Robin Lopez,7-0,255,"April 1, 1988",9,Stanford University
+6,Chicago Bulls,Denzel Valentine,6-6,212,"November 16, 1993",1,Michigan State University
+7,Chicago Bulls,Paul Zipser,6-8,215,"February 18, 1994",1,
+8,Chicago Bulls,Kris Dunn,6-4,210,"March 18, 1994",1,Providence College
+9,Chicago Bulls,Kay Felder,5-9,176,"March 29, 1995",1,Oakland University
+10,Chicago Bulls,David Nwaba,6-4,209,"January 14, 1993",1,"California Polytechnic State University, San Luis Obispo"
+11,Chicago Bulls,Lauri Markkanen,7-0,230,"May 22, 1997",0,University of Arizona
+12,Chicago Bulls,Cristiano Felicio,6-10,275,"July 7, 1992",2,
+13,Chicago Bulls,Justin Holiday,6-6,185,"April 5, 1989",4,University of Washington
+14,Chicago Bulls,Nikola Mirotic,6-10,220,"February 11, 1991",3,
+15,Chicago Bulls,Ryan Arcidiacono,6-3,188,"March 26, 1994",0,Villanova University
+16,Chicago Bulls,Antonio Blakeney  (TW),6-4,197,"October 4, 1996",0,Louisiana State University
