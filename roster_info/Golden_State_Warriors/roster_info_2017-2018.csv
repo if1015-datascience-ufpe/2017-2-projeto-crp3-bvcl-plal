@@ -1,18 +1,18 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Golden State Warriors,Klay Thompson,6-7,215,"February 8, 1990",6,Washington State University
-1,Golden State Warriors,Kevon Looney,6-9,220,"February 6, 1996",2,"University of California, Los Angeles"
-2,Golden State Warriors,Draymond Green,6-7,230,"March 4, 1990",5,Michigan State University
-3,Golden State Warriors,Patrick McCaw,6-7,185,"October 25, 1995",1,"University of Nevada, Las Vegas"
-4,Golden State Warriors,Damian Jones,7-0,245,"June 30, 1995",1,Vanderbilt University
-5,Golden State Warriors,Jordan Bell,6-9,224,"January 7, 1995",0,University of Oregon
-6,Golden State Warriors,Stephen Curry,6-3,190,"March 14, 1988",8,Davidson College
-7,Golden State Warriors,Kevin Durant,6-9,240,"September 29, 1988",10,University of Texas at Austin
-8,Golden State Warriors,Andre Iguodala,6-6,215,"January 28, 1984",13,University of Arizona
-9,Golden State Warriors,Shaun Livingston,6-7,192,"September 11, 1985",12,
-10,Golden State Warriors,Nick Young,6-7,210,"June 1, 1985",10,University of Southern California
-11,Golden State Warriors,Zaza Pachulia,6-11,270,"February 10, 1984",14,
-12,Golden State Warriors,Omri Casspi,6-9,225,"June 22, 1988",8,
-13,Golden State Warriors,David West,6-9,250,"August 29, 1980",14,Xavier University
-14,Golden State Warriors,JaVale McGee,7-0,270,"January 19, 1988",9,"University of Nevada, Reno"
-15,Golden State Warriors,Quinn Cook,6-2,184,"March 23, 1993",1,Duke University
-16,Golden State Warriors,Chris Boucher  (TW),6-10,182,"January 11, 1993",0,University of Oregon
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Golden State Warriors,2017-2018,Klay Thompson,6-7,215,"February 8, 1990",6,Washington State University
+1,Golden State Warriors,2017-2018,Kevon Looney,6-9,220,"February 6, 1996",2,"University of California, Los Angeles"
+2,Golden State Warriors,2017-2018,Draymond Green,6-7,230,"March 4, 1990",5,Michigan State University
+3,Golden State Warriors,2017-2018,Patrick McCaw,6-7,185,"October 25, 1995",1,"University of Nevada, Las Vegas"
+4,Golden State Warriors,2017-2018,Damian Jones,7-0,245,"June 30, 1995",1,Vanderbilt University
+5,Golden State Warriors,2017-2018,Jordan Bell,6-9,224,"January 7, 1995",0,University of Oregon
+6,Golden State Warriors,2017-2018,Stephen Curry,6-3,190,"March 14, 1988",8,Davidson College
+7,Golden State Warriors,2017-2018,Kevin Durant,6-9,240,"September 29, 1988",10,University of Texas at Austin
+8,Golden State Warriors,2017-2018,Andre Iguodala,6-6,215,"January 28, 1984",13,University of Arizona
+9,Golden State Warriors,2017-2018,Shaun Livingston,6-7,192,"September 11, 1985",12,
+10,Golden State Warriors,2017-2018,Nick Young,6-7,210,"June 1, 1985",10,University of Southern California
+11,Golden State Warriors,2017-2018,Zaza Pachulia,6-11,270,"February 10, 1984",14,
+12,Golden State Warriors,2017-2018,Omri Casspi,6-9,225,"June 22, 1988",8,
+13,Golden State Warriors,2017-2018,David West,6-9,250,"August 29, 1980",14,Xavier University
+14,Golden State Warriors,2017-2018,JaVale McGee,7-0,270,"January 19, 1988",9,"University of Nevada, Reno"
+15,Golden State Warriors,2017-2018,Quinn Cook,6-2,184,"March 23, 1993",1,Duke University
+16,Golden State Warriors,2017-2018,Chris Boucher  (TW),6-10,182,"January 11, 1993",0,University of Oregon

@@ -1,17 +1,17 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Boston Celtics,Kyrie Irving,6-3,193,"March 23, 1992",6,Duke University
-1,Boston Celtics,Marcus Morris,6-9,235,"September 2, 1989",6,University of Kansas
-2,Boston Celtics,Marcus Smart,6-4,220,"March 6, 1994",3,Oklahoma State University
-3,Boston Celtics,Terry Rozier,6-2,190,"March 17, 1994",2,University of Louisville
-4,Boston Celtics,Al Horford,6-10,245,"June 3, 1986",10,University of Florida
-5,Boston Celtics,Jaylen Brown,6-7,225,"October 24, 1996",1,University of California
-6,Boston Celtics,Jayson Tatum,6-8,205,"March 3, 1998",0,Duke University
-7,Boston Celtics,Gordon Hayward,6-8,226,"March 23, 1990",7,Butler University
-8,Boston Celtics,Abdel Nader,6-6,230,"September 25, 1993",0,Iowa State University
-9,Boston Celtics,Semi Ojeleye,6-7,241,"December 5, 1994",0,Southern Methodist University
-10,Boston Celtics,Aron Baynes,6-10,260,"December 9, 1986",5,Washington State University
-11,Boston Celtics,Guerschon Yabusele,6-7,260,"December 17, 1995",0,
-12,Boston Celtics,Daniel Theis,6-9,215,"April 4, 1992",0,
-13,Boston Celtics,Shane Larkin,5-11,175,"October 2, 1992",3,University of Miami
-14,Boston Celtics,Jabari Bird  (TW),6-6,197,"July 3, 1994",0,University of California
-15,Boston Celtics,Kadeem Allen  (TW),6-3,192,"January 15, 1993",0,University of Arizona
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Boston Celtics,2017-2018,Kyrie Irving,6-3,193,"March 23, 1992",6,Duke University
+1,Boston Celtics,2017-2018,Marcus Morris,6-9,235,"September 2, 1989",6,University of Kansas
+2,Boston Celtics,2017-2018,Marcus Smart,6-4,220,"March 6, 1994",3,Oklahoma State University
+3,Boston Celtics,2017-2018,Terry Rozier,6-2,190,"March 17, 1994",2,University of Louisville
+4,Boston Celtics,2017-2018,Al Horford,6-10,245,"June 3, 1986",10,University of Florida
+5,Boston Celtics,2017-2018,Jaylen Brown,6-7,225,"October 24, 1996",1,University of California
+6,Boston Celtics,2017-2018,Jayson Tatum,6-8,205,"March 3, 1998",0,Duke University
+7,Boston Celtics,2017-2018,Gordon Hayward,6-8,226,"March 23, 1990",7,Butler University
+8,Boston Celtics,2017-2018,Abdel Nader,6-6,230,"September 25, 1993",0,Iowa State University
+9,Boston Celtics,2017-2018,Semi Ojeleye,6-7,241,"December 5, 1994",0,Southern Methodist University
+10,Boston Celtics,2017-2018,Aron Baynes,6-10,260,"December 9, 1986",5,Washington State University
+11,Boston Celtics,2017-2018,Guerschon Yabusele,6-7,260,"December 17, 1995",0,
+12,Boston Celtics,2017-2018,Daniel Theis,6-9,215,"April 4, 1992",0,
+13,Boston Celtics,2017-2018,Shane Larkin,5-11,175,"October 2, 1992",3,University of Miami
+14,Boston Celtics,2017-2018,Jabari Bird  (TW),6-6,197,"July 3, 1994",0,University of California
+15,Boston Celtics,2017-2018,Kadeem Allen  (TW),6-3,192,"January 15, 1993",0,University of Arizona

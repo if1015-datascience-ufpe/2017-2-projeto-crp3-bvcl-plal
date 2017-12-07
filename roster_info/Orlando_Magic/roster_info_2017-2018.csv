@@ -1,18 +1,18 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Orlando Magic,Nikola Vucevic,7-0,260,"October 24, 1990",6,University of Southern California
-1,Orlando Magic,Terrence Ross,6-7,206,"February 5, 1991",5,University of Washington
-2,Orlando Magic,Aaron Gordon,6-9,220,"September 16, 1995",3,University of Arizona
-3,Orlando Magic,Elfrid Payton,6-4,185,"February 22, 1994",3,University of Louisiana at Lafayette
-4,Orlando Magic,Mario Hezonja,6-8,215,"February 25, 1995",2,
-5,Orlando Magic,Bismack Biyombo,6-9,255,"August 28, 1992",6,
-6,Orlando Magic,D.J. Augustin,6-0,183,"November 10, 1987",9,University of Texas at Austin
-7,Orlando Magic,Evan Fournier,6-7,205,"October 29, 1992",5,
-8,Orlando Magic,Jonathan Isaac,6-10,210,"October 3, 1997",0,Florida State University
-9,Orlando Magic,Jonathon Simmons,6-6,195,"September 14, 1989",2,University of Houston
-10,Orlando Magic,Wesley Iwundu,6-7,193,"December 20, 1994",0,Kansas State University
-11,Orlando Magic,Marreese Speights,6-10,255,"August 4, 1987",9,University of Florida
-12,Orlando Magic,Arron Afflalo,6-5,210,"October 15, 1985",10,"University of California, Los Angeles"
-13,Orlando Magic,Khem Birch,6-9,220,"September 28, 1992",0,"University of Nevada, Las Vegas"
-14,Orlando Magic,Shelvin Mack,6-3,203,"April 22, 1990",6,Butler University
-15,Orlando Magic,Jamel Artis  (TW),6-7,213,"January 12, 1993",0,University of Pittsburgh
-16,Orlando Magic,Adreian Payne  (TW),6-10,237,"February 19, 1991",3,Michigan State University
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Orlando Magic,2017-2018,Nikola Vucevic,7-0,260,"October 24, 1990",6,University of Southern California
+1,Orlando Magic,2017-2018,Terrence Ross,6-7,206,"February 5, 1991",5,University of Washington
+2,Orlando Magic,2017-2018,Aaron Gordon,6-9,220,"September 16, 1995",3,University of Arizona
+3,Orlando Magic,2017-2018,Elfrid Payton,6-4,185,"February 22, 1994",3,University of Louisiana at Lafayette
+4,Orlando Magic,2017-2018,Mario Hezonja,6-8,215,"February 25, 1995",2,
+5,Orlando Magic,2017-2018,Bismack Biyombo,6-9,255,"August 28, 1992",6,
+6,Orlando Magic,2017-2018,D.J. Augustin,6-0,183,"November 10, 1987",9,University of Texas at Austin
+7,Orlando Magic,2017-2018,Evan Fournier,6-7,205,"October 29, 1992",5,
+8,Orlando Magic,2017-2018,Jonathan Isaac,6-10,210,"October 3, 1997",0,Florida State University
+9,Orlando Magic,2017-2018,Jonathon Simmons,6-6,195,"September 14, 1989",2,University of Houston
+10,Orlando Magic,2017-2018,Wesley Iwundu,6-7,193,"December 20, 1994",0,Kansas State University
+11,Orlando Magic,2017-2018,Marreese Speights,6-10,255,"August 4, 1987",9,University of Florida
+12,Orlando Magic,2017-2018,Arron Afflalo,6-5,210,"October 15, 1985",10,"University of California, Los Angeles"
+13,Orlando Magic,2017-2018,Khem Birch,6-9,220,"September 28, 1992",0,"University of Nevada, Las Vegas"
+14,Orlando Magic,2017-2018,Shelvin Mack,6-3,203,"April 22, 1990",6,Butler University
+15,Orlando Magic,2017-2018,Jamel Artis  (TW),6-7,213,"January 12, 1993",0,University of Pittsburgh
+16,Orlando Magic,2017-2018,Adreian Payne  (TW),6-10,237,"February 19, 1991",3,Michigan State University

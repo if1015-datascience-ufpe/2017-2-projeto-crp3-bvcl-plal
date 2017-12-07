@@ -1,18 +1,18 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Oklahoma City Thunder,Steven Adams,7-0,255,"July 20, 1993",2,University of Pittsburgh
-1,Oklahoma City Thunder,D.J. Augustin,6-0,183,"November 10, 1987",7,University of Texas at Austin
-2,Oklahoma City Thunder,Nick Collison,6-10,255,"October 26, 1980",11,University of Kansas
-3,Oklahoma City Thunder,Kevin Durant,6-9,240,"September 29, 1988",8,University of Texas at Austin
-4,Oklahoma City Thunder,Randy Foye,6-4,213,"September 24, 1983",9,Villanova University
-5,Oklahoma City Thunder,Josh Huestis,6-7,230,"December 19, 1991",0,Stanford University
-6,Oklahoma City Thunder,Serge Ibaka,6-10,235,"September 18, 1989",6,
-7,Oklahoma City Thunder,Enes Kanter,6-11,245,"May 20, 1992",4,
-8,Oklahoma City Thunder,Mitch McGary,6-10,255,"June 6, 1992",1,University of Michigan
-9,Oklahoma City Thunder,Nazr Mohammed,6-10,221,"September 5, 1977",17,University of Kentucky
-10,Oklahoma City Thunder,Anthony Morrow,6-5,210,"September 27, 1985",7,Georgia Institute of Technology
-11,Oklahoma City Thunder,Steve Novak,6-10,225,"June 13, 1983",9,Marquette University
-12,Oklahoma City Thunder,Cameron Payne,6-3,185,"August 8, 1994",0,Murray State University
-13,Oklahoma City Thunder,Andre Roberson,6-7,210,"December 4, 1991",2,University of Colorado
-14,Oklahoma City Thunder,Kyle Singler,6-8,228,"May 4, 1988",3,Duke University
-15,Oklahoma City Thunder,Dion Waiters,6-4,225,"December 10, 1991",3,Syracuse University
-16,Oklahoma City Thunder,Russell Westbrook,6-3,200,"November 12, 1988",7,"University of California, Los Angeles"
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Oklahoma City Thunder,2015-2016,Steven Adams,7-0,255,"July 20, 1993",2,University of Pittsburgh
+1,Oklahoma City Thunder,2015-2016,D.J. Augustin,6-0,183,"November 10, 1987",7,University of Texas at Austin
+2,Oklahoma City Thunder,2015-2016,Nick Collison,6-10,255,"October 26, 1980",11,University of Kansas
+3,Oklahoma City Thunder,2015-2016,Kevin Durant,6-9,240,"September 29, 1988",8,University of Texas at Austin
+4,Oklahoma City Thunder,2015-2016,Randy Foye,6-4,213,"September 24, 1983",9,Villanova University
+5,Oklahoma City Thunder,2015-2016,Josh Huestis,6-7,230,"December 19, 1991",0,Stanford University
+6,Oklahoma City Thunder,2015-2016,Serge Ibaka,6-10,235,"September 18, 1989",6,
+7,Oklahoma City Thunder,2015-2016,Enes Kanter,6-11,245,"May 20, 1992",4,
+8,Oklahoma City Thunder,2015-2016,Mitch McGary,6-10,255,"June 6, 1992",1,University of Michigan
+9,Oklahoma City Thunder,2015-2016,Nazr Mohammed,6-10,221,"September 5, 1977",17,University of Kentucky
+10,Oklahoma City Thunder,2015-2016,Anthony Morrow,6-5,210,"September 27, 1985",7,Georgia Institute of Technology
+11,Oklahoma City Thunder,2015-2016,Steve Novak,6-10,225,"June 13, 1983",9,Marquette University
+12,Oklahoma City Thunder,2015-2016,Cameron Payne,6-3,185,"August 8, 1994",0,Murray State University
+13,Oklahoma City Thunder,2015-2016,Andre Roberson,6-7,210,"December 4, 1991",2,University of Colorado
+14,Oklahoma City Thunder,2015-2016,Kyle Singler,6-8,228,"May 4, 1988",3,Duke University
+15,Oklahoma City Thunder,2015-2016,Dion Waiters,6-4,225,"December 10, 1991",3,Syracuse University
+16,Oklahoma City Thunder,2015-2016,Russell Westbrook,6-3,200,"November 12, 1988",7,"University of California, Los Angeles"

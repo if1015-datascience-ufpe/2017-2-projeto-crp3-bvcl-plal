@@ -1,18 +1,18 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Milwaukee Bucks,Eric Bledsoe,6-1,205,"December 9, 1989",7,University of Kentucky
-1,Milwaukee Bucks,John Henson,6-11,229,"December 28, 1990",5,University of North Carolina
-2,Milwaukee Bucks,Giannis Antetokounmpo,6-11,222,"December 6, 1994",4,
-3,Milwaukee Bucks,Jabari Parker,6-8,250,"March 15, 1995",3,Duke University
-4,Milwaukee Bucks,Rashad Vaughn,6-6,202,"August 16, 1996",2,"University of Nevada, Las Vegas"
-5,Milwaukee Bucks,Khris Middleton,6-8,234,"August 12, 1991",5,Texas A&M University
-6,Milwaukee Bucks,Mirza Teletovic,6-9,242,"September 18, 1985",5,
-7,Milwaukee Bucks,Matthew Dellavedova,6-4,198,"September 8, 1990",4,Saint Mary's College of California
-8,Milwaukee Bucks,Thon Maker,7-1,216,"February 25, 1997",1,
-9,Milwaukee Bucks,Malcolm Brogdon,6-5,215,"December 11, 1992",1,University of Virginia
-10,Milwaukee Bucks,D.J. Wilson,6-10,234,"February 19, 1996",0,University of Michigan
-11,Milwaukee Bucks,Sterling Brown,6-5,225,"February 10, 1995",0,Southern Methodist University
-12,Milwaukee Bucks,Tony Snell,6-7,200,"November 10, 1991",4,University of New Mexico
-13,Milwaukee Bucks,Jason Terry,6-2,185,"September 15, 1977",18,University of Arizona
-14,Milwaukee Bucks,DeAndre Liggins,6-6,209,"March 31, 1988",4,University of Kentucky
-15,Milwaukee Bucks,Gary Payton II  (TW),6-3,190,"December 1, 1992",1,Oregon State University
-16,Milwaukee Bucks,Joel Bolomboy,6-9,235,"January 28, 1994",1,Weber State University
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Milwaukee Bucks,2017-2018,Eric Bledsoe,6-1,205,"December 9, 1989",7,University of Kentucky
+1,Milwaukee Bucks,2017-2018,John Henson,6-11,229,"December 28, 1990",5,University of North Carolina
+2,Milwaukee Bucks,2017-2018,Giannis Antetokounmpo,6-11,222,"December 6, 1994",4,
+3,Milwaukee Bucks,2017-2018,Jabari Parker,6-8,250,"March 15, 1995",3,Duke University
+4,Milwaukee Bucks,2017-2018,Rashad Vaughn,6-6,202,"August 16, 1996",2,"University of Nevada, Las Vegas"
+5,Milwaukee Bucks,2017-2018,Khris Middleton,6-8,234,"August 12, 1991",5,Texas A&M University
+6,Milwaukee Bucks,2017-2018,Mirza Teletovic,6-9,242,"September 18, 1985",5,
+7,Milwaukee Bucks,2017-2018,Matthew Dellavedova,6-4,198,"September 8, 1990",4,Saint Mary's College of California
+8,Milwaukee Bucks,2017-2018,Thon Maker,7-1,216,"February 25, 1997",1,
+9,Milwaukee Bucks,2017-2018,Malcolm Brogdon,6-5,215,"December 11, 1992",1,University of Virginia
+10,Milwaukee Bucks,2017-2018,D.J. Wilson,6-10,234,"February 19, 1996",0,University of Michigan
+11,Milwaukee Bucks,2017-2018,Sterling Brown,6-5,225,"February 10, 1995",0,Southern Methodist University
+12,Milwaukee Bucks,2017-2018,Tony Snell,6-7,200,"November 10, 1991",4,University of New Mexico
+13,Milwaukee Bucks,2017-2018,Jason Terry,6-2,185,"September 15, 1977",18,University of Arizona
+14,Milwaukee Bucks,2017-2018,DeAndre Liggins,6-6,209,"March 31, 1988",4,University of Kentucky
+15,Milwaukee Bucks,2017-2018,Gary Payton II  (TW),6-3,190,"December 1, 1992",1,Oregon State University
+16,Milwaukee Bucks,2017-2018,Joel Bolomboy,6-9,235,"January 28, 1994",1,Weber State University

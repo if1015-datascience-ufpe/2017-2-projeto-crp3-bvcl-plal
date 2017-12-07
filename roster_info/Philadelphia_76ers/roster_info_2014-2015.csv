@@ -1,26 +1,26 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Philadelphia 76ers,Furkan Aldemir,6-10,240,"August 9, 1991",0,
-1,Philadelphia 76ers,Isaiah Canaan,6-0,201,"May 21, 1991",1,Murray State University
-2,Philadelphia 76ers,Michael Carter-Williams,6-6,190,"October 10, 1991",1,Syracuse University
-3,Philadelphia 76ers,Robert Covington,6-9,215,"December 14, 1990",1,Tennessee State University
-4,Philadelphia 76ers,Brandon Davies,6-10,240,"July 25, 1991",1,Brigham Young University
-5,Philadelphia 76ers,Larry Drew,6-2,180,"March 5, 1990",0,"University of California, Los Angeles"
-6,Philadelphia 76ers,Tim Frazier,6-1,170,"November 1, 1990",0,Pennsylvania State University
-7,Philadelphia 76ers,Drew Gordon,6-9,245,"July 12, 1990",0,University of New Mexico
-8,Philadelphia 76ers,Jerami Grant,6-8,210,"March 12, 1994",0,Syracuse University
-9,Philadelphia 76ers,Chris Johnson,6-6,206,"April 29, 1990",2,University of Dayton
-10,Philadelphia 76ers,Malcolm Lee,6-5,200,"May 22, 1990",2,"University of California, Los Angeles"
-11,Philadelphia 76ers,Luc Mbah a Moute,6-8,230,"September 9, 1986",6,"University of California, Los Angeles"
-12,Philadelphia 76ers,K.J. McDaniels,6-6,205,"February 9, 1993",0,Clemson University
-13,Philadelphia 76ers,JaVale McGee,7-0,270,"January 19, 1988",6,"University of Nevada, Reno"
-14,Philadelphia 76ers,Nerlens Noel,6-11,228,"April 10, 1994",0,University of Kentucky
-15,Philadelphia 76ers,Jason Richardson,6-6,220,"January 20, 1981",12,Michigan State University
-16,Philadelphia 76ers,Glenn Robinson,6-6,222,"January 8, 1994",0,University of Michigan
-17,Philadelphia 76ers,Thomas Robinson,6-10,237,"March 17, 1991",2,University of Kansas
-18,Philadelphia 76ers,JaKarr Sampson,6-9,214,"March 20, 1993",0,St. John's University
-19,Philadelphia 76ers,Alexey Shved,6-6,190,"December 16, 1988",2,
-20,Philadelphia 76ers,Henry Sims,6-10,248,"March 27, 1990",2,Georgetown University
-21,Philadelphia 76ers,Ish Smith,6-0,175,"July 5, 1988",4,Wake Forest University
-22,Philadelphia 76ers,Malcolm Thomas,6-9,225,"November 8, 1988",3,San Diego State University
-23,Philadelphia 76ers,Hollis Thompson,6-8,206,"April 3, 1991",1,Georgetown University
-24,Philadelphia 76ers,Tony Wroten,6-6,205,"April 13, 1993",2,University of Washington
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Philadelphia 76ers,2014-2015,Furkan Aldemir,6-10,240,"August 9, 1991",0,
+1,Philadelphia 76ers,2014-2015,Isaiah Canaan,6-0,201,"May 21, 1991",1,Murray State University
+2,Philadelphia 76ers,2014-2015,Michael Carter-Williams,6-6,190,"October 10, 1991",1,Syracuse University
+3,Philadelphia 76ers,2014-2015,Robert Covington,6-9,215,"December 14, 1990",1,Tennessee State University
+4,Philadelphia 76ers,2014-2015,Brandon Davies,6-10,240,"July 25, 1991",1,Brigham Young University
+5,Philadelphia 76ers,2014-2015,Larry Drew,6-2,180,"March 5, 1990",0,"University of California, Los Angeles"
+6,Philadelphia 76ers,2014-2015,Tim Frazier,6-1,170,"November 1, 1990",0,Pennsylvania State University
+7,Philadelphia 76ers,2014-2015,Drew Gordon,6-9,245,"July 12, 1990",0,University of New Mexico
+8,Philadelphia 76ers,2014-2015,Jerami Grant,6-8,210,"March 12, 1994",0,Syracuse University
+9,Philadelphia 76ers,2014-2015,Chris Johnson,6-6,206,"April 29, 1990",2,University of Dayton
+10,Philadelphia 76ers,2014-2015,Malcolm Lee,6-5,200,"May 22, 1990",2,"University of California, Los Angeles"
+11,Philadelphia 76ers,2014-2015,Luc Mbah a Moute,6-8,230,"September 9, 1986",6,"University of California, Los Angeles"
+12,Philadelphia 76ers,2014-2015,K.J. McDaniels,6-6,205,"February 9, 1993",0,Clemson University
+13,Philadelphia 76ers,2014-2015,JaVale McGee,7-0,270,"January 19, 1988",6,"University of Nevada, Reno"
+14,Philadelphia 76ers,2014-2015,Nerlens Noel,6-11,228,"April 10, 1994",0,University of Kentucky
+15,Philadelphia 76ers,2014-2015,Jason Richardson,6-6,220,"January 20, 1981",12,Michigan State University
+16,Philadelphia 76ers,2014-2015,Glenn Robinson,6-6,222,"January 8, 1994",0,University of Michigan
+17,Philadelphia 76ers,2014-2015,Thomas Robinson,6-10,237,"March 17, 1991",2,University of Kansas
+18,Philadelphia 76ers,2014-2015,JaKarr Sampson,6-9,214,"March 20, 1993",0,St. John's University
+19,Philadelphia 76ers,2014-2015,Alexey Shved,6-6,190,"December 16, 1988",2,
+20,Philadelphia 76ers,2014-2015,Henry Sims,6-10,248,"March 27, 1990",2,Georgetown University
+21,Philadelphia 76ers,2014-2015,Ish Smith,6-0,175,"July 5, 1988",4,Wake Forest University
+22,Philadelphia 76ers,2014-2015,Malcolm Thomas,6-9,225,"November 8, 1988",3,San Diego State University
+23,Philadelphia 76ers,2014-2015,Hollis Thompson,6-8,206,"April 3, 1991",1,Georgetown University
+24,Philadelphia 76ers,2014-2015,Tony Wroten,6-6,205,"April 13, 1993",2,University of Washington

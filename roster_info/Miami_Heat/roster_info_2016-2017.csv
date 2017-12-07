@@ -1,16 +1,16 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Miami Heat,Luke Babbitt,6-9,225,"June 20, 1989",6,"University of Nevada, Reno"
-1,Miami Heat,Goran Dragic,6-3,190,"May 6, 1986",8,
-2,Miami Heat,Wayne Ellington,6-4,200,"October 29, 1987",7,University of North Carolina
-3,Miami Heat,Udonis Haslem,6-8,235,"June 9, 1980",13,University of Florida
-4,Miami Heat,James Johnson,6-9,250,"February 20, 1987",7,Wake Forest University
-5,Miami Heat,Tyler Johnson,6-4,186,"May 7, 1992",2,"California State University, Fresno"
-6,Miami Heat,Rodney McGruder,6-4,205,"July 29, 1991",0,Kansas State University
-7,Miami Heat,Josh McRoberts,6-10,240,"February 28, 1987",9,Duke University
-8,Miami Heat,Willie Reed,6-10,220,"May 16, 1990",1,Saint Louis University
-9,Miami Heat,Josh Richardson,6-6,200,"September 15, 1993",1,University of Tennessee
-10,Miami Heat,Dion Waiters,6-4,225,"December 10, 1991",4,Syracuse University
-11,Miami Heat,Okaro White,6-8,204,"August 13, 1992",0,Florida State University
-12,Miami Heat,Hassan Whiteside,7-0,265,"June 13, 1989",4,Marshall University
-13,Miami Heat,Derrick Williams,6-8,240,"May 25, 1991",5,University of Arizona
-14,Miami Heat,Justise Winslow,6-7,225,"March 26, 1996",1,Duke University
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Miami Heat,2016-2017,Luke Babbitt,6-9,225,"June 20, 1989",6,"University of Nevada, Reno"
+1,Miami Heat,2016-2017,Goran Dragic,6-3,190,"May 6, 1986",8,
+2,Miami Heat,2016-2017,Wayne Ellington,6-4,200,"October 29, 1987",7,University of North Carolina
+3,Miami Heat,2016-2017,Udonis Haslem,6-8,235,"June 9, 1980",13,University of Florida
+4,Miami Heat,2016-2017,James Johnson,6-9,250,"February 20, 1987",7,Wake Forest University
+5,Miami Heat,2016-2017,Tyler Johnson,6-4,186,"May 7, 1992",2,"California State University, Fresno"
+6,Miami Heat,2016-2017,Rodney McGruder,6-4,205,"July 29, 1991",0,Kansas State University
+7,Miami Heat,2016-2017,Josh McRoberts,6-10,240,"February 28, 1987",9,Duke University
+8,Miami Heat,2016-2017,Willie Reed,6-10,220,"May 16, 1990",1,Saint Louis University
+9,Miami Heat,2016-2017,Josh Richardson,6-6,200,"September 15, 1993",1,University of Tennessee
+10,Miami Heat,2016-2017,Dion Waiters,6-4,225,"December 10, 1991",4,Syracuse University
+11,Miami Heat,2016-2017,Okaro White,6-8,204,"August 13, 1992",0,Florida State University
+12,Miami Heat,2016-2017,Hassan Whiteside,7-0,265,"June 13, 1989",4,Marshall University
+13,Miami Heat,2016-2017,Derrick Williams,6-8,240,"May 25, 1991",5,University of Arizona
+14,Miami Heat,2016-2017,Justise Winslow,6-7,225,"March 26, 1996",1,Duke University

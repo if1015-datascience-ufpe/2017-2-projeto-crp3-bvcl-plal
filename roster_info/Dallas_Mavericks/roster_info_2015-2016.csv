@@ -1,17 +1,17 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Dallas Mavericks,Justin Anderson,6-6,228,"November 19, 1993",0,University of Virginia
-1,Dallas Mavericks,J.J. Barea,6-0,185,"June 26, 1984",9,Northeastern University
-2,Dallas Mavericks,Jeremy Evans,6-9,200,"October 24, 1987",5,Western Kentucky University
-3,Dallas Mavericks,Raymond Felton,6-1,205,"June 26, 1984",10,University of North Carolina
-4,Dallas Mavericks,Devin Harris,6-3,192,"February 27, 1983",11,University of Wisconsin
-5,Dallas Mavericks,John Jenkins,6-4,215,"March 6, 1991",3,Vanderbilt University
-6,Dallas Mavericks,David Lee,6-9,245,"April 29, 1983",10,University of Florida
-7,Dallas Mavericks,Wesley Matthews,6-5,220,"October 14, 1986",6,Marquette University
-8,Dallas Mavericks,JaVale McGee,7-0,270,"January 19, 1988",7,"University of Nevada, Reno"
-9,Dallas Mavericks,Salah Mejri,7-1,245,"June 15, 1986",0,
-10,Dallas Mavericks,Dirk Nowitzki,7-0,245,"June 19, 1978",17,
-11,Dallas Mavericks,Zaza Pachulia,6-11,270,"February 10, 1984",12,
-12,Dallas Mavericks,Chandler Parsons,6-10,230,"October 25, 1988",4,University of Florida
-13,Dallas Mavericks,Dwight Powell,6-11,240,"July 20, 1991",1,Stanford University
-14,Dallas Mavericks,Charlie Villanueva,6-11,232,"August 24, 1984",10,University of Connecticut
-15,Dallas Mavericks,Deron Williams,6-3,200,"June 26, 1984",10,University of Illinois at Urbana-Champaign
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Dallas Mavericks,2015-2016,Justin Anderson,6-6,228,"November 19, 1993",0,University of Virginia
+1,Dallas Mavericks,2015-2016,J.J. Barea,6-0,185,"June 26, 1984",9,Northeastern University
+2,Dallas Mavericks,2015-2016,Jeremy Evans,6-9,200,"October 24, 1987",5,Western Kentucky University
+3,Dallas Mavericks,2015-2016,Raymond Felton,6-1,205,"June 26, 1984",10,University of North Carolina
+4,Dallas Mavericks,2015-2016,Devin Harris,6-3,192,"February 27, 1983",11,University of Wisconsin
+5,Dallas Mavericks,2015-2016,John Jenkins,6-4,215,"March 6, 1991",3,Vanderbilt University
+6,Dallas Mavericks,2015-2016,David Lee,6-9,245,"April 29, 1983",10,University of Florida
+7,Dallas Mavericks,2015-2016,Wesley Matthews,6-5,220,"October 14, 1986",6,Marquette University
+8,Dallas Mavericks,2015-2016,JaVale McGee,7-0,270,"January 19, 1988",7,"University of Nevada, Reno"
+9,Dallas Mavericks,2015-2016,Salah Mejri,7-1,245,"June 15, 1986",0,
+10,Dallas Mavericks,2015-2016,Dirk Nowitzki,7-0,245,"June 19, 1978",17,
+11,Dallas Mavericks,2015-2016,Zaza Pachulia,6-11,270,"February 10, 1984",12,
+12,Dallas Mavericks,2015-2016,Chandler Parsons,6-10,230,"October 25, 1988",4,University of Florida
+13,Dallas Mavericks,2015-2016,Dwight Powell,6-11,240,"July 20, 1991",1,Stanford University
+14,Dallas Mavericks,2015-2016,Charlie Villanueva,6-11,232,"August 24, 1984",10,University of Connecticut
+15,Dallas Mavericks,2015-2016,Deron Williams,6-3,200,"June 26, 1984",10,University of Illinois at Urbana-Champaign

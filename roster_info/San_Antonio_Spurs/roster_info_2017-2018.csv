@@ -1,18 +1,18 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,San Antonio Spurs,Tony Parker,6-2,185,"May 17, 1982",16,
-1,San Antonio Spurs,Kyle Anderson,6-9,230,"September 20, 1993",3,"University of California, Los Angeles"
-2,San Antonio Spurs,Kawhi Leonard,6-7,230,"June 29, 1991",6,San Diego State University
-3,San Antonio Spurs,Danny Green,6-6,215,"June 22, 1987",8,University of North Carolina
-4,San Antonio Spurs,LaMarcus Aldridge,6-11,260,"July 19, 1985",11,University of Texas at Austin
-5,San Antonio Spurs,Dejounte Murray,6-5,170,"September 19, 1996",1,University of Washington
-6,San Antonio Spurs,Bryn Forbes,6-3,190,"July 23, 1993",1,Michigan State University
-7,San Antonio Spurs,Davis Bertans,6-10,210,"November 12, 1992",1,
-8,San Antonio Spurs,Rudy Gay,6-8,230,"August 17, 1986",11,University of Connecticut
-9,San Antonio Spurs,Derrick White,6-5,190,"July 2, 1994",0,University of Colorado
-10,San Antonio Spurs,Brandon Paul,6-4,200,"April 30, 1991",0,University of Illinois at Urbana-Champaign
-11,San Antonio Spurs,Joffrey Lauvergne,6-11,220,"September 30, 1991",3,
-12,San Antonio Spurs,Pau Gasol,7-0,250,"July 6, 1980",16,
-13,San Antonio Spurs,Patty Mills,6-0,185,"August 11, 1988",8,Saint Mary's College of California
-14,San Antonio Spurs,Manu Ginobili,6-6,205,"July 28, 1977",15,
-15,San Antonio Spurs,Darrun Hilliard  (TW),6-6,205,"April 13, 1993",2,Villanova University
-16,San Antonio Spurs,Matt Costello  (TW),6-9,245,"August 5, 1993",0,Michigan State University
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,San Antonio Spurs,2017-2018,Tony Parker,6-2,185,"May 17, 1982",16,
+1,San Antonio Spurs,2017-2018,Kyle Anderson,6-9,230,"September 20, 1993",3,"University of California, Los Angeles"
+2,San Antonio Spurs,2017-2018,Kawhi Leonard,6-7,230,"June 29, 1991",6,San Diego State University
+3,San Antonio Spurs,2017-2018,Danny Green,6-6,215,"June 22, 1987",8,University of North Carolina
+4,San Antonio Spurs,2017-2018,LaMarcus Aldridge,6-11,260,"July 19, 1985",11,University of Texas at Austin
+5,San Antonio Spurs,2017-2018,Dejounte Murray,6-5,170,"September 19, 1996",1,University of Washington
+6,San Antonio Spurs,2017-2018,Bryn Forbes,6-3,190,"July 23, 1993",1,Michigan State University
+7,San Antonio Spurs,2017-2018,Davis Bertans,6-10,210,"November 12, 1992",1,
+8,San Antonio Spurs,2017-2018,Rudy Gay,6-8,230,"August 17, 1986",11,University of Connecticut
+9,San Antonio Spurs,2017-2018,Derrick White,6-5,190,"July 2, 1994",0,University of Colorado
+10,San Antonio Spurs,2017-2018,Brandon Paul,6-4,200,"April 30, 1991",0,University of Illinois at Urbana-Champaign
+11,San Antonio Spurs,2017-2018,Joffrey Lauvergne,6-11,220,"September 30, 1991",3,
+12,San Antonio Spurs,2017-2018,Pau Gasol,7-0,250,"July 6, 1980",16,
+13,San Antonio Spurs,2017-2018,Patty Mills,6-0,185,"August 11, 1988",8,Saint Mary's College of California
+14,San Antonio Spurs,2017-2018,Manu Ginobili,6-6,205,"July 28, 1977",15,
+15,San Antonio Spurs,2017-2018,Darrun Hilliard  (TW),6-6,205,"April 13, 1993",2,Villanova University
+16,San Antonio Spurs,2017-2018,Matt Costello  (TW),6-9,245,"August 5, 1993",0,Michigan State University

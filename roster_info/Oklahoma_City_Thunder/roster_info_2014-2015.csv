@@ -1,22 +1,22 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Oklahoma City Thunder,Steven Adams,7-0,255,"July 20, 1993",1,University of Pittsburgh
-1,Oklahoma City Thunder,D.J. Augustin,6-0,183,"November 10, 1987",6,University of Texas at Austin
-2,Oklahoma City Thunder,Nick Collison,6-10,255,"October 26, 1980",10,University of Kansas
-3,Oklahoma City Thunder,Kevin Durant,6-9,240,"September 29, 1988",7,University of Texas at Austin
-4,Oklahoma City Thunder,Serge Ibaka,6-10,235,"September 18, 1989",5,
-5,Oklahoma City Thunder,Reggie Jackson,6-3,208,"April 16, 1990",3,Boston College
-6,Oklahoma City Thunder,Grant Jerrett,6-10,235,"July 8, 1993",0,University of Arizona
-7,Oklahoma City Thunder,Perry Jones,6-11,235,"September 24, 1991",2,Baylor University
-8,Oklahoma City Thunder,Enes Kanter,6-11,245,"May 20, 1992",3,
-9,Oklahoma City Thunder,Jeremy Lamb,6-5,185,"May 30, 1992",2,University of Connecticut
-10,Oklahoma City Thunder,Mitch McGary,6-10,255,"June 6, 1992",0,University of Michigan
-11,Oklahoma City Thunder,Anthony Morrow,6-5,210,"September 27, 1985",6,Georgia Institute of Technology
-12,Oklahoma City Thunder,Steve Novak,6-10,225,"June 13, 1983",8,Marquette University
-13,Oklahoma City Thunder,Kendrick Perkins,6-10,270,"November 10, 1984",11,
-14,Oklahoma City Thunder,Andre Roberson,6-7,210,"December 4, 1991",1,University of Colorado
-15,Oklahoma City Thunder,Kyle Singler,6-8,228,"May 4, 1988",2,Duke University
-16,Oklahoma City Thunder,Ish Smith,6-0,175,"July 5, 1988",4,Wake Forest University
-17,Oklahoma City Thunder,Sebastian Telfair,6-0,165,"June 9, 1985",9,
-18,Oklahoma City Thunder,Lance Thomas,6-8,235,"April 24, 1988",3,Duke University
-19,Oklahoma City Thunder,Dion Waiters,6-4,225,"December 10, 1991",2,Syracuse University
-20,Oklahoma City Thunder,Russell Westbrook,6-3,200,"November 12, 1988",6,"University of California, Los Angeles"
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Oklahoma City Thunder,2014-2015,Steven Adams,7-0,255,"July 20, 1993",1,University of Pittsburgh
+1,Oklahoma City Thunder,2014-2015,D.J. Augustin,6-0,183,"November 10, 1987",6,University of Texas at Austin
+2,Oklahoma City Thunder,2014-2015,Nick Collison,6-10,255,"October 26, 1980",10,University of Kansas
+3,Oklahoma City Thunder,2014-2015,Kevin Durant,6-9,240,"September 29, 1988",7,University of Texas at Austin
+4,Oklahoma City Thunder,2014-2015,Serge Ibaka,6-10,235,"September 18, 1989",5,
+5,Oklahoma City Thunder,2014-2015,Reggie Jackson,6-3,208,"April 16, 1990",3,Boston College
+6,Oklahoma City Thunder,2014-2015,Grant Jerrett,6-10,235,"July 8, 1993",0,University of Arizona
+7,Oklahoma City Thunder,2014-2015,Perry Jones,6-11,235,"September 24, 1991",2,Baylor University
+8,Oklahoma City Thunder,2014-2015,Enes Kanter,6-11,245,"May 20, 1992",3,
+9,Oklahoma City Thunder,2014-2015,Jeremy Lamb,6-5,185,"May 30, 1992",2,University of Connecticut
+10,Oklahoma City Thunder,2014-2015,Mitch McGary,6-10,255,"June 6, 1992",0,University of Michigan
+11,Oklahoma City Thunder,2014-2015,Anthony Morrow,6-5,210,"September 27, 1985",6,Georgia Institute of Technology
+12,Oklahoma City Thunder,2014-2015,Steve Novak,6-10,225,"June 13, 1983",8,Marquette University
+13,Oklahoma City Thunder,2014-2015,Kendrick Perkins,6-10,270,"November 10, 1984",11,
+14,Oklahoma City Thunder,2014-2015,Andre Roberson,6-7,210,"December 4, 1991",1,University of Colorado
+15,Oklahoma City Thunder,2014-2015,Kyle Singler,6-8,228,"May 4, 1988",2,Duke University
+16,Oklahoma City Thunder,2014-2015,Ish Smith,6-0,175,"July 5, 1988",4,Wake Forest University
+17,Oklahoma City Thunder,2014-2015,Sebastian Telfair,6-0,165,"June 9, 1985",9,
+18,Oklahoma City Thunder,2014-2015,Lance Thomas,6-8,235,"April 24, 1988",3,Duke University
+19,Oklahoma City Thunder,2014-2015,Dion Waiters,6-4,225,"December 10, 1991",2,Syracuse University
+20,Oklahoma City Thunder,2014-2015,Russell Westbrook,6-3,200,"November 12, 1988",6,"University of California, Los Angeles"

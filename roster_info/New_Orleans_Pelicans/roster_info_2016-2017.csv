@@ -1,27 +1,27 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,New Orleans Pelicans,Alexis Ajinca,7-2,248,"May 6, 1988",6,
-1,New Orleans Pelicans,Omer Asik,7-0,255,"July 4, 1986",6,
-2,New Orleans Pelicans,Anthony Brown,6-7,210,"October 10, 1992",1,Stanford University
-3,New Orleans Pelicans,Omri Casspi,6-9,225,"June 22, 1988",7,
-4,New Orleans Pelicans,Quinn Cook,6-2,184,"March 23, 1993",0,Duke University
-5,New Orleans Pelicans,DeMarcus Cousins,6-11,270,"August 13, 1990",6,University of Kentucky
-6,New Orleans Pelicans,Jordan Crawford,6-4,195,"October 23, 1988",4,Xavier University
-7,New Orleans Pelicans,Dante Cunningham,6-8,230,"April 22, 1987",7,Villanova University
-8,New Orleans Pelicans,Anthony Davis,6-10,253,"March 11, 1993",4,University of Kentucky
-9,New Orleans Pelicans,Cheick Diallo,6-9,220,"September 13, 1996",0,University of Kansas
-10,New Orleans Pelicans,Tyreke Evans,6-6,220,"September 19, 1989",7,University of Memphis
-11,New Orleans Pelicans,Tim Frazier,6-1,170,"November 1, 1990",2,Pennsylvania State University
-12,New Orleans Pelicans,Langston Galloway,6-2,200,"December 9, 1991",2,Saint Joseph's University
-13,New Orleans Pelicans,Archie Goodwin,6-5,200,"August 17, 1994",3,University of Kentucky
-14,New Orleans Pelicans,Buddy Hield,6-4,214,"December 17, 1993",0,University of Oklahoma
-15,New Orleans Pelicans,Solomon Hill,6-7,225,"March 18, 1991",3,University of Arizona
-16,New Orleans Pelicans,Jrue Holiday,6-4,205,"June 12, 1990",7,"University of California, Los Angeles"
-17,New Orleans Pelicans,Jarrett Jack,6-3,200,"October 28, 1983",11,Georgia Institute of Technology
-18,New Orleans Pelicans,Terrence Jones,6-9,252,"January 9, 1992",4,University of Kentucky
-19,New Orleans Pelicans,E'Twaun Moore,6-4,191,"February 28, 1989",5,Purdue University
-20,New Orleans Pelicans,Donatas Motiejunas,7-0,222,"September 20, 1990",4,
-21,New Orleans Pelicans,Wayne Selden,6-5,230,"September 30, 1994",0,University of Kansas
-22,New Orleans Pelicans,Lance Stephenson,6-5,230,"September 5, 1990",6,University of Cincinnati
-23,New Orleans Pelicans,Hollis Thompson,6-8,206,"April 3, 1991",3,Georgetown University
-24,New Orleans Pelicans,Axel Toupane,6-7,197,"July 23, 1992",1,
-25,New Orleans Pelicans,Reggie Williams,6-6,205,"September 14, 1986",6,Virginia Military Institute
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,New Orleans Pelicans,2016-2017,Alexis Ajinca,7-2,248,"May 6, 1988",6,
+1,New Orleans Pelicans,2016-2017,Omer Asik,7-0,255,"July 4, 1986",6,
+2,New Orleans Pelicans,2016-2017,Anthony Brown,6-7,210,"October 10, 1992",1,Stanford University
+3,New Orleans Pelicans,2016-2017,Omri Casspi,6-9,225,"June 22, 1988",7,
+4,New Orleans Pelicans,2016-2017,Quinn Cook,6-2,184,"March 23, 1993",0,Duke University
+5,New Orleans Pelicans,2016-2017,DeMarcus Cousins,6-11,270,"August 13, 1990",6,University of Kentucky
+6,New Orleans Pelicans,2016-2017,Jordan Crawford,6-4,195,"October 23, 1988",4,Xavier University
+7,New Orleans Pelicans,2016-2017,Dante Cunningham,6-8,230,"April 22, 1987",7,Villanova University
+8,New Orleans Pelicans,2016-2017,Anthony Davis,6-10,253,"March 11, 1993",4,University of Kentucky
+9,New Orleans Pelicans,2016-2017,Cheick Diallo,6-9,220,"September 13, 1996",0,University of Kansas
+10,New Orleans Pelicans,2016-2017,Tyreke Evans,6-6,220,"September 19, 1989",7,University of Memphis
+11,New Orleans Pelicans,2016-2017,Tim Frazier,6-1,170,"November 1, 1990",2,Pennsylvania State University
+12,New Orleans Pelicans,2016-2017,Langston Galloway,6-2,200,"December 9, 1991",2,Saint Joseph's University
+13,New Orleans Pelicans,2016-2017,Archie Goodwin,6-5,200,"August 17, 1994",3,University of Kentucky
+14,New Orleans Pelicans,2016-2017,Buddy Hield,6-4,214,"December 17, 1993",0,University of Oklahoma
+15,New Orleans Pelicans,2016-2017,Solomon Hill,6-7,225,"March 18, 1991",3,University of Arizona
+16,New Orleans Pelicans,2016-2017,Jrue Holiday,6-4,205,"June 12, 1990",7,"University of California, Los Angeles"
+17,New Orleans Pelicans,2016-2017,Jarrett Jack,6-3,200,"October 28, 1983",11,Georgia Institute of Technology
+18,New Orleans Pelicans,2016-2017,Terrence Jones,6-9,252,"January 9, 1992",4,University of Kentucky
+19,New Orleans Pelicans,2016-2017,E'Twaun Moore,6-4,191,"February 28, 1989",5,Purdue University
+20,New Orleans Pelicans,2016-2017,Donatas Motiejunas,7-0,222,"September 20, 1990",4,
+21,New Orleans Pelicans,2016-2017,Wayne Selden,6-5,230,"September 30, 1994",0,University of Kansas
+22,New Orleans Pelicans,2016-2017,Lance Stephenson,6-5,230,"September 5, 1990",6,University of Cincinnati
+23,New Orleans Pelicans,2016-2017,Hollis Thompson,6-8,206,"April 3, 1991",3,Georgetown University
+24,New Orleans Pelicans,2016-2017,Axel Toupane,6-7,197,"July 23, 1992",1,
+25,New Orleans Pelicans,2016-2017,Reggie Williams,6-6,205,"September 14, 1986",6,Virginia Military Institute

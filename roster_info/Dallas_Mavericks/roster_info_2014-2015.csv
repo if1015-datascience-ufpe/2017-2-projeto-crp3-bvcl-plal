@@ -1,20 +1,20 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Dallas Mavericks,Al-Farouq Aminu,6-9,220,"September 21, 1990",4,Wake Forest University
-1,Dallas Mavericks,J.J. Barea,6-0,185,"June 26, 1984",8,Northeastern University
-2,Dallas Mavericks,Tyson Chandler,7-1,240,"October 2, 1982",13,
-3,Dallas Mavericks,Jae Crowder,6-6,235,"July 6, 1990",2,Marquette University
-4,Dallas Mavericks,Monta Ellis,6-3,185,"October 26, 1985",9,
-5,Dallas Mavericks,Raymond Felton,6-1,205,"June 26, 1984",9,University of North Carolina
-6,Dallas Mavericks,Devin Harris,6-3,192,"February 27, 1983",10,University of Wisconsin
-7,Dallas Mavericks,Bernard James,6-10,240,"February 7, 1985",2,Florida State University
-8,Dallas Mavericks,Richard Jefferson,6-7,233,"June 21, 1980",13,University of Arizona
-9,Dallas Mavericks,Ricky Ledo,6-7,195,"September 10, 1992",1,
-10,Dallas Mavericks,Jameer Nelson,6-0,190,"February 9, 1982",10,Saint Joseph's University
-11,Dallas Mavericks,Dirk Nowitzki,7-0,245,"June 19, 1978",16,
-12,Dallas Mavericks,Chandler Parsons,6-10,230,"October 25, 1988",3,University of Florida
-13,Dallas Mavericks,Dwight Powell,6-11,240,"July 20, 1991",0,Stanford University
-14,Dallas Mavericks,Rajon Rondo,6-1,186,"February 22, 1986",8,University of Kentucky
-15,Dallas Mavericks,Greg Smith,6-10,250,"January 8, 1991",3,"California State University, Fresno"
-16,Dallas Mavericks,Amar'e Stoudemire,6-10,245,"November 16, 1982",12,
-17,Dallas Mavericks,Charlie Villanueva,6-11,232,"August 24, 1984",9,University of Connecticut
-18,Dallas Mavericks,Brandan Wright,6-10,210,"October 5, 1987",6,University of North Carolina
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Dallas Mavericks,2014-2015,Al-Farouq Aminu,6-9,220,"September 21, 1990",4,Wake Forest University
+1,Dallas Mavericks,2014-2015,J.J. Barea,6-0,185,"June 26, 1984",8,Northeastern University
+2,Dallas Mavericks,2014-2015,Tyson Chandler,7-1,240,"October 2, 1982",13,
+3,Dallas Mavericks,2014-2015,Jae Crowder,6-6,235,"July 6, 1990",2,Marquette University
+4,Dallas Mavericks,2014-2015,Monta Ellis,6-3,185,"October 26, 1985",9,
+5,Dallas Mavericks,2014-2015,Raymond Felton,6-1,205,"June 26, 1984",9,University of North Carolina
+6,Dallas Mavericks,2014-2015,Devin Harris,6-3,192,"February 27, 1983",10,University of Wisconsin
+7,Dallas Mavericks,2014-2015,Bernard James,6-10,240,"February 7, 1985",2,Florida State University
+8,Dallas Mavericks,2014-2015,Richard Jefferson,6-7,233,"June 21, 1980",13,University of Arizona
+9,Dallas Mavericks,2014-2015,Ricky Ledo,6-7,195,"September 10, 1992",1,
+10,Dallas Mavericks,2014-2015,Jameer Nelson,6-0,190,"February 9, 1982",10,Saint Joseph's University
+11,Dallas Mavericks,2014-2015,Dirk Nowitzki,7-0,245,"June 19, 1978",16,
+12,Dallas Mavericks,2014-2015,Chandler Parsons,6-10,230,"October 25, 1988",3,University of Florida
+13,Dallas Mavericks,2014-2015,Dwight Powell,6-11,240,"July 20, 1991",0,Stanford University
+14,Dallas Mavericks,2014-2015,Rajon Rondo,6-1,186,"February 22, 1986",8,University of Kentucky
+15,Dallas Mavericks,2014-2015,Greg Smith,6-10,250,"January 8, 1991",3,"California State University, Fresno"
+16,Dallas Mavericks,2014-2015,Amar'e Stoudemire,6-10,245,"November 16, 1982",12,
+17,Dallas Mavericks,2014-2015,Charlie Villanueva,6-11,232,"August 24, 1984",9,University of Connecticut
+18,Dallas Mavericks,2014-2015,Brandan Wright,6-10,210,"October 5, 1987",6,University of North Carolina

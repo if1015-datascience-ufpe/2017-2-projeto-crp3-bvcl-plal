@@ -1,17 +1,17 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Boston Celtics,Avery Bradley,6-2,180,"November 26, 1990",5,University of Texas at Austin
-1,Boston Celtics,Coty Clarke,6-7,232,"July 4, 1992",0,University of Arkansas
-2,Boston Celtics,Jae Crowder,6-6,235,"July 6, 1990",3,Marquette University
-3,Boston Celtics,R.J. Hunter,6-5,185,"October 24, 1993",0,Georgia State University
-4,Boston Celtics,Jonas Jerebko,6-10,231,"March 2, 1987",5,
-5,Boston Celtics,Amir Johnson,6-9,240,"May 1, 1987",10,
-6,Boston Celtics,David Lee,6-9,245,"April 29, 1983",10,University of Florida
-7,Boston Celtics,Jordan Mickey,6-8,235,"July 9, 1994",0,Louisiana State University
-8,Boston Celtics,Kelly Olynyk,7-0,238,"April 19, 1991",2,Gonzaga University
-9,Boston Celtics,Terry Rozier,6-2,190,"March 17, 1994",0,University of Louisville
-10,Boston Celtics,Marcus Smart,6-4,220,"March 6, 1994",1,Oklahoma State University
-11,Boston Celtics,Jared Sullinger,6-9,260,"March 4, 1992",3,Ohio State University
-12,Boston Celtics,Isaiah Thomas,5-9,185,"February 7, 1989",4,University of Washington
-13,Boston Celtics,Evan Turner,6-7,220,"October 27, 1988",5,Ohio State University
-14,Boston Celtics,James Young,6-6,215,"August 16, 1995",1,University of Kentucky
-15,Boston Celtics,Tyler Zeller,7-0,253,"January 17, 1990",3,University of North Carolina
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Boston Celtics,2015-2016,Avery Bradley,6-2,180,"November 26, 1990",5,University of Texas at Austin
+1,Boston Celtics,2015-2016,Coty Clarke,6-7,232,"July 4, 1992",0,University of Arkansas
+2,Boston Celtics,2015-2016,Jae Crowder,6-6,235,"July 6, 1990",3,Marquette University
+3,Boston Celtics,2015-2016,R.J. Hunter,6-5,185,"October 24, 1993",0,Georgia State University
+4,Boston Celtics,2015-2016,Jonas Jerebko,6-10,231,"March 2, 1987",5,
+5,Boston Celtics,2015-2016,Amir Johnson,6-9,240,"May 1, 1987",10,
+6,Boston Celtics,2015-2016,David Lee,6-9,245,"April 29, 1983",10,University of Florida
+7,Boston Celtics,2015-2016,Jordan Mickey,6-8,235,"July 9, 1994",0,Louisiana State University
+8,Boston Celtics,2015-2016,Kelly Olynyk,7-0,238,"April 19, 1991",2,Gonzaga University
+9,Boston Celtics,2015-2016,Terry Rozier,6-2,190,"March 17, 1994",0,University of Louisville
+10,Boston Celtics,2015-2016,Marcus Smart,6-4,220,"March 6, 1994",1,Oklahoma State University
+11,Boston Celtics,2015-2016,Jared Sullinger,6-9,260,"March 4, 1992",3,Ohio State University
+12,Boston Celtics,2015-2016,Isaiah Thomas,5-9,185,"February 7, 1989",4,University of Washington
+13,Boston Celtics,2015-2016,Evan Turner,6-7,220,"October 27, 1988",5,Ohio State University
+14,Boston Celtics,2015-2016,James Young,6-6,215,"August 16, 1995",1,University of Kentucky
+15,Boston Celtics,2015-2016,Tyler Zeller,7-0,253,"January 17, 1990",3,University of North Carolina

@@ -1,17 +1,17 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Los Angeles Lakers,Julius Randle,6-9,250,"November 29, 1994",3,University of Kentucky
-1,Los Angeles Lakers,Larry Nance Jr.,6-9,230,"January 1, 1993",2,University of Wyoming
-2,Los Angeles Lakers,Brook Lopez,7-0,275,"April 1, 1988",9,Stanford University
-3,Los Angeles Lakers,Corey Brewer,6-9,186,"March 5, 1986",10,University of Florida
-4,Los Angeles Lakers,Luol Deng,6-9,220,"April 16, 1985",13,Duke University
-5,Los Angeles Lakers,Ivica Zubac,7-1,265,"March 18, 1997",1,
-6,Los Angeles Lakers,Jordan Clarkson,6-5,194,"June 7, 1992",3,University of Missouri
-7,Los Angeles Lakers,Brandon Ingram,6-9,190,"September 2, 1997",1,Duke University
-8,Los Angeles Lakers,Lonzo Ball,6-6,190,"October 27, 1997",0,"University of California, Los Angeles"
-9,Los Angeles Lakers,Kyle Kuzma,6-9,220,"July 24, 1995",0,University of Utah
-10,Los Angeles Lakers,Josh Hart,6-5,209,"March 6, 1995",0,Villanova University
-11,Los Angeles Lakers,Kentavious Caldwell-Pope,6-5,205,"February 18, 1993",4,University of Georgia
-12,Los Angeles Lakers,Tyler Ennis,6-3,194,"August 24, 1994",3,Syracuse University
-13,Los Angeles Lakers,Thomas Bryant,6-10,248,"July 31, 1997",0,Indiana University
-14,Los Angeles Lakers,Andrew Bogut,7-0,260,"November 28, 1984",12,University of Utah
-15,Los Angeles Lakers,Vander Blue,6-4,200,"July 17, 1992",2,Marquette University
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Los Angeles Lakers,2017-2018,Julius Randle,6-9,250,"November 29, 1994",3,University of Kentucky
+1,Los Angeles Lakers,2017-2018,Larry Nance Jr.,6-9,230,"January 1, 1993",2,University of Wyoming
+2,Los Angeles Lakers,2017-2018,Brook Lopez,7-0,275,"April 1, 1988",9,Stanford University
+3,Los Angeles Lakers,2017-2018,Corey Brewer,6-9,186,"March 5, 1986",10,University of Florida
+4,Los Angeles Lakers,2017-2018,Luol Deng,6-9,220,"April 16, 1985",13,Duke University
+5,Los Angeles Lakers,2017-2018,Ivica Zubac,7-1,265,"March 18, 1997",1,
+6,Los Angeles Lakers,2017-2018,Jordan Clarkson,6-5,194,"June 7, 1992",3,University of Missouri
+7,Los Angeles Lakers,2017-2018,Brandon Ingram,6-9,190,"September 2, 1997",1,Duke University
+8,Los Angeles Lakers,2017-2018,Lonzo Ball,6-6,190,"October 27, 1997",0,"University of California, Los Angeles"
+9,Los Angeles Lakers,2017-2018,Kyle Kuzma,6-9,220,"July 24, 1995",0,University of Utah
+10,Los Angeles Lakers,2017-2018,Josh Hart,6-5,209,"March 6, 1995",0,Villanova University
+11,Los Angeles Lakers,2017-2018,Kentavious Caldwell-Pope,6-5,205,"February 18, 1993",4,University of Georgia
+12,Los Angeles Lakers,2017-2018,Tyler Ennis,6-3,194,"August 24, 1994",3,Syracuse University
+13,Los Angeles Lakers,2017-2018,Thomas Bryant,6-10,248,"July 31, 1997",0,Indiana University
+14,Los Angeles Lakers,2017-2018,Andrew Bogut,7-0,260,"November 28, 1984",12,University of Utah
+15,Los Angeles Lakers,2017-2018,Vander Blue,6-4,200,"July 17, 1992",2,Marquette University

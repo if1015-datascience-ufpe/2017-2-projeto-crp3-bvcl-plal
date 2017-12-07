@@ -1,20 +1,20 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Denver Nuggets,Darrell Arthur,6-9,235,"March 25, 1988",7,University of Kansas
-1,Denver Nuggets,Will Barton,6-6,175,"January 6, 1991",4,University of Memphis
-2,Denver Nuggets,Malik Beasley,6-5,196,"November 26, 1996",0,Florida State University
-3,Denver Nuggets,Wilson Chandler,6-8,225,"May 10, 1987",8,DePaul University
-4,Denver Nuggets,Kenneth Faried,6-8,228,"November 19, 1989",5,Morehead State University
-5,Denver Nuggets,Danilo Gallinari,6-10,225,"August 8, 1988",7,
-6,Denver Nuggets,Alonzo Gee,6-6,225,"May 29, 1987",7,University of Alabama
-7,Denver Nuggets,Gary Harris,6-4,210,"September 14, 1994",2,Michigan State University
-8,Denver Nuggets,Juan Hernangomez,6-9,230,"September 28, 1995",0,
-9,Denver Nuggets,Roy Hibbert,7-2,270,"December 11, 1986",8,Georgetown University
-10,Denver Nuggets,Nikola Jokic,6-10,250,"February 19, 1995",1,
-11,Denver Nuggets,Mike Miller,6-8,218,"February 19, 1980",16,University of Florida
-12,Denver Nuggets,Emmanuel Mudiay,6-5,200,"March 5, 1996",1,
-13,Denver Nuggets,Jamal Murray,6-4,207,"February 23, 1997",0,University of Kentucky
-14,Denver Nuggets,Jameer Nelson,6-0,190,"February 9, 1982",12,Saint Joseph's University
-15,Denver Nuggets,Jusuf Nurkic,7-0,280,"August 23, 1994",2,
-16,Denver Nuggets,Johnny O'Bryant,6-9,257,"June 1, 1993",2,Louisiana State University
-17,Denver Nuggets,Mason Plumlee,6-11,245,"March 5, 1990",3,Duke University
-18,Denver Nuggets,Jarnell Stokes,6-9,263,"January 7, 1994",2,University of Tennessee
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Denver Nuggets,2016-2017,Darrell Arthur,6-9,235,"March 25, 1988",7,University of Kansas
+1,Denver Nuggets,2016-2017,Will Barton,6-6,175,"January 6, 1991",4,University of Memphis
+2,Denver Nuggets,2016-2017,Malik Beasley,6-5,196,"November 26, 1996",0,Florida State University
+3,Denver Nuggets,2016-2017,Wilson Chandler,6-8,225,"May 10, 1987",8,DePaul University
+4,Denver Nuggets,2016-2017,Kenneth Faried,6-8,228,"November 19, 1989",5,Morehead State University
+5,Denver Nuggets,2016-2017,Danilo Gallinari,6-10,225,"August 8, 1988",7,
+6,Denver Nuggets,2016-2017,Alonzo Gee,6-6,225,"May 29, 1987",7,University of Alabama
+7,Denver Nuggets,2016-2017,Gary Harris,6-4,210,"September 14, 1994",2,Michigan State University
+8,Denver Nuggets,2016-2017,Juan Hernangomez,6-9,230,"September 28, 1995",0,
+9,Denver Nuggets,2016-2017,Roy Hibbert,7-2,270,"December 11, 1986",8,Georgetown University
+10,Denver Nuggets,2016-2017,Nikola Jokic,6-10,250,"February 19, 1995",1,
+11,Denver Nuggets,2016-2017,Mike Miller,6-8,218,"February 19, 1980",16,University of Florida
+12,Denver Nuggets,2016-2017,Emmanuel Mudiay,6-5,200,"March 5, 1996",1,
+13,Denver Nuggets,2016-2017,Jamal Murray,6-4,207,"February 23, 1997",0,University of Kentucky
+14,Denver Nuggets,2016-2017,Jameer Nelson,6-0,190,"February 9, 1982",12,Saint Joseph's University
+15,Denver Nuggets,2016-2017,Jusuf Nurkic,7-0,280,"August 23, 1994",2,
+16,Denver Nuggets,2016-2017,Johnny O'Bryant,6-9,257,"June 1, 1993",2,Louisiana State University
+17,Denver Nuggets,2016-2017,Mason Plumlee,6-11,245,"March 5, 1990",3,Duke University
+18,Denver Nuggets,2016-2017,Jarnell Stokes,6-9,263,"January 7, 1994",2,University of Tennessee

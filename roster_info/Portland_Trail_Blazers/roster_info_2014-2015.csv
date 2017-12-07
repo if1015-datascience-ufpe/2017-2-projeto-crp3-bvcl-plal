@@ -1,19 +1,19 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Portland Trail Blazers,Arron Afflalo,6-5,210,"October 15, 1985",7,"University of California, Los Angeles"
-1,Portland Trail Blazers,LaMarcus Aldridge,6-11,260,"July 19, 1985",8,University of Texas at Austin
-2,Portland Trail Blazers,Will Barton,6-6,175,"January 6, 1991",2,University of Memphis
-3,Portland Trail Blazers,Nicolas Batum,6-8,200,"December 14, 1988",6,
-4,Portland Trail Blazers,Steve Blake,6-3,172,"February 26, 1980",11,University of Maryland
-5,Portland Trail Blazers,Victor Claver,6-9,224,"August 30, 1988",2,
-6,Portland Trail Blazers,Allen Crabbe,6-6,210,"April 9, 1992",1,University of California
-7,Portland Trail Blazers,Tim Frazier,6-1,170,"November 1, 1990",0,Pennsylvania State University
-8,Portland Trail Blazers,Joel Freeland,6-10,250,"February 7, 1987",2,
-9,Portland Trail Blazers,Alonzo Gee,6-6,225,"May 29, 1987",5,University of Alabama
-10,Portland Trail Blazers,Chris Kaman,7-0,265,"April 28, 1982",11,Central Michigan University
-11,Portland Trail Blazers,Meyers Leonard,7-1,245,"February 27, 1992",2,University of Illinois at Urbana-Champaign
-12,Portland Trail Blazers,Damian Lillard,6-3,195,"July 15, 1990",2,Weber State University
-13,Portland Trail Blazers,Robin Lopez,7-0,255,"April 1, 1988",6,Stanford University
-14,Portland Trail Blazers,Wesley Matthews,6-5,220,"October 14, 1986",5,Marquette University
-15,Portland Trail Blazers,C.J. McCollum,6-3,190,"September 19, 1991",1,Lehigh University
-16,Portland Trail Blazers,Thomas Robinson,6-10,237,"March 17, 1991",2,University of Kansas
-17,Portland Trail Blazers,Dorell Wright,6-9,205,"December 2, 1985",10,
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Portland Trail Blazers,2014-2015,Arron Afflalo,6-5,210,"October 15, 1985",7,"University of California, Los Angeles"
+1,Portland Trail Blazers,2014-2015,LaMarcus Aldridge,6-11,260,"July 19, 1985",8,University of Texas at Austin
+2,Portland Trail Blazers,2014-2015,Will Barton,6-6,175,"January 6, 1991",2,University of Memphis
+3,Portland Trail Blazers,2014-2015,Nicolas Batum,6-8,200,"December 14, 1988",6,
+4,Portland Trail Blazers,2014-2015,Steve Blake,6-3,172,"February 26, 1980",11,University of Maryland
+5,Portland Trail Blazers,2014-2015,Victor Claver,6-9,224,"August 30, 1988",2,
+6,Portland Trail Blazers,2014-2015,Allen Crabbe,6-6,210,"April 9, 1992",1,University of California
+7,Portland Trail Blazers,2014-2015,Tim Frazier,6-1,170,"November 1, 1990",0,Pennsylvania State University
+8,Portland Trail Blazers,2014-2015,Joel Freeland,6-10,250,"February 7, 1987",2,
+9,Portland Trail Blazers,2014-2015,Alonzo Gee,6-6,225,"May 29, 1987",5,University of Alabama
+10,Portland Trail Blazers,2014-2015,Chris Kaman,7-0,265,"April 28, 1982",11,Central Michigan University
+11,Portland Trail Blazers,2014-2015,Meyers Leonard,7-1,245,"February 27, 1992",2,University of Illinois at Urbana-Champaign
+12,Portland Trail Blazers,2014-2015,Damian Lillard,6-3,195,"July 15, 1990",2,Weber State University
+13,Portland Trail Blazers,2014-2015,Robin Lopez,7-0,255,"April 1, 1988",6,Stanford University
+14,Portland Trail Blazers,2014-2015,Wesley Matthews,6-5,220,"October 14, 1986",5,Marquette University
+15,Portland Trail Blazers,2014-2015,C.J. McCollum,6-3,190,"September 19, 1991",1,Lehigh University
+16,Portland Trail Blazers,2014-2015,Thomas Robinson,6-10,237,"March 17, 1991",2,University of Kansas
+17,Portland Trail Blazers,2014-2015,Dorell Wright,6-9,205,"December 2, 1985",10,

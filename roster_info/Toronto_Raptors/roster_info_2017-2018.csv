@@ -1,17 +1,17 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Toronto Raptors,Lucas Nogueira,7-0,241,"July 26, 1992",3,
-1,Toronto Raptors,Jonas Valanciunas,7-0,265,"May 6, 1992",5,
-2,Toronto Raptors,Bruno Caboclo,6-9,218,"September 21, 1995",3,
-3,Toronto Raptors,Delon Wright,6-5,183,"April 26, 1992",2,University of Utah
-4,Toronto Raptors,Norman Powell,6-4,215,"May 25, 1993",2,"University of California, Los Angeles"
-5,Toronto Raptors,DeMar DeRozan,6-7,221,"August 7, 1989",8,University of Southern California
-6,Toronto Raptors,Jakob Poeltl,7-0,248,"October 15, 1995",1,University of Utah
-7,Toronto Raptors,Pascal Siakam,6-9,230,"February 4, 1994",1,New Mexico State University
-8,Toronto Raptors,Fred VanVleet,6-0,195,"February 25, 1994",1,Wichita State University
-9,Toronto Raptors,OG Anunoby,6-8,232,"July 17, 1997",0,Indiana University
-10,Toronto Raptors,Alfonzo McKinnie,6-8,215,"September 17, 1992",0,University of Wisconsin-Green Bay
-11,Toronto Raptors,C.J. Miles,6-6,225,"April 18, 1987",12,
-12,Toronto Raptors,Kyle Lowry,6-0,205,"March 25, 1986",11,Villanova University
-13,Toronto Raptors,Serge Ibaka,6-10,235,"September 18, 1989",8,
-14,Toronto Raptors,Lorenzo Brown  (TW),6-5,189,"August 26, 1990",3,North Carolina State University
-15,Toronto Raptors,Malcolm Miller  (TW),6-7,210,"March 6, 1993",0,College of the Holy Cross
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Toronto Raptors,2017-2018,Lucas Nogueira,7-0,241,"July 26, 1992",3,
+1,Toronto Raptors,2017-2018,Jonas Valanciunas,7-0,265,"May 6, 1992",5,
+2,Toronto Raptors,2017-2018,Bruno Caboclo,6-9,218,"September 21, 1995",3,
+3,Toronto Raptors,2017-2018,Delon Wright,6-5,183,"April 26, 1992",2,University of Utah
+4,Toronto Raptors,2017-2018,Norman Powell,6-4,215,"May 25, 1993",2,"University of California, Los Angeles"
+5,Toronto Raptors,2017-2018,DeMar DeRozan,6-7,221,"August 7, 1989",8,University of Southern California
+6,Toronto Raptors,2017-2018,Jakob Poeltl,7-0,248,"October 15, 1995",1,University of Utah
+7,Toronto Raptors,2017-2018,Pascal Siakam,6-9,230,"February 4, 1994",1,New Mexico State University
+8,Toronto Raptors,2017-2018,Fred VanVleet,6-0,195,"February 25, 1994",1,Wichita State University
+9,Toronto Raptors,2017-2018,OG Anunoby,6-8,232,"July 17, 1997",0,Indiana University
+10,Toronto Raptors,2017-2018,Alfonzo McKinnie,6-8,215,"September 17, 1992",0,University of Wisconsin-Green Bay
+11,Toronto Raptors,2017-2018,C.J. Miles,6-6,225,"April 18, 1987",12,
+12,Toronto Raptors,2017-2018,Kyle Lowry,6-0,205,"March 25, 1986",11,Villanova University
+13,Toronto Raptors,2017-2018,Serge Ibaka,6-10,235,"September 18, 1989",8,
+14,Toronto Raptors,2017-2018,Lorenzo Brown  (TW),6-5,189,"August 26, 1990",3,North Carolina State University
+15,Toronto Raptors,2017-2018,Malcolm Miller  (TW),6-7,210,"March 6, 1993",0,College of the Holy Cross

@@ -1,19 +1,19 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Philadelphia 76ers,Elton Brand,6-8,275,"March 11, 1979",16,Duke University
-1,Philadelphia 76ers,Isaiah Canaan,6-0,201,"May 21, 1991",2,Murray State University
-2,Philadelphia 76ers,Robert Covington,6-9,215,"December 14, 1990",2,Tennessee State University
-3,Philadelphia 76ers,Jerami Grant,6-8,210,"March 12, 1994",1,Syracuse University
-4,Philadelphia 76ers,Richaun Holmes,6-10,245,"October 15, 1993",0,Bowling Green State University
-5,Philadelphia 76ers,Carl Landry,6-9,248,"September 19, 1983",8,Purdue University
-6,Philadelphia 76ers,Kendall Marshall,6-4,200,"August 19, 1991",3,University of North Carolina
-7,Philadelphia 76ers,T.J. McConnell,6-2,200,"March 25, 1992",0,University of Arizona
-8,Philadelphia 76ers,Nerlens Noel,6-11,228,"April 10, 1994",1,University of Kentucky
-9,Philadelphia 76ers,Jahlil Okafor,6-11,275,"December 15, 1995",0,Duke University
-10,Philadelphia 76ers,Phil Pressey,5-11,175,"February 17, 1991",2,University of Missouri
-11,Philadelphia 76ers,JaKarr Sampson,6-9,214,"March 20, 1993",1,St. John's University
-12,Philadelphia 76ers,Ish Smith,6-0,175,"July 5, 1988",5,Wake Forest University
-13,Philadelphia 76ers,Nik Stauskas,6-6,205,"October 7, 1993",1,University of Michigan
-14,Philadelphia 76ers,Hollis Thompson,6-8,206,"April 3, 1991",2,Georgetown University
-15,Philadelphia 76ers,Sonny Weems,6-6,205,"July 8, 1986",3,University of Arkansas
-16,Philadelphia 76ers,Christian Wood,6-11,220,"September 27, 1995",0,"University of Nevada, Las Vegas"
-17,Philadelphia 76ers,Tony Wroten,6-6,205,"April 13, 1993",3,University of Washington
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Philadelphia 76ers,2015-2016,Elton Brand,6-8,275,"March 11, 1979",16,Duke University
+1,Philadelphia 76ers,2015-2016,Isaiah Canaan,6-0,201,"May 21, 1991",2,Murray State University
+2,Philadelphia 76ers,2015-2016,Robert Covington,6-9,215,"December 14, 1990",2,Tennessee State University
+3,Philadelphia 76ers,2015-2016,Jerami Grant,6-8,210,"March 12, 1994",1,Syracuse University
+4,Philadelphia 76ers,2015-2016,Richaun Holmes,6-10,245,"October 15, 1993",0,Bowling Green State University
+5,Philadelphia 76ers,2015-2016,Carl Landry,6-9,248,"September 19, 1983",8,Purdue University
+6,Philadelphia 76ers,2015-2016,Kendall Marshall,6-4,200,"August 19, 1991",3,University of North Carolina
+7,Philadelphia 76ers,2015-2016,T.J. McConnell,6-2,200,"March 25, 1992",0,University of Arizona
+8,Philadelphia 76ers,2015-2016,Nerlens Noel,6-11,228,"April 10, 1994",1,University of Kentucky
+9,Philadelphia 76ers,2015-2016,Jahlil Okafor,6-11,275,"December 15, 1995",0,Duke University
+10,Philadelphia 76ers,2015-2016,Phil Pressey,5-11,175,"February 17, 1991",2,University of Missouri
+11,Philadelphia 76ers,2015-2016,JaKarr Sampson,6-9,214,"March 20, 1993",1,St. John's University
+12,Philadelphia 76ers,2015-2016,Ish Smith,6-0,175,"July 5, 1988",5,Wake Forest University
+13,Philadelphia 76ers,2015-2016,Nik Stauskas,6-6,205,"October 7, 1993",1,University of Michigan
+14,Philadelphia 76ers,2015-2016,Hollis Thompson,6-8,206,"April 3, 1991",2,Georgetown University
+15,Philadelphia 76ers,2015-2016,Sonny Weems,6-6,205,"July 8, 1986",3,University of Arkansas
+16,Philadelphia 76ers,2015-2016,Christian Wood,6-11,220,"September 27, 1995",0,"University of Nevada, Las Vegas"
+17,Philadelphia 76ers,2015-2016,Tony Wroten,6-6,205,"April 13, 1993",3,University of Washington

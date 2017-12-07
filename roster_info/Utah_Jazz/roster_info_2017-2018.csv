@@ -1,18 +1,18 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Utah Jazz,Rudy Gobert,7-1,245,"June 26, 1992",4,
-1,Utah Jazz,Ricky Rubio,6-4,194,"October 21, 1990",6,
-2,Utah Jazz,Derrick Favors,6-10,265,"July 15, 1991",7,Georgia Institute of Technology
-3,Utah Jazz,Alec Burks,6-6,214,"July 20, 1991",6,University of Colorado
-4,Utah Jazz,Dante Exum,6-6,190,"July 13, 1995",2,
-5,Utah Jazz,Rodney Hood,6-8,206,"October 20, 1992",3,Duke University
-6,Utah Jazz,Raul Neto,6-1,179,"May 19, 1992",2,
-7,Utah Jazz,Joe Johnson,6-7,240,"June 29, 1981",16,University of Arkansas
-8,Utah Jazz,Donovan Mitchell,6-3,211,"September 7, 1996",0,University of Louisville
-9,Utah Jazz,Tony Bradley,6-11,240,"January 8, 1998",0,University of North Carolina
-10,Utah Jazz,Jonas Jerebko,6-10,231,"March 2, 1987",7,
-11,Utah Jazz,Thabo Sefolosha,6-7,220,"May 2, 1984",11,
-12,Utah Jazz,Royce O'Neale,6-6,215,"June 5, 1993",0,Baylor University
-13,Utah Jazz,Ekpe Udoh,6-10,240,"May 20, 1987",5,Baylor University
-14,Utah Jazz,Joe Ingles,6-8,226,"October 2, 1987",3,
-15,Utah Jazz,Nate Wolters  (TW),6-4,190,"May 15, 1991",2,South Dakota State University
-16,Utah Jazz,Eric Griffin  (TW),6-8,194,"May 26, 1990",0,Campbell University
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Utah Jazz,2017-2018,Rudy Gobert,7-1,245,"June 26, 1992",4,
+1,Utah Jazz,2017-2018,Ricky Rubio,6-4,194,"October 21, 1990",6,
+2,Utah Jazz,2017-2018,Derrick Favors,6-10,265,"July 15, 1991",7,Georgia Institute of Technology
+3,Utah Jazz,2017-2018,Alec Burks,6-6,214,"July 20, 1991",6,University of Colorado
+4,Utah Jazz,2017-2018,Dante Exum,6-6,190,"July 13, 1995",2,
+5,Utah Jazz,2017-2018,Rodney Hood,6-8,206,"October 20, 1992",3,Duke University
+6,Utah Jazz,2017-2018,Raul Neto,6-1,179,"May 19, 1992",2,
+7,Utah Jazz,2017-2018,Joe Johnson,6-7,240,"June 29, 1981",16,University of Arkansas
+8,Utah Jazz,2017-2018,Donovan Mitchell,6-3,211,"September 7, 1996",0,University of Louisville
+9,Utah Jazz,2017-2018,Tony Bradley,6-11,240,"January 8, 1998",0,University of North Carolina
+10,Utah Jazz,2017-2018,Jonas Jerebko,6-10,231,"March 2, 1987",7,
+11,Utah Jazz,2017-2018,Thabo Sefolosha,6-7,220,"May 2, 1984",11,
+12,Utah Jazz,2017-2018,Royce O'Neale,6-6,215,"June 5, 1993",0,Baylor University
+13,Utah Jazz,2017-2018,Ekpe Udoh,6-10,240,"May 20, 1987",5,Baylor University
+14,Utah Jazz,2017-2018,Joe Ingles,6-8,226,"October 2, 1987",3,
+15,Utah Jazz,2017-2018,Nate Wolters  (TW),6-4,190,"May 15, 1991",2,South Dakota State University
+16,Utah Jazz,2017-2018,Eric Griffin  (TW),6-8,194,"May 26, 1990",0,Campbell University

@@ -1,16 +1,16 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Utah Jazz,Joel Bolomboy,6-9,235,"January 28, 1994",0,Weber State University
-1,Utah Jazz,Alec Burks,6-6,214,"July 20, 1991",5,University of Colorado
-2,Utah Jazz,Boris Diaw,6-8,250,"April 16, 1982",13,
-3,Utah Jazz,Dante Exum,6-6,190,"July 13, 1995",1,
-4,Utah Jazz,Derrick Favors,6-10,265,"July 15, 1991",6,Georgia Institute of Technology
-5,Utah Jazz,Rudy Gobert,7-1,245,"June 26, 1992",3,
-6,Utah Jazz,Gordon Hayward,6-8,226,"March 23, 1990",6,Butler University
-7,Utah Jazz,George Hill,6-3,188,"May 4, 1986",8,Indiana University-Purdue University Indianapolis
-8,Utah Jazz,Rodney Hood,6-8,206,"October 20, 1992",2,Duke University
-9,Utah Jazz,Joe Ingles,6-8,226,"October 2, 1987",2,
-10,Utah Jazz,Joe Johnson,6-7,240,"June 29, 1981",15,University of Arkansas
-11,Utah Jazz,Trey Lyles,6-10,234,"November 5, 1995",1,University of Kentucky
-12,Utah Jazz,Shelvin Mack,6-3,203,"April 22, 1990",5,Butler University
-13,Utah Jazz,Raul Neto,6-1,179,"May 19, 1992",1,
-14,Utah Jazz,Jeff Withey,7-0,231,"March 7, 1990",3,University of Kansas
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Utah Jazz,2016-2017,Joel Bolomboy,6-9,235,"January 28, 1994",0,Weber State University
+1,Utah Jazz,2016-2017,Alec Burks,6-6,214,"July 20, 1991",5,University of Colorado
+2,Utah Jazz,2016-2017,Boris Diaw,6-8,250,"April 16, 1982",13,
+3,Utah Jazz,2016-2017,Dante Exum,6-6,190,"July 13, 1995",1,
+4,Utah Jazz,2016-2017,Derrick Favors,6-10,265,"July 15, 1991",6,Georgia Institute of Technology
+5,Utah Jazz,2016-2017,Rudy Gobert,7-1,245,"June 26, 1992",3,
+6,Utah Jazz,2016-2017,Gordon Hayward,6-8,226,"March 23, 1990",6,Butler University
+7,Utah Jazz,2016-2017,George Hill,6-3,188,"May 4, 1986",8,Indiana University-Purdue University Indianapolis
+8,Utah Jazz,2016-2017,Rodney Hood,6-8,206,"October 20, 1992",2,Duke University
+9,Utah Jazz,2016-2017,Joe Ingles,6-8,226,"October 2, 1987",2,
+10,Utah Jazz,2016-2017,Joe Johnson,6-7,240,"June 29, 1981",15,University of Arkansas
+11,Utah Jazz,2016-2017,Trey Lyles,6-10,234,"November 5, 1995",1,University of Kentucky
+12,Utah Jazz,2016-2017,Shelvin Mack,6-3,203,"April 22, 1990",5,Butler University
+13,Utah Jazz,2016-2017,Raul Neto,6-1,179,"May 19, 1992",1,
+14,Utah Jazz,2016-2017,Jeff Withey,7-0,231,"March 7, 1990",3,University of Kansas

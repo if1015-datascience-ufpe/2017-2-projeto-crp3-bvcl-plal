@@ -1,20 +1,20 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Orlando Magic,D.J. Augustin,6-0,183,"November 10, 1987",8,University of Texas at Austin
-1,Orlando Magic,Bismack Biyombo,6-9,255,"August 28, 1992",5,
-2,Orlando Magic,Anthony Brown,6-7,210,"October 10, 1992",1,Stanford University
-3,Orlando Magic,Evan Fournier,6-7,205,"October 29, 1992",4,
-4,Orlando Magic,Patricio Garino,6-6,210,"May 17, 1993",0,George Washington University
-5,Orlando Magic,Marcus Georges-Hunt,6-5,216,"March 28, 1994",0,Georgia Institute of Technology
-6,Orlando Magic,Aaron Gordon,6-9,220,"September 16, 1995",2,University of Arizona
-7,Orlando Magic,Jeff Green,6-9,235,"August 28, 1986",8,Georgetown University
-8,Orlando Magic,Mario Hezonja,6-8,215,"February 25, 1995",1,
-9,Orlando Magic,Serge Ibaka,6-10,235,"September 18, 1989",7,
-10,Orlando Magic,Jodie Meeks,6-4,210,"August 21, 1987",7,University of Kentucky
-11,Orlando Magic,Arinze Onuaku,6-9,255,"July 13, 1987",2,Syracuse University
-12,Orlando Magic,Elfrid Payton,6-4,185,"February 22, 1994",2,University of Louisiana at Lafayette
-13,Orlando Magic,Terrence Ross,6-7,206,"February 5, 1991",4,University of Washington
-14,Orlando Magic,Damjan Rudez,6-10,228,"June 17, 1986",2,
-15,Orlando Magic,Nikola Vucevic,7-0,260,"October 24, 1990",5,University of Southern California
-16,Orlando Magic,C.J. Watson,6-2,175,"April 17, 1984",9,University of Tennessee
-17,Orlando Magic,C.J. Wilcox,6-5,195,"December 30, 1990",2,University of Washington
-18,Orlando Magic,Stephen Zimmerman,7-0,240,"September 9, 1996",0,"University of Nevada, Las Vegas"
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Orlando Magic,2016-2017,D.J. Augustin,6-0,183,"November 10, 1987",8,University of Texas at Austin
+1,Orlando Magic,2016-2017,Bismack Biyombo,6-9,255,"August 28, 1992",5,
+2,Orlando Magic,2016-2017,Anthony Brown,6-7,210,"October 10, 1992",1,Stanford University
+3,Orlando Magic,2016-2017,Evan Fournier,6-7,205,"October 29, 1992",4,
+4,Orlando Magic,2016-2017,Patricio Garino,6-6,210,"May 17, 1993",0,George Washington University
+5,Orlando Magic,2016-2017,Marcus Georges-Hunt,6-5,216,"March 28, 1994",0,Georgia Institute of Technology
+6,Orlando Magic,2016-2017,Aaron Gordon,6-9,220,"September 16, 1995",2,University of Arizona
+7,Orlando Magic,2016-2017,Jeff Green,6-9,235,"August 28, 1986",8,Georgetown University
+8,Orlando Magic,2016-2017,Mario Hezonja,6-8,215,"February 25, 1995",1,
+9,Orlando Magic,2016-2017,Serge Ibaka,6-10,235,"September 18, 1989",7,
+10,Orlando Magic,2016-2017,Jodie Meeks,6-4,210,"August 21, 1987",7,University of Kentucky
+11,Orlando Magic,2016-2017,Arinze Onuaku,6-9,255,"July 13, 1987",2,Syracuse University
+12,Orlando Magic,2016-2017,Elfrid Payton,6-4,185,"February 22, 1994",2,University of Louisiana at Lafayette
+13,Orlando Magic,2016-2017,Terrence Ross,6-7,206,"February 5, 1991",4,University of Washington
+14,Orlando Magic,2016-2017,Damjan Rudez,6-10,228,"June 17, 1986",2,
+15,Orlando Magic,2016-2017,Nikola Vucevic,7-0,260,"October 24, 1990",5,University of Southern California
+16,Orlando Magic,2016-2017,C.J. Watson,6-2,175,"April 17, 1984",9,University of Tennessee
+17,Orlando Magic,2016-2017,C.J. Wilcox,6-5,195,"December 30, 1990",2,University of Washington
+18,Orlando Magic,2016-2017,Stephen Zimmerman,7-0,240,"September 9, 1996",0,"University of Nevada, Las Vegas"

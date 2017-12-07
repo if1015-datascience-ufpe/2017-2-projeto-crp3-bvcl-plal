@@ -1,16 +1,16 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Los Angeles Lakers,Brandon Bass,6-8,250,"April 30, 1985",10,Louisiana State University
-1,Los Angeles Lakers,Tarik Black,6-9,250,"November 22, 1991",1,University of Kansas
-2,Los Angeles Lakers,Anthony Brown,6-7,210,"October 10, 1992",0,Stanford University
-3,Los Angeles Lakers,Kobe Bryant,6-6,212,"August 23, 1978",19,
-4,Los Angeles Lakers,Jordan Clarkson,6-5,194,"June 7, 1992",1,University of Missouri
-5,Los Angeles Lakers,Roy Hibbert,7-2,270,"December 11, 1986",7,Georgetown University
-6,Los Angeles Lakers,Marcelo Huertas,6-3,200,"May 25, 1983",0,
-7,Los Angeles Lakers,Ryan Kelly,6-11,230,"April 9, 1991",2,Duke University
-8,Los Angeles Lakers,Larry Nance,6-9,230,"January 1, 1993",0,University of Wyoming
-9,Los Angeles Lakers,Julius Randle,6-9,250,"November 29, 1994",1,University of Kentucky
-10,Los Angeles Lakers,D'Angelo Russell,6-5,195,"February 23, 1996",0,Ohio State University
-11,Los Angeles Lakers,Robert Sacre,7-0,270,"June 6, 1989",3,Gonzaga University
-12,Los Angeles Lakers,Lou Williams,6-1,175,"October 27, 1986",10,
-13,Los Angeles Lakers,Metta World Peace,6-6,260,"November 13, 1979",15,St. John's University
-14,Los Angeles Lakers,Nick Young,6-7,210,"June 1, 1985",8,University of Southern California
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Los Angeles Lakers,2015-2016,Brandon Bass,6-8,250,"April 30, 1985",10,Louisiana State University
+1,Los Angeles Lakers,2015-2016,Tarik Black,6-9,250,"November 22, 1991",1,University of Kansas
+2,Los Angeles Lakers,2015-2016,Anthony Brown,6-7,210,"October 10, 1992",0,Stanford University
+3,Los Angeles Lakers,2015-2016,Kobe Bryant,6-6,212,"August 23, 1978",19,
+4,Los Angeles Lakers,2015-2016,Jordan Clarkson,6-5,194,"June 7, 1992",1,University of Missouri
+5,Los Angeles Lakers,2015-2016,Roy Hibbert,7-2,270,"December 11, 1986",7,Georgetown University
+6,Los Angeles Lakers,2015-2016,Marcelo Huertas,6-3,200,"May 25, 1983",0,
+7,Los Angeles Lakers,2015-2016,Ryan Kelly,6-11,230,"April 9, 1991",2,Duke University
+8,Los Angeles Lakers,2015-2016,Larry Nance,6-9,230,"January 1, 1993",0,University of Wyoming
+9,Los Angeles Lakers,2015-2016,Julius Randle,6-9,250,"November 29, 1994",1,University of Kentucky
+10,Los Angeles Lakers,2015-2016,D'Angelo Russell,6-5,195,"February 23, 1996",0,Ohio State University
+11,Los Angeles Lakers,2015-2016,Robert Sacre,7-0,270,"June 6, 1989",3,Gonzaga University
+12,Los Angeles Lakers,2015-2016,Lou Williams,6-1,175,"October 27, 1986",10,
+13,Los Angeles Lakers,2015-2016,Metta World Peace,6-6,260,"November 13, 1979",15,St. John's University
+14,Los Angeles Lakers,2015-2016,Nick Young,6-7,210,"June 1, 1985",8,University of Southern California

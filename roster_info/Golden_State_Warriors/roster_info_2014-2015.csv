@@ -1,16 +1,16 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Golden State Warriors,Leandro Barbosa,6-3,194,"November 28, 1982",11,
-1,Golden State Warriors,Harrison Barnes,6-8,210,"May 30, 1992",2,University of North Carolina
-2,Golden State Warriors,Andrew Bogut,7-0,260,"November 28, 1984",9,University of Utah
-3,Golden State Warriors,Stephen Curry,6-3,190,"March 14, 1988",5,Davidson College
-4,Golden State Warriors,Festus Ezeli,6-11,255,"October 21, 1989",1,Vanderbilt University
-5,Golden State Warriors,Draymond Green,6-7,230,"March 4, 1990",2,Michigan State University
-6,Golden State Warriors,Justin Holiday,6-6,185,"April 5, 1989",1,University of Washington
-7,Golden State Warriors,Andre Iguodala,6-6,215,"January 28, 1984",10,University of Arizona
-8,Golden State Warriors,Ognjen Kuzmic,7-1,251,"May 16, 1990",1,
-9,Golden State Warriors,David Lee,6-9,245,"April 29, 1983",9,University of Florida
-10,Golden State Warriors,Shaun Livingston,6-7,192,"September 11, 1985",9,
-11,Golden State Warriors,James Michael McAdoo,6-9,230,"January 4, 1993",0,University of North Carolina
-12,Golden State Warriors,Brandon Rush,6-6,220,"July 7, 1985",6,University of Kansas
-13,Golden State Warriors,Marreese Speights,6-10,255,"August 4, 1987",6,University of Florida
-14,Golden State Warriors,Klay Thompson,6-7,215,"February 8, 1990",3,Washington State University
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Golden State Warriors,2014-2015,Leandro Barbosa,6-3,194,"November 28, 1982",11,
+1,Golden State Warriors,2014-2015,Harrison Barnes,6-8,210,"May 30, 1992",2,University of North Carolina
+2,Golden State Warriors,2014-2015,Andrew Bogut,7-0,260,"November 28, 1984",9,University of Utah
+3,Golden State Warriors,2014-2015,Stephen Curry,6-3,190,"March 14, 1988",5,Davidson College
+4,Golden State Warriors,2014-2015,Festus Ezeli,6-11,255,"October 21, 1989",1,Vanderbilt University
+5,Golden State Warriors,2014-2015,Draymond Green,6-7,230,"March 4, 1990",2,Michigan State University
+6,Golden State Warriors,2014-2015,Justin Holiday,6-6,185,"April 5, 1989",1,University of Washington
+7,Golden State Warriors,2014-2015,Andre Iguodala,6-6,215,"January 28, 1984",10,University of Arizona
+8,Golden State Warriors,2014-2015,Ognjen Kuzmic,7-1,251,"May 16, 1990",1,
+9,Golden State Warriors,2014-2015,David Lee,6-9,245,"April 29, 1983",9,University of Florida
+10,Golden State Warriors,2014-2015,Shaun Livingston,6-7,192,"September 11, 1985",9,
+11,Golden State Warriors,2014-2015,James Michael McAdoo,6-9,230,"January 4, 1993",0,University of North Carolina
+12,Golden State Warriors,2014-2015,Brandon Rush,6-6,220,"July 7, 1985",6,University of Kansas
+13,Golden State Warriors,2014-2015,Marreese Speights,6-10,255,"August 4, 1987",6,University of Florida
+14,Golden State Warriors,2014-2015,Klay Thompson,6-7,215,"February 8, 1990",3,Washington State University

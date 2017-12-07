@@ -1,17 +1,17 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Washington Wizards,Marcin Gortat,6-11,240,"February 17, 1984",10,
-1,Washington Wizards,Markieff Morris,6-10,245,"September 2, 1989",6,University of Kansas
-2,Washington Wizards,John Wall,6-4,195,"September 6, 1990",7,University of Kentucky
-3,Washington Wizards,Kelly Oubre Jr.,6-7,205,"December 9, 1995",2,University of Kansas
-4,Washington Wizards,Chris McCullough,6-11,200,"February 5, 1995",2,Syracuse University
-5,Washington Wizards,Ian Mahinmi,6-11,250,"November 5, 1986",9,
-6,Washington Wizards,Jason Smith,7-0,245,"March 2, 1986",9,Colorado State University
-7,Washington Wizards,Tomas Satoransky,6-7,210,"October 30, 1991",1,
-8,Washington Wizards,Tim Frazier,6-1,170,"November 1, 1990",3,Pennsylvania State University
-9,Washington Wizards,Bradley Beal,6-5,207,"June 28, 1993",5,University of Florida
-10,Washington Wizards,Sheldon Mac,6-5,200,"December 21, 1992",1,University of Miami
-11,Washington Wizards,Otto Porter,6-8,198,"June 3, 1993",4,Georgetown University
-12,Washington Wizards,Mike Scott,6-8,237,"July 16, 1988",5,University of Virginia
-13,Washington Wizards,Jodie Meeks,6-4,210,"August 21, 1987",8,University of Kentucky
-14,Washington Wizards,Devin Robinson  (TW),6-8,190,"March 7, 1995",0,University of Florida
-15,Washington Wizards,Michael Young  (TW),6-9,235,"September 5, 1994",0,University of Pittsburgh
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Washington Wizards,2017-2018,Marcin Gortat,6-11,240,"February 17, 1984",10,
+1,Washington Wizards,2017-2018,Markieff Morris,6-10,245,"September 2, 1989",6,University of Kansas
+2,Washington Wizards,2017-2018,John Wall,6-4,195,"September 6, 1990",7,University of Kentucky
+3,Washington Wizards,2017-2018,Kelly Oubre Jr.,6-7,205,"December 9, 1995",2,University of Kansas
+4,Washington Wizards,2017-2018,Chris McCullough,6-11,200,"February 5, 1995",2,Syracuse University
+5,Washington Wizards,2017-2018,Ian Mahinmi,6-11,250,"November 5, 1986",9,
+6,Washington Wizards,2017-2018,Jason Smith,7-0,245,"March 2, 1986",9,Colorado State University
+7,Washington Wizards,2017-2018,Tomas Satoransky,6-7,210,"October 30, 1991",1,
+8,Washington Wizards,2017-2018,Tim Frazier,6-1,170,"November 1, 1990",3,Pennsylvania State University
+9,Washington Wizards,2017-2018,Bradley Beal,6-5,207,"June 28, 1993",5,University of Florida
+10,Washington Wizards,2017-2018,Sheldon Mac,6-5,200,"December 21, 1992",1,University of Miami
+11,Washington Wizards,2017-2018,Otto Porter,6-8,198,"June 3, 1993",4,Georgetown University
+12,Washington Wizards,2017-2018,Mike Scott,6-8,237,"July 16, 1988",5,University of Virginia
+13,Washington Wizards,2017-2018,Jodie Meeks,6-4,210,"August 21, 1987",8,University of Kentucky
+14,Washington Wizards,2017-2018,Devin Robinson  (TW),6-8,190,"March 7, 1995",0,University of Florida
+15,Washington Wizards,2017-2018,Michael Young  (TW),6-9,235,"September 5, 1994",0,University of Pittsburgh

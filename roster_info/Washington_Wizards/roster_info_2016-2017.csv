@@ -1,19 +1,19 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Washington Wizards,Bradley Beal,6-5,207,"June 28, 1993",4,University of Florida
-1,Washington Wizards,Bojan Bogdanovic,6-8,216,"April 18, 1989",2,
-2,Washington Wizards,Trey Burke,6-1,191,"November 12, 1992",3,University of Michigan
-3,Washington Wizards,Marcin Gortat,6-11,240,"February 17, 1984",9,
-4,Washington Wizards,Danuel House,6-7,207,"June 7, 1993",0,Texas A&M University
-5,Washington Wizards,Brandon Jennings,6-1,170,"September 23, 1989",7,
-6,Washington Wizards,Sheldon Mac,6-5,200,"December 21, 1992",0,University of Miami
-7,Washington Wizards,Ian Mahinmi,6-11,250,"November 5, 1986",8,
-8,Washington Wizards,Chris McCullough,6-11,200,"February 5, 1995",1,Syracuse University
-9,Washington Wizards,Markieff Morris,6-10,245,"September 2, 1989",5,University of Kansas
-10,Washington Wizards,Andrew Nicholson,6-9,250,"December 8, 1989",4,St. Bonaventure University
-11,Washington Wizards,Daniel Ochefu,6-11,245,"December 15, 1993",0,Villanova University
-12,Washington Wizards,Kelly Oubre,6-7,205,"December 9, 1995",1,University of Kansas
-13,Washington Wizards,Otto Porter,6-8,198,"June 3, 1993",3,Georgetown University
-14,Washington Wizards,Tomas Satoransky,6-7,210,"October 30, 1991",0,
-15,Washington Wizards,Jason Smith,7-0,245,"March 2, 1986",8,Colorado State University
-16,Washington Wizards,Marcus Thornton,6-4,205,"June 5, 1987",7,Louisiana State University
-17,Washington Wizards,John Wall,6-4,195,"September 6, 1990",6,University of Kentucky
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Washington Wizards,2016-2017,Bradley Beal,6-5,207,"June 28, 1993",4,University of Florida
+1,Washington Wizards,2016-2017,Bojan Bogdanovic,6-8,216,"April 18, 1989",2,
+2,Washington Wizards,2016-2017,Trey Burke,6-1,191,"November 12, 1992",3,University of Michigan
+3,Washington Wizards,2016-2017,Marcin Gortat,6-11,240,"February 17, 1984",9,
+4,Washington Wizards,2016-2017,Danuel House,6-7,207,"June 7, 1993",0,Texas A&M University
+5,Washington Wizards,2016-2017,Brandon Jennings,6-1,170,"September 23, 1989",7,
+6,Washington Wizards,2016-2017,Sheldon Mac,6-5,200,"December 21, 1992",0,University of Miami
+7,Washington Wizards,2016-2017,Ian Mahinmi,6-11,250,"November 5, 1986",8,
+8,Washington Wizards,2016-2017,Chris McCullough,6-11,200,"February 5, 1995",1,Syracuse University
+9,Washington Wizards,2016-2017,Markieff Morris,6-10,245,"September 2, 1989",5,University of Kansas
+10,Washington Wizards,2016-2017,Andrew Nicholson,6-9,250,"December 8, 1989",4,St. Bonaventure University
+11,Washington Wizards,2016-2017,Daniel Ochefu,6-11,245,"December 15, 1993",0,Villanova University
+12,Washington Wizards,2016-2017,Kelly Oubre,6-7,205,"December 9, 1995",1,University of Kansas
+13,Washington Wizards,2016-2017,Otto Porter,6-8,198,"June 3, 1993",3,Georgetown University
+14,Washington Wizards,2016-2017,Tomas Satoransky,6-7,210,"October 30, 1991",0,
+15,Washington Wizards,2016-2017,Jason Smith,7-0,245,"March 2, 1986",8,Colorado State University
+16,Washington Wizards,2016-2017,Marcus Thornton,6-4,205,"June 5, 1987",7,Louisiana State University
+17,Washington Wizards,2016-2017,John Wall,6-4,195,"September 6, 1990",6,University of Kentucky

@@ -1,18 +1,18 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Toronto Raptors,Bruno Caboclo,6-9,218,"September 21, 1995",2,
-1,Toronto Raptors,DeMarre Carroll,6-8,215,"July 27, 1986",7,University of Missouri
-2,Toronto Raptors,DeMar DeRozan,6-7,221,"August 7, 1989",7,University of Southern California
-3,Toronto Raptors,Serge Ibaka,6-10,235,"September 18, 1989",7,
-4,Toronto Raptors,Cory Joseph,6-3,193,"August 20, 1991",5,University of Texas at Austin
-5,Toronto Raptors,Kyle Lowry,6-0,205,"March 25, 1986",10,Villanova University
-6,Toronto Raptors,Lucas Nogueira,7-0,241,"July 26, 1992",2,
-7,Toronto Raptors,Patrick Patterson,6-9,230,"March 14, 1989",6,University of Kentucky
-8,Toronto Raptors,Jakob Poeltl,7-0,248,"October 15, 1995",0,University of Utah
-9,Toronto Raptors,Norman Powell,6-4,215,"May 25, 1993",1,"University of California, Los Angeles"
-10,Toronto Raptors,Terrence Ross,6-7,206,"February 5, 1991",4,University of Washington
-11,Toronto Raptors,Pascal Siakam,6-9,230,"February 4, 1994",0,New Mexico State University
-12,Toronto Raptors,Jared Sullinger,6-9,260,"March 4, 1992",4,Ohio State University
-13,Toronto Raptors,P.J. Tucker,6-6,245,"May 5, 1985",5,University of Texas at Austin
-14,Toronto Raptors,Jonas Valanciunas,7-0,265,"May 6, 1992",4,
-15,Toronto Raptors,Fred VanVleet,6-0,195,"February 25, 1994",0,Wichita State University
-16,Toronto Raptors,Delon Wright,6-5,183,"April 26, 1992",1,University of Utah
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Toronto Raptors,2016-2017,Bruno Caboclo,6-9,218,"September 21, 1995",2,
+1,Toronto Raptors,2016-2017,DeMarre Carroll,6-8,215,"July 27, 1986",7,University of Missouri
+2,Toronto Raptors,2016-2017,DeMar DeRozan,6-7,221,"August 7, 1989",7,University of Southern California
+3,Toronto Raptors,2016-2017,Serge Ibaka,6-10,235,"September 18, 1989",7,
+4,Toronto Raptors,2016-2017,Cory Joseph,6-3,193,"August 20, 1991",5,University of Texas at Austin
+5,Toronto Raptors,2016-2017,Kyle Lowry,6-0,205,"March 25, 1986",10,Villanova University
+6,Toronto Raptors,2016-2017,Lucas Nogueira,7-0,241,"July 26, 1992",2,
+7,Toronto Raptors,2016-2017,Patrick Patterson,6-9,230,"March 14, 1989",6,University of Kentucky
+8,Toronto Raptors,2016-2017,Jakob Poeltl,7-0,248,"October 15, 1995",0,University of Utah
+9,Toronto Raptors,2016-2017,Norman Powell,6-4,215,"May 25, 1993",1,"University of California, Los Angeles"
+10,Toronto Raptors,2016-2017,Terrence Ross,6-7,206,"February 5, 1991",4,University of Washington
+11,Toronto Raptors,2016-2017,Pascal Siakam,6-9,230,"February 4, 1994",0,New Mexico State University
+12,Toronto Raptors,2016-2017,Jared Sullinger,6-9,260,"March 4, 1992",4,Ohio State University
+13,Toronto Raptors,2016-2017,P.J. Tucker,6-6,245,"May 5, 1985",5,University of Texas at Austin
+14,Toronto Raptors,2016-2017,Jonas Valanciunas,7-0,265,"May 6, 1992",4,
+15,Toronto Raptors,2016-2017,Fred VanVleet,6-0,195,"February 25, 1994",0,Wichita State University
+16,Toronto Raptors,2016-2017,Delon Wright,6-5,183,"April 26, 1992",1,University of Utah

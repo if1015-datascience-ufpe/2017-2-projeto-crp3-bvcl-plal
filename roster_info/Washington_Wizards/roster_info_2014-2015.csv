@@ -1,19 +1,19 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Washington Wizards,Bradley Beal,6-5,207,"June 28, 1993",2,University of Florida
-1,Washington Wizards,DeJuan Blair,6-7,270,"April 22, 1989",5,University of Pittsburgh
-2,Washington Wizards,Rasual Butler,6-7,215,"May 23, 1979",11,La Salle University
-3,Washington Wizards,Will Bynum,6-0,185,"January 4, 1983",7,Georgia Institute of Technology
-4,Washington Wizards,Drew Gooden,6-10,250,"September 24, 1981",12,University of Kansas
-5,Washington Wizards,Marcin Gortat,6-11,240,"February 17, 1984",7,
-6,Washington Wizards,Nene Hilario,6-11,250,"September 13, 1982",12,
-7,Washington Wizards,Kris Humphries,6-9,235,"February 6, 1985",10,University of Minnesota
-8,Washington Wizards,Andre Miller,6-3,200,"March 19, 1976",15,University of Utah
-9,Washington Wizards,Toure' Murry,6-5,195,"November 8, 1989",1,Wichita State University
-10,Washington Wizards,Paul Pierce,6-7,235,"October 13, 1977",16,University of Kansas
-11,Washington Wizards,Otto Porter,6-8,198,"June 3, 1993",1,Georgetown University
-12,Washington Wizards,Glen Rice,6-6,206,"January 1, 1991",1,Georgia Institute of Technology
-13,Washington Wizards,Kevin Seraphin,6-9,285,"December 7, 1989",4,
-14,Washington Wizards,Ramon Sessions,6-3,190,"April 11, 1986",7,"University of Nevada, Reno"
-15,Washington Wizards,Garrett Temple,6-6,195,"May 8, 1986",4,Louisiana State University
-16,Washington Wizards,John Wall,6-4,195,"September 6, 1990",4,University of Kentucky
-17,Washington Wizards,Martell Webster,6-7,230,"December 4, 1986",9,
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Washington Wizards,2014-2015,Bradley Beal,6-5,207,"June 28, 1993",2,University of Florida
+1,Washington Wizards,2014-2015,DeJuan Blair,6-7,270,"April 22, 1989",5,University of Pittsburgh
+2,Washington Wizards,2014-2015,Rasual Butler,6-7,215,"May 23, 1979",11,La Salle University
+3,Washington Wizards,2014-2015,Will Bynum,6-0,185,"January 4, 1983",7,Georgia Institute of Technology
+4,Washington Wizards,2014-2015,Drew Gooden,6-10,250,"September 24, 1981",12,University of Kansas
+5,Washington Wizards,2014-2015,Marcin Gortat,6-11,240,"February 17, 1984",7,
+6,Washington Wizards,2014-2015,Nene Hilario,6-11,250,"September 13, 1982",12,
+7,Washington Wizards,2014-2015,Kris Humphries,6-9,235,"February 6, 1985",10,University of Minnesota
+8,Washington Wizards,2014-2015,Andre Miller,6-3,200,"March 19, 1976",15,University of Utah
+9,Washington Wizards,2014-2015,Toure' Murry,6-5,195,"November 8, 1989",1,Wichita State University
+10,Washington Wizards,2014-2015,Paul Pierce,6-7,235,"October 13, 1977",16,University of Kansas
+11,Washington Wizards,2014-2015,Otto Porter,6-8,198,"June 3, 1993",1,Georgetown University
+12,Washington Wizards,2014-2015,Glen Rice,6-6,206,"January 1, 1991",1,Georgia Institute of Technology
+13,Washington Wizards,2014-2015,Kevin Seraphin,6-9,285,"December 7, 1989",4,
+14,Washington Wizards,2014-2015,Ramon Sessions,6-3,190,"April 11, 1986",7,"University of Nevada, Reno"
+15,Washington Wizards,2014-2015,Garrett Temple,6-6,195,"May 8, 1986",4,Louisiana State University
+16,Washington Wizards,2014-2015,John Wall,6-4,195,"September 6, 1990",4,University of Kentucky
+17,Washington Wizards,2014-2015,Martell Webster,6-7,230,"December 4, 1986",9,

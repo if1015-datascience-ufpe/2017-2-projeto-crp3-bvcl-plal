@@ -1,17 +1,17 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Golden State Warriors,Leandro Barbosa,6-3,194,"November 28, 1982",12,
-1,Golden State Warriors,Harrison Barnes,6-8,210,"May 30, 1992",3,University of North Carolina
-2,Golden State Warriors,Andrew Bogut,7-0,260,"November 28, 1984",10,University of Utah
-3,Golden State Warriors,Ian Clark,6-3,175,"March 7, 1991",2,Belmont University
-4,Golden State Warriors,Stephen Curry,6-3,190,"March 14, 1988",6,Davidson College
-5,Golden State Warriors,Festus Ezeli,6-11,255,"October 21, 1989",2,Vanderbilt University
-6,Golden State Warriors,Draymond Green,6-7,230,"March 4, 1990",3,Michigan State University
-7,Golden State Warriors,Andre Iguodala,6-6,215,"January 28, 1984",11,University of Arizona
-8,Golden State Warriors,Shaun Livingston,6-7,192,"September 11, 1985",10,
-9,Golden State Warriors,Kevon Looney,6-9,220,"February 6, 1996",0,"University of California, Los Angeles"
-10,Golden State Warriors,James Michael McAdoo,6-9,230,"January 4, 1993",1,University of North Carolina
-11,Golden State Warriors,Brandon Rush,6-6,220,"July 7, 1985",7,University of Kansas
-12,Golden State Warriors,Marreese Speights,6-10,255,"August 4, 1987",7,University of Florida
-13,Golden State Warriors,Jason Thompson,6-11,250,"July 21, 1986",7,Rider University
-14,Golden State Warriors,Klay Thompson,6-7,215,"February 8, 1990",4,Washington State University
-15,Golden State Warriors,Anderson Varejao,6-10,273,"September 28, 1982",11,
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Golden State Warriors,2015-2016,Leandro Barbosa,6-3,194,"November 28, 1982",12,
+1,Golden State Warriors,2015-2016,Harrison Barnes,6-8,210,"May 30, 1992",3,University of North Carolina
+2,Golden State Warriors,2015-2016,Andrew Bogut,7-0,260,"November 28, 1984",10,University of Utah
+3,Golden State Warriors,2015-2016,Ian Clark,6-3,175,"March 7, 1991",2,Belmont University
+4,Golden State Warriors,2015-2016,Stephen Curry,6-3,190,"March 14, 1988",6,Davidson College
+5,Golden State Warriors,2015-2016,Festus Ezeli,6-11,255,"October 21, 1989",2,Vanderbilt University
+6,Golden State Warriors,2015-2016,Draymond Green,6-7,230,"March 4, 1990",3,Michigan State University
+7,Golden State Warriors,2015-2016,Andre Iguodala,6-6,215,"January 28, 1984",11,University of Arizona
+8,Golden State Warriors,2015-2016,Shaun Livingston,6-7,192,"September 11, 1985",10,
+9,Golden State Warriors,2015-2016,Kevon Looney,6-9,220,"February 6, 1996",0,"University of California, Los Angeles"
+10,Golden State Warriors,2015-2016,James Michael McAdoo,6-9,230,"January 4, 1993",1,University of North Carolina
+11,Golden State Warriors,2015-2016,Brandon Rush,6-6,220,"July 7, 1985",7,University of Kansas
+12,Golden State Warriors,2015-2016,Marreese Speights,6-10,255,"August 4, 1987",7,University of Florida
+13,Golden State Warriors,2015-2016,Jason Thompson,6-11,250,"July 21, 1986",7,Rider University
+14,Golden State Warriors,2015-2016,Klay Thompson,6-7,215,"February 8, 1990",4,Washington State University
+15,Golden State Warriors,2015-2016,Anderson Varejao,6-10,273,"September 28, 1982",11,

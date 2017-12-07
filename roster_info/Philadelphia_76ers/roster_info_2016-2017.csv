@@ -1,22 +1,22 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Philadelphia 76ers,Justin Anderson,6-6,228,"November 19, 1993",1,University of Virginia
-1,Philadelphia 76ers,Jerryd Bayless,6-3,200,"August 20, 1988",8,University of Arizona
-2,Philadelphia 76ers,Robert Covington,6-9,215,"December 14, 1990",3,Tennessee State University
-3,Philadelphia 76ers,Joel Embiid,7-0,250,"March 16, 1994",0,University of Kansas
-4,Philadelphia 76ers,Jerami Grant,6-8,210,"March 12, 1994",2,Syracuse University
-5,Philadelphia 76ers,Justin Harper,6-10,225,"August 30, 1989",2,University of Richmond
-6,Philadelphia 76ers,Gerald Henderson,6-5,215,"December 9, 1987",7,Duke University
-7,Philadelphia 76ers,Richaun Holmes,6-10,245,"October 15, 1993",1,Bowling Green State University
-8,Philadelphia 76ers,Ersan Ilyasova,6-10,235,"May 15, 1987",8,
-9,Philadelphia 76ers,Shawn Long,6-9,255,"January 29, 1993",0,University of Louisiana at Lafayette
-10,Philadelphia 76ers,Timothe Luwawu-Cabarrot,6-6,205,"May 9, 1995",0,
-11,Philadelphia 76ers,T.J. McConnell,6-2,200,"March 25, 1992",1,University of Arizona
-12,Philadelphia 76ers,Nerlens Noel,6-11,228,"April 10, 1994",2,University of Kentucky
-13,Philadelphia 76ers,Jahlil Okafor,6-11,275,"December 15, 1995",1,Duke University
-14,Philadelphia 76ers,Alex Poythress,6-7,238,"September 6, 1993",0,University of Kentucky
-15,Philadelphia 76ers,Chasson Randle,6-2,185,"February 5, 1993",0,Stanford University
-16,Philadelphia 76ers,Sergio Rodriguez,6-3,176,"June 12, 1986",4,
-17,Philadelphia 76ers,Dario Saric,6-10,223,"April 8, 1994",0,
-18,Philadelphia 76ers,Tiago Splitter,6-11,245,"January 1, 1985",6,
-19,Philadelphia 76ers,Nik Stauskas,6-6,205,"October 7, 1993",2,University of Michigan
-20,Philadelphia 76ers,Hollis Thompson,6-8,206,"April 3, 1991",3,Georgetown University
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Philadelphia 76ers,2016-2017,Justin Anderson,6-6,228,"November 19, 1993",1,University of Virginia
+1,Philadelphia 76ers,2016-2017,Jerryd Bayless,6-3,200,"August 20, 1988",8,University of Arizona
+2,Philadelphia 76ers,2016-2017,Robert Covington,6-9,215,"December 14, 1990",3,Tennessee State University
+3,Philadelphia 76ers,2016-2017,Joel Embiid,7-0,250,"March 16, 1994",0,University of Kansas
+4,Philadelphia 76ers,2016-2017,Jerami Grant,6-8,210,"March 12, 1994",2,Syracuse University
+5,Philadelphia 76ers,2016-2017,Justin Harper,6-10,225,"August 30, 1989",2,University of Richmond
+6,Philadelphia 76ers,2016-2017,Gerald Henderson,6-5,215,"December 9, 1987",7,Duke University
+7,Philadelphia 76ers,2016-2017,Richaun Holmes,6-10,245,"October 15, 1993",1,Bowling Green State University
+8,Philadelphia 76ers,2016-2017,Ersan Ilyasova,6-10,235,"May 15, 1987",8,
+9,Philadelphia 76ers,2016-2017,Shawn Long,6-9,255,"January 29, 1993",0,University of Louisiana at Lafayette
+10,Philadelphia 76ers,2016-2017,Timothe Luwawu-Cabarrot,6-6,205,"May 9, 1995",0,
+11,Philadelphia 76ers,2016-2017,T.J. McConnell,6-2,200,"March 25, 1992",1,University of Arizona
+12,Philadelphia 76ers,2016-2017,Nerlens Noel,6-11,228,"April 10, 1994",2,University of Kentucky
+13,Philadelphia 76ers,2016-2017,Jahlil Okafor,6-11,275,"December 15, 1995",1,Duke University
+14,Philadelphia 76ers,2016-2017,Alex Poythress,6-7,238,"September 6, 1993",0,University of Kentucky
+15,Philadelphia 76ers,2016-2017,Chasson Randle,6-2,185,"February 5, 1993",0,Stanford University
+16,Philadelphia 76ers,2016-2017,Sergio Rodriguez,6-3,176,"June 12, 1986",4,
+17,Philadelphia 76ers,2016-2017,Dario Saric,6-10,223,"April 8, 1994",0,
+18,Philadelphia 76ers,2016-2017,Tiago Splitter,6-11,245,"January 1, 1985",6,
+19,Philadelphia 76ers,2016-2017,Nik Stauskas,6-6,205,"October 7, 1993",2,University of Michigan
+20,Philadelphia 76ers,2016-2017,Hollis Thompson,6-8,206,"April 3, 1991",3,Georgetown University

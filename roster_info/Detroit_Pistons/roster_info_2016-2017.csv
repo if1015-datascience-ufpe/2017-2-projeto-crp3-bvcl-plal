@@ -1,16 +1,16 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Detroit Pistons,Aron Baynes,6-10,260,"December 9, 1986",4,Washington State University
-1,Detroit Pistons,Reggie Bullock,6-7,205,"March 16, 1991",3,University of North Carolina
-2,Detroit Pistons,Kentavious Caldwell-Pope,6-5,205,"February 18, 1993",3,University of Georgia
-3,Detroit Pistons,Andre Drummond,6-11,279,"August 10, 1993",4,University of Connecticut
-4,Detroit Pistons,Henry Ellenson,6-11,245,"January 13, 1997",0,Marquette University
-5,Detroit Pistons,Michael Gbinije,6-7,200,"June 5, 1992",0,Syracuse University
-6,Detroit Pistons,Tobias Harris,6-9,235,"July 15, 1992",5,University of Tennessee
-7,Detroit Pistons,Darrun Hilliard,6-6,205,"April 13, 1993",1,Villanova University
-8,Detroit Pistons,Reggie Jackson,6-3,208,"April 16, 1990",5,Boston College
-9,Detroit Pistons,Stanley Johnson,6-7,245,"May 29, 1996",1,University of Arizona
-10,Detroit Pistons,Jon Leuer,6-10,228,"May 14, 1989",5,University of Wisconsin
-11,Detroit Pistons,Boban Marjanovic,7-3,290,"August 15, 1988",1,
-12,Detroit Pistons,Marcus Morris,6-9,235,"September 2, 1989",5,University of Kansas
-13,Detroit Pistons,Ish Smith,6-0,175,"July 5, 1988",6,Wake Forest University
-14,Detroit Pistons,Beno Udrih,6-3,205,"July 5, 1982",12,
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Detroit Pistons,2016-2017,Aron Baynes,6-10,260,"December 9, 1986",4,Washington State University
+1,Detroit Pistons,2016-2017,Reggie Bullock,6-7,205,"March 16, 1991",3,University of North Carolina
+2,Detroit Pistons,2016-2017,Kentavious Caldwell-Pope,6-5,205,"February 18, 1993",3,University of Georgia
+3,Detroit Pistons,2016-2017,Andre Drummond,6-11,279,"August 10, 1993",4,University of Connecticut
+4,Detroit Pistons,2016-2017,Henry Ellenson,6-11,245,"January 13, 1997",0,Marquette University
+5,Detroit Pistons,2016-2017,Michael Gbinije,6-7,200,"June 5, 1992",0,Syracuse University
+6,Detroit Pistons,2016-2017,Tobias Harris,6-9,235,"July 15, 1992",5,University of Tennessee
+7,Detroit Pistons,2016-2017,Darrun Hilliard,6-6,205,"April 13, 1993",1,Villanova University
+8,Detroit Pistons,2016-2017,Reggie Jackson,6-3,208,"April 16, 1990",5,Boston College
+9,Detroit Pistons,2016-2017,Stanley Johnson,6-7,245,"May 29, 1996",1,University of Arizona
+10,Detroit Pistons,2016-2017,Jon Leuer,6-10,228,"May 14, 1989",5,University of Wisconsin
+11,Detroit Pistons,2016-2017,Boban Marjanovic,7-3,290,"August 15, 1988",1,
+12,Detroit Pistons,2016-2017,Marcus Morris,6-9,235,"September 2, 1989",5,University of Kansas
+13,Detroit Pistons,2016-2017,Ish Smith,6-0,175,"July 5, 1988",6,Wake Forest University
+14,Detroit Pistons,2016-2017,Beno Udrih,6-3,205,"July 5, 1982",12,

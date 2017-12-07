@@ -1,16 +1,16 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Minnesota Timberwolves,Gorgui Dieng,6-11,241,"January 18, 1990",4,University of Louisville
-1,Minnesota Timberwolves,Andrew Wiggins,6-8,199,"February 23, 1995",3,University of Kansas
-2,Minnesota Timberwolves,Karl-Anthony Towns,7-0,244,"November 15, 1995",2,University of Kentucky
-3,Minnesota Timberwolves,Tyus Jones,6-2,195,"May 10, 1996",2,Duke University
-4,Minnesota Timberwolves,Jimmy Butler,6-8,236,"September 14, 1989",6,Marquette University
-5,Minnesota Timberwolves,Nemanja Bjelica,6-10,240,"May 9, 1988",2,
-6,Minnesota Timberwolves,Cole Aldrich,6-11,250,"October 31, 1988",7,University of Kansas
-7,Minnesota Timberwolves,Justin Patton,6-11,229,"June 14, 1997",0,Creighton University
-8,Minnesota Timberwolves,Jeff Teague,6-2,186,"June 10, 1988",8,Wake Forest University
-9,Minnesota Timberwolves,Taj Gibson,6-9,225,"June 24, 1985",8,University of Southern California
-10,Minnesota Timberwolves,Jamal Crawford,6-5,200,"March 20, 1980",17,University of Michigan
-11,Minnesota Timberwolves,Marcus Georges-Hunt,6-5,216,"March 28, 1994",1,Georgia Institute of Technology
-12,Minnesota Timberwolves,Shabazz Muhammad,6-6,223,"November 13, 1992",4,"University of California, Los Angeles"
-13,Minnesota Timberwolves,Aaron Brooks,6-0,161,"January 14, 1985",9,University of Oregon
-14,Minnesota Timberwolves,Anthony Brown  (TW),6-7,210,"October 10, 1992",2,Stanford University
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Minnesota Timberwolves,2017-2018,Gorgui Dieng,6-11,241,"January 18, 1990",4,University of Louisville
+1,Minnesota Timberwolves,2017-2018,Andrew Wiggins,6-8,199,"February 23, 1995",3,University of Kansas
+2,Minnesota Timberwolves,2017-2018,Karl-Anthony Towns,7-0,244,"November 15, 1995",2,University of Kentucky
+3,Minnesota Timberwolves,2017-2018,Tyus Jones,6-2,195,"May 10, 1996",2,Duke University
+4,Minnesota Timberwolves,2017-2018,Jimmy Butler,6-8,236,"September 14, 1989",6,Marquette University
+5,Minnesota Timberwolves,2017-2018,Nemanja Bjelica,6-10,240,"May 9, 1988",2,
+6,Minnesota Timberwolves,2017-2018,Cole Aldrich,6-11,250,"October 31, 1988",7,University of Kansas
+7,Minnesota Timberwolves,2017-2018,Justin Patton,6-11,229,"June 14, 1997",0,Creighton University
+8,Minnesota Timberwolves,2017-2018,Jeff Teague,6-2,186,"June 10, 1988",8,Wake Forest University
+9,Minnesota Timberwolves,2017-2018,Taj Gibson,6-9,225,"June 24, 1985",8,University of Southern California
+10,Minnesota Timberwolves,2017-2018,Jamal Crawford,6-5,200,"March 20, 1980",17,University of Michigan
+11,Minnesota Timberwolves,2017-2018,Marcus Georges-Hunt,6-5,216,"March 28, 1994",1,Georgia Institute of Technology
+12,Minnesota Timberwolves,2017-2018,Shabazz Muhammad,6-6,223,"November 13, 1992",4,"University of California, Los Angeles"
+13,Minnesota Timberwolves,2017-2018,Aaron Brooks,6-0,161,"January 14, 1985",9,University of Oregon
+14,Minnesota Timberwolves,2017-2018,Anthony Brown  (TW),6-7,210,"October 10, 1992",2,Stanford University

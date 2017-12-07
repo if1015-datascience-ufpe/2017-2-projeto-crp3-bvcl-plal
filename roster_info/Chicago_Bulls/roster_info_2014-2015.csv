@@ -1,15 +1,15 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Chicago Bulls,Cameron Bairstow,6-9,250,"December 7, 1990",0,University of New Mexico
-1,Chicago Bulls,Aaron Brooks,6-0,161,"January 14, 1985",6,University of Oregon
-2,Chicago Bulls,Jimmy Butler,6-8,236,"September 14, 1989",3,Marquette University
-3,Chicago Bulls,Mike Dunleavy,6-9,230,"September 15, 1980",12,Duke University
-4,Chicago Bulls,Pau Gasol,7-0,250,"July 6, 1980",13,
-5,Chicago Bulls,Taj Gibson,6-9,225,"June 24, 1985",5,University of Southern California
-6,Chicago Bulls,Kirk Hinrich,6-4,190,"January 2, 1981",11,University of Kansas
-7,Chicago Bulls,Doug McDermott,6-8,225,"January 3, 1992",0,Creighton University
-8,Chicago Bulls,Nikola Mirotic,6-10,220,"February 11, 1991",0,
-9,Chicago Bulls,Nazr Mohammed,6-10,221,"September 5, 1977",16,University of Kentucky
-10,Chicago Bulls,E'Twaun Moore,6-4,191,"February 28, 1989",3,Purdue University
-11,Chicago Bulls,Joakim Noah,6-11,230,"February 25, 1985",7,University of Florida
-12,Chicago Bulls,Derrick Rose,6-3,190,"October 4, 1988",5,University of Memphis
-13,Chicago Bulls,Tony Snell,6-7,200,"November 10, 1991",1,University of New Mexico
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Chicago Bulls,2014-2015,Cameron Bairstow,6-9,250,"December 7, 1990",0,University of New Mexico
+1,Chicago Bulls,2014-2015,Aaron Brooks,6-0,161,"January 14, 1985",6,University of Oregon
+2,Chicago Bulls,2014-2015,Jimmy Butler,6-8,236,"September 14, 1989",3,Marquette University
+3,Chicago Bulls,2014-2015,Mike Dunleavy,6-9,230,"September 15, 1980",12,Duke University
+4,Chicago Bulls,2014-2015,Pau Gasol,7-0,250,"July 6, 1980",13,
+5,Chicago Bulls,2014-2015,Taj Gibson,6-9,225,"June 24, 1985",5,University of Southern California
+6,Chicago Bulls,2014-2015,Kirk Hinrich,6-4,190,"January 2, 1981",11,University of Kansas
+7,Chicago Bulls,2014-2015,Doug McDermott,6-8,225,"January 3, 1992",0,Creighton University
+8,Chicago Bulls,2014-2015,Nikola Mirotic,6-10,220,"February 11, 1991",0,
+9,Chicago Bulls,2014-2015,Nazr Mohammed,6-10,221,"September 5, 1977",16,University of Kentucky
+10,Chicago Bulls,2014-2015,E'Twaun Moore,6-4,191,"February 28, 1989",3,Purdue University
+11,Chicago Bulls,2014-2015,Joakim Noah,6-11,230,"February 25, 1985",7,University of Florida
+12,Chicago Bulls,2014-2015,Derrick Rose,6-3,190,"October 4, 1988",5,University of Memphis
+13,Chicago Bulls,2014-2015,Tony Snell,6-7,200,"November 10, 1991",1,University of New Mexico

@@ -1,18 +1,18 @@
-,Team,Name,Height,Weight,Birthdate,Experience,College
-0,Philadelphia 76ers,Nik Stauskas,6-6,205,"October 7, 1993",3,University of Michigan
-1,Philadelphia 76ers,Joel Embiid,7-0,250,"March 16, 1994",1,University of Kansas
-2,Philadelphia 76ers,Robert Covington,6-9,215,"December 14, 1990",4,Tennessee State University
-3,Philadelphia 76ers,Jahlil Okafor,6-11,275,"December 15, 1995",2,Duke University
-4,Philadelphia 76ers,Justin Anderson,6-6,228,"November 19, 1993",2,University of Virginia
-5,Philadelphia 76ers,Richaun Holmes,6-10,245,"October 15, 1993",2,Bowling Green State University
-6,Philadelphia 76ers,Ben Simmons,6-10,230,"July 20, 1996",0,Louisiana State University
-7,Philadelphia 76ers,Timothe Luwawu-Cabarrot,6-6,205,"May 9, 1995",1,
-8,Philadelphia 76ers,Dario Saric,6-10,223,"April 8, 1994",1,
-9,Philadelphia 76ers,Jerryd Bayless,6-3,200,"August 20, 1988",9,University of Arizona
-10,Philadelphia 76ers,T.J. McConnell,6-2,200,"March 25, 1992",2,University of Arizona
-11,Philadelphia 76ers,Furkan Korkmaz,6-7,185,"July 24, 1997",0,
-12,Philadelphia 76ers,Amir Johnson,6-9,240,"May 1, 1987",12,
-13,Philadelphia 76ers,J.J. Redick,6-4,190,"June 24, 1984",11,Duke University
-14,Philadelphia 76ers,Markelle Fultz,6-4,195,"May 29, 1998",0,University of Washington
-15,Philadelphia 76ers,Jacob Pullen  (TW),6-1,200,"November 10, 1989",0,Kansas State University
-16,Philadelphia 76ers,James Michael McAdoo  (TW),6-9,230,"January 4, 1993",3,University of North Carolina
+,Team,Season,Name,Height,Weight,Birthdate,Experience,College
+0,Philadelphia 76ers,2017-2018,Nik Stauskas,6-6,205,"October 7, 1993",3,University of Michigan
+1,Philadelphia 76ers,2017-2018,Joel Embiid,7-0,250,"March 16, 1994",1,University of Kansas
+2,Philadelphia 76ers,2017-2018,Robert Covington,6-9,215,"December 14, 1990",4,Tennessee State University
+3,Philadelphia 76ers,2017-2018,Jahlil Okafor,6-11,275,"December 15, 1995",2,Duke University
+4,Philadelphia 76ers,2017-2018,Justin Anderson,6-6,228,"November 19, 1993",2,University of Virginia
+5,Philadelphia 76ers,2017-2018,Richaun Holmes,6-10,245,"October 15, 1993",2,Bowling Green State University
+6,Philadelphia 76ers,2017-2018,Ben Simmons,6-10,230,"July 20, 1996",0,Louisiana State University
+7,Philadelphia 76ers,2017-2018,Timothe Luwawu-Cabarrot,6-6,205,"May 9, 1995",1,
+8,Philadelphia 76ers,2017-2018,Dario Saric,6-10,223,"April 8, 1994",1,
+9,Philadelphia 76ers,2017-2018,Jerryd Bayless,6-3,200,"August 20, 1988",9,University of Arizona
+10,Philadelphia 76ers,2017-2018,T.J. McConnell,6-2,200,"March 25, 1992",2,University of Arizona
+11,Philadelphia 76ers,2017-2018,Furkan Korkmaz,6-7,185,"July 24, 1997",0,
+12,Philadelphia 76ers,2017-2018,Amir Johnson,6-9,240,"May 1, 1987",12,
+13,Philadelphia 76ers,2017-2018,J.J. Redick,6-4,190,"June 24, 1984",11,Duke University
+14,Philadelphia 76ers,2017-2018,Markelle Fultz,6-4,195,"May 29, 1998",0,University of Washington
+15,Philadelphia 76ers,2017-2018,Jacob Pullen  (TW),6-1,200,"November 10, 1989",0,Kansas State University
+16,Philadelphia 76ers,2017-2018,James Michael McAdoo  (TW),6-9,230,"January 4, 1993",3,University of North Carolina
